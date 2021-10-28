@@ -1,0 +1,1116 @@
+/* 1 */
+{
+    "_id" : ObjectId("60192f44b79247964bb62ecd"),
+    "recommendations" : [ 
+        {
+            "The paper published by you" : "RahimehRouhi, MehdiJafari, ShohrehKasaei, PeimanKeshavarzian, \"Benign and malignant breast tumors classification based on region growing and CNN segmentation\", Expert Systems with Applications, Volume 42, Issue 3, 15 February 2015, Pages 990-1002, https://doi.org/10.1016/j.eswa.2014.09.020",
+            "Suggested papers published in AJEE" : "Moallemi, P., Behnampourii, M., (2010). Adaptive Optimum Notch Filter for Periodic Noise Reduction in Digital Images, 42(1), pp. 1-7. doi: 10.22060/eej.2010.94",
+            "Common keywords" : [ 
+                "Region growing"
+            ]
+        }, 
+        {
+            "The paper published by you" : "Ahmad Ali Abin, Mehran Fotouhi, Shohreh Kasaei, \"Skin segmentation based on cellular learning automata\", MoMM '08: Proceedings of the 6th International Conference on Advances in Mobile Computing and Multimedia, November 2008  , https://doi.org/10.1145/1497185.1497238",
+            "Suggested papers published in AJEE" : "Farzaneh Bahalgardi, N., Yaghmaee, M., Adjeroh, D., (2012). An Adaptive Congestion Alleviating Protocol for Healthcare Applications in Wireless Body Sensor Networks: Learning Automata Approach, 44(1), pp. 31-41. doi: 10.22060/eej.2012.38",
+            "Common references" : [ 
+                "Narendra, K.S., Thathachar, M.A., (1989). Learning Automaton: An Introduction, Prentice Hall"
+            ]
+        }, 
+        {
+            "The paper published by you" : "RahimehRouhi, MehdiJafari, ShohrehKasaei, PeimanKeshavarzian, \"Benign and malignant breast tumors classification based on region growing and CNN segmentation\", Expert Systems with Applications, Volume 42, Issue 3, 15 February 2015, Pages 990-1002, https://doi.org/10.1016/j.eswa.2014.09.020",
+            "Suggested papers published in AJEE" : "Khanteymoori, R., Homayounpour, M., Menhaj, M., (2012).  Structure Learning in Bayesian Networks Using Asexual Reproduction Optimization, 44(1), pp. 43-53. doi: 10.22060/eej.2012.40",
+            "Common keywords" : [ 
+                "Genetic algorithm"
+            ]
+        }, 
+        {
+            "The paper published by you" : "RahimehRouhi, MehdiJafari, ShohrehKasaei, PeimanKeshavarzian, \"Benign and malignant breast tumors classification based on region growing and CNN segmentation\", Expert Systems with Applications, Volume 42, Issue 3, 15 February 2015, Pages 990-1002, https://doi.org/10.1016/j.eswa.2014.09.020",
+            "Suggested papers published in AJEE" : "AlyanNezhadi, M., Zare, F., Hassanpour, H., (2018). Grid Impedance Estimation Using Several Short-Term Low Power Signal Injections, 50(2), pp. 169-176. doi: 10.22060/eej.2017.12501.5091",
+            "Common keywords" : [ 
+                "Genetic algorithm"
+            ]
+        }
+    ],
+    "user_id" : "mvx4PvgAAAAJ"
+}
+
+/* 2 */
+{
+    "_id" : ObjectId("6018577591491c8d409378be"),
+    "user_id" : "qMmvqUwAAAAJ",
+    "recommendations" : [ 
+        {
+            "The paper published by you" : "M. S. Zamani, M. Taajobian and M. Saeedi, \"An Efficient Non-Tree Clock Routing Algorithm for Reducing Delay Uncertainty,\" 2008 11th EUROMICRO Conference on Digital System Design Architectures, Methods and Tools, Parma, 2008, pp. 558-565, doi: 10.1109/DSD.2008.72.",
+            "Suggested papers published in AJEE" : "Faiz, J., Takbash, A., Mazaheri-Tehrani, E., (2017). A Review of Application of Signal Processing Techniques for Fault Diagnosis of Induction Motors – Part I, 49(2), pp. 109-122. doi: 10.22060/eej.2017.13219.5142",
+            "Common keywords" : [ 
+                "Signal processing"
+            ]
+        }, 
+        {
+            "The paper published by you" : "FarhadMehdipou, Morteza SahebZaman, MehdiSedigh, \"An integrated temporal partitioning and physical design framework for static compilation of reconfigurable computing systems\", Microprocessors and Microsystems, Volume 30, Issue 1, 1 February 2006, Pages 52-62, https://doi.org/10.1016/j.micpro.2005.03.002",
+            "Suggested papers published in AJEE" : "Zangeneh, V., Mohammadi, S., (2012). Multipath Node-Disjoint Routing with Backup List Based on the AODV Protocol, 44(1), pp. 25-31. doi: 10.22060/eej.2012.37",
+            "Common keywords" : [ 
+                "Routing"
+            ]
+        }, 
+        {
+            "The paper published by you" : "A. Jahanian and M. S. Zamani, \"Performance and Timing Yield Enhancement using Highway-on-Chip Planning,\" 2008 11th EUROMICRO Conference on Digital System Design Architectures, Methods and Tools, Parma, 2008, pp. 165-172, doi: 10.1109/DSD.2008.116.",
+            "Suggested papers published in AJEE" : "Zibaeifardi, M., Rahmatiii, M., (2009). A Novel Subsampling Method for 3D Multimodality Medical Image Registration Based on Mutual Information, 41(1), pp. 11-19. doi: 10.22060/eej.2009.273",
+            "Common keywords" : [ 
+                "Simulated annealing"
+            ]
+        }, 
+        {
+            "The paper published by you" : "M. S. Zamani, M. Taajobian and M. Saeedi, \"An Efficient Non-Tree Clock Routing Algorithm for Reducing Delay Uncertainty,\" 2008 11th EUROMICRO Conference on Digital System Design Architectures, Methods and Tools, Parma, 2008, pp. 558-565, doi: 10.1109/DSD.2008.72.",
+            "Suggested papers published in AJEE" : "Alimardani, A., Jadid, S., (2019). Optimum scheduling of the HRES for an isolated rural city in Iran, 51(1), pp. 13-20. doi: 10.22060/eej.2019.13946.5197",
+            "Common keywords" : [ 
+                "Uncertainty"
+            ]
+        }, 
+        {
+            "The paper published by you" : "M. S. Zamani, F. Mehdipour and M. R. Meybodi, \"Implementation of cellular learning automata on reconfigurable computing systems,\" CCECE 2003 - Canadian Conference on Electrical and Computer Engineering. Toward a Caring and Humane Technology (Cat. No.03CH37436), Montreal, Quebec, Canada, 2003, pp. 1139-1142 vol.2, doi: 10.1109/CCECE.2003.1226098.",
+            "Suggested papers published in AJEE" : "Farzaneh Bahalgardi, N., Yaghmaee, M., Adjeroh, D., (2012). An Adaptive Congestion Alleviating Protocol for Healthcare Applications in Wireless Body Sensor Networks: Learning Automata Approach, 44(1), pp. 31-41. doi: 10.22060/eej.2012.38",
+            "Common references" : [ 
+                "Narendra, K.S., Thathachar, M.A., (1989). Learning Automaton: An Introduction, Prentice Hall"
+            ]
+        }, 
+        {
+            "The paper published by you" : "M. S. Zamani, F. Mehdipour and M. R. Meybodi, \"Implementation of cellular learning automata on reconfigurable computing systems,\" CCECE 2003 - Canadian Conference on Electrical and Computer Engineering. Toward a Caring and Humane Technology (Cat. No.03CH37436), Montreal, Quebec, Canada, 2003, pp. 1139-1142 vol.2, doi: 10.1109/CCECE.2003.1226098.",
+            "Suggested papers published in AJEE" : "Farzaneh Bahalgardi, N., Yaghmaee, M., Adjeroh, D., (2012). An Adaptive Congestion Alleviating Protocol for Healthcare Applications in Wireless Body Sensor Networks: Learning Automata Approach, 44(1), pp. 31-41. doi: 10.22060/eej.2012.38",
+            "Common keywords" : [ 
+                "Learning automata"
+            ]
+        }, 
+        {
+            "The paper published by you" : "M. Aminian, M. Saeedi, M. S. Zamani and M. Sedighi, \"FPGA-Based Circuit Model Emulation of Quantum Algorithms,\" 2008 IEEE Computer Society Annual Symposium on VLSI, Montpellier, 2008, pp. 399-404, doi: 10.1109/ISVLSI.2008.43.",
+            "Suggested papers published in AJEE" : "Ojaghi, M., Sabouri, M., (2012). Magnetic Saturation Impacts on Fault Analysis of Squirrel-Cage Induction Motors using Winding Function Approach, 44(2), pp. 21-31. doi: 10.22060/eej.2012.359",
+            "Common keywords" : [ 
+                "Computer simulation"
+            ]
+        }, 
+        {
+            "The paper published by you" : "A. Mehdizadeh, M. S. Zamani and H. Shafiei, \"An Efficient Method to Estimate Crosstalk after Placement Incorporating a Reduction Scheme,\" 2008 IEEE Computer Society Annual Symposium on VLSI, Montpellier, 2008, pp. 233-238, doi: 10.1109/ISVLSI.2008.78.",
+            "Suggested papers published in AJEE" : "Mardanehi, M., Mirsalimii, M., (2009). Development of an Analytic Model for Flux Switching Motors, 41(1), pp. 21-29. doi: 10.22060/eej.2009.274",
+            "Common keywords" : [ 
+                "Analytical models"
+            ]
+        }, 
+        {
+            "The paper published by you" : "A. Mehdizadeh, M. S. Zamani and H. Shafiei, \"An Efficient Method to Estimate Crosstalk after Placement Incorporating a Reduction Scheme,\" 2008 IEEE Computer Society Annual Symposium on VLSI, Montpellier, 2008, pp. 233-238, doi: 10.1109/ISVLSI.2008.78.",
+            "Suggested papers published in AJEE" : "Azimi, S., Veisi, H., Rahmani, R., (2015). Automatic Discovery of Technology Networks for Industrial-Scale R&D IT Projects via Data Mining, 47(1), pp. 17-22. doi: 10.22060/eej.2015.517",
+            "Common keywords" : [ 
+                "Data mining"
+            ]
+        }, 
+        {
+            "The paper published by you" : "Hamid Reza Kheirabadi, Morteza Saheb Zamani, \"An efficient net ordering algorithm for buffer insertion\", GLSVLSI '07: Proceedings of the 17th ACM Great Lakes symposium on VLSI, March 2007  , https://doi.org/10.1145/1228784.1228908",
+            "Suggested papers published in AJEE" : "Khanteymoori, R., Homayounpour, M., Menhaj, M., (2012).  Structure Learning in Bayesian Networks Using Asexual Reproduction Optimization, 44(1), pp. 43-53. doi: 10.22060/eej.2012.40",
+            "Common references" : [ 
+                "Mitchel, M., (1999). An Introduction To Genetic Algorithms, MIT Press"
+            ]
+        }, 
+        {
+            "The paper published by you" : "A. Hariri, R. Rastegar, K. Navi, M. S. Zamani and M. R. Meybodi, \"Cellular learning automata based evolutionary computing (CLA-EC) for intrinsic hardware evolution,\" 2005 NASA/DoD Conference on Evolvable Hardware (EH'05), Washington, DC, USA, 2005, pp. 294-297, doi: 10.1109/EH.2005.12.",
+            "Suggested papers published in AJEE" : "Khanteymoori, R., Homayounpour, M., Menhaj, M., (2012).  Structure Learning in Bayesian Networks Using Asexual Reproduction Optimization, 44(1), pp. 43-53. doi: 10.22060/eej.2012.40",
+            "Common keywords" : [ 
+                "Genetic algorithms"
+            ]
+        }, 
+        {
+            "The paper published by you" : "S. H. Moallempour, S. A. Razavi and M. S. Zamani, \"TSV reduction in homogeneous 3D FPGAs by logic resource and input pad replication,\" 2011 IEEE International 3D Systems Integration Conference (3DIC), 2011 IEEE International, Osaka, 2012, pp. 1-5, doi: 10.1109/3DIC.2012.6263033.",
+            "Suggested papers published in AJEE" : "Safari, L., Azhari, S., (2011). A Low Power Low Voltage Rail to Rail Constant gm Differential Amplifier with 150 dB CMRR and Enhanced Frequency Performance, 43(1), pp. 35-44. doi: 10.22060/eej.2011.86",
+            "Common references" : [ 
+                " International Technology Roadmap For Semiconductors"
+            ]
+        }, 
+        {
+            "The paper published by you" : "E. Ebrahimi, S. Shiry Ghidary and M. Saheb Zamani, \"Fast FPGA-based method for Matsuoka parameters tuning,\" 2016 2nd International Conference of Signal Processing and Intelligent Systems (ICSPIS), Tehran, 2016, pp. 1-5, doi: 10.1109/ICSPIS.2016.7869879.",
+            "Suggested papers published in AJEE" : "Tofangdarzade, A., Jalali, A., (2015). The Transient Behavior of LC and Ring Oscillators under External Frequency Injection, 46(2), pp. 35-45. doi: 10.22060/eej.2015.512",
+            "Common keywords" : [ 
+                "Oscillators"
+            ]
+        }, 
+        {
+            "The paper published by you" : "M. S. Zamani, M. Taajobian and M. Saeedi, \"An Efficient Non-Tree Clock Routing Algorithm for Reducing Delay Uncertainty,\" 2008 11th EUROMICRO Conference on Digital System Design Architectures, Methods and Tools, Parma, 2008, pp. 558-565, doi: 10.1109/DSD.2008.72.",
+            "Suggested papers published in AJEE" : "nikmehr, n., Najafi Ravadanegh, S., (2016). Analysis of Reliability Indices in Next Generation Microgrids Under Uncertainties of Load and Renewable Power Production, 48(1), pp. 41-51. doi: 10.22060/eej.2016.630",
+            "Common keywords" : [ 
+                "Uncertainty"
+            ]
+        }, 
+        {
+            "The paper published by you" : "A. Hariri, R. Rastegar, K. Navi, M. S. Zamani and M. R. Meybodi, \"Cellular learning automata based evolutionary computing (CLA-EC) for intrinsic hardware evolution,\" 2005 NASA/DoD Conference on Evolvable Hardware (EH'05), Washington, DC, USA, 2005, pp. 294-297, doi: 10.1109/EH.2005.12.",
+            "Suggested papers published in AJEE" : "Akbari, R., Zeighami, V., Ziarati, K., Akbari, I., (2012). Development of an Efficient Hybrid Method for Motif Discovery in DNA Sequences, 44(1), pp. 63-75. doi: 10.22060/eej.2012.42",
+            "Common keywords" : [ 
+                "Particle swarm optimization"
+            ]
+        }, 
+        {
+            "The paper published by you" : "Seyyed Ahmad Razavi, Morteza Saheb Zamani, \"Improving bitstream compression by modifying FPGA architecture\", FPGA '13: Proceedings of the ACM/SIGDA international symposium on Field programmable gate arrays, February 2013  , https://doi.org/10.1145/2435264.2435294",
+            "Suggested papers published in AJEE" : "Mehdizadehi, S., Najarianii, S., Farmanzadiii, F., Khoshgoftariv, M., (2010). Biomechanical Analysis of CNS Gray Matter in Tension and Compression, 42(1), pp. 45-50. doi: 10.22060/eej.2010.105",
+            "Common keywords" : [ 
+                "compression"
+            ]
+        }, 
+        {
+            "The paper published by you" : "MehdiSaeed, MehdiSedigh, MortezaSaheb Zaman, \"A library-based synthesis methodology for reversible logic\", Microelectronics Journal, Volume 41, Issue 4, April 2010, Pages 185-194, https://doi.org/10.1016/j.mejo.2010.02.002",
+            "Suggested papers published in AJEE" : "Mohammadi Ardehali, M., Ardehali, M., (2017). Optimization of Mixed-Integer Non-Linear Electricity Generation Expansion Planning Problem Based on Newly Improved Gravitational Search Algorithm, 49(2), pp. 161-172. doi: 10.22060/eej.2017.12123.5041",
+            "Common keywords" : [ 
+                "Optimization"
+            ]
+        }, 
+        {
+            "The paper published by you" : "H. R. Kheirabadi, M. S. Zamani and M. Saeedi, \"An Efficient Analytical Approach to Path-Based Buffer Insertion,\" IEEE Computer Society Annual Symposium on VLSI (ISVLSI '07), Porto Alegre, 2007, pp. 219-224, doi: 10.1109/ISVLSI.2007.23.",
+            "Suggested papers published in AJEE" : "Yeganeh, H., Salahi, A., Pourmina, M., (2018). Reduction of Energy Consumption in Mobile Cloud Computing by ‎Classification of Demands and Executing in Different Data Centers, 50(1), pp. 59-66. doi: 10.22060/eej.2017.13284.5150",
+            "Common keywords" : [ 
+                "Energy consumption"
+            ]
+        }, 
+        {
+            "The paper published by you" : "A. Hariri, R. Rastegar, K. Navi, M. S. Zamani and M. R. Meybodi, \"Cellular learning automata based evolutionary computing (CLA-EC) for intrinsic hardware evolution,\" 2005 NASA/DoD Conference on Evolvable Hardware (EH'05), Washington, DC, USA, 2005, pp. 294-297, doi: 10.1109/EH.2005.12.",
+            "Suggested papers published in AJEE" : "Khorsand, F., Shahnazi, R., Fallah Choolabi, E., (2019). A Thorough Comparative Analysis of PI and Sliding Mode Controllers in Permanent Magnet Synchronous Motor Drive Based on Optimization Algorithms, 51(2), pp. 8-8. doi: 10.22060/eej.2019.16219.5278",
+            "Common keywords" : [ 
+                "Particle swarm optimization"
+            ]
+        }, 
+        {
+            "The paper published by you" : "EesaNikah, MahboobehHoushman, MortezaSaheb Zaman, MehdiSedigh, \"One-way quantum computer simulation\", Microprocessors and Microsystems, Volume 39, Issue 3, May 2015, Pages 210-222, https://doi.org/10.1016/j.micpro.2015.02.007",
+            "Suggested papers published in AJEE" : "نصیری, پ., Saviz, M., حلمی کهنه شهری, م., pourhosein, M., Divani, R., (2017). Measurement and Computational Modeling of Radio-Frequency Electromagnetic Power Density Around GSM Base Transceiver Station Antennas, 49(2), pp. 179-186. doi: 10.22060/eej.2017.12018.5026",
+            "Common keywords" : [ 
+                "Simulation"
+            ]
+        }, 
+        {
+            "The paper published by you" : "Mahboobeh Houshmand, Mehdi Sedighi, Morteza Saheb Zamani, Kourosh Marjoei, \"Quantum Circuit Synthesis Targeting to Improve One-Way Quantum Computation Pattern Cost Metrics\", ACM Journal on Emerging Technologies in Computing Systems, May 2017  , https://doi.org/10.1145/3064834",
+            "Suggested papers published in AJEE" : "Zolfaghari Moghaddam, S., Akbari, T., (2018). A Multi-objective Transmission Expansion Planning Strategy: A Bilevel Programming Method, 50(2), pp. 163-168. doi: 10.22060/eej.2018.13484.5167",
+            "Common keywords" : [ 
+                "multiobjective optimization"
+            ]
+        }, 
+        {
+            "The paper published by you" : "M. S. Zamani and G. R. Hellestrand, \"Placement with self-organising neural networks,\" Proceedings of ICNN'95 - International Conference on Neural Networks, Perth, WA, Australia, 1995, pp. 2185-2189 vol.5, doi: 10.1109/ICNN.1995.487699.",
+            "Suggested papers published in AJEE" : "Ghayekhloo, M., Menhaj, M., (2017). Combination of Transformed-means Clustering and Neural Networks for Short-Term Solar Radiation Forecasting, 49(2), pp. 187-194. doi: 10.22060/eej.2017.12487.5077",
+            "Common references" : [ 
+                "Kohonen, T., (1990). The Self-Organizing Map, Proceedings of the IEEE, 78(9)"
+            ]
+        }, 
+        {
+            "The paper published by you" : "A. Mehdizadeh, M. S. Zamani and H. Shafiei, \"An Efficient Method to Estimate Crosstalk after Placement Incorporating a Reduction Scheme,\" 2008 IEEE Computer Society Annual Symposium on VLSI, Montpellier, 2008, pp. 233-238, doi: 10.1109/ISVLSI.2008.78.",
+            "Suggested papers published in AJEE" : "Ghayekhloo, M., Menhaj, M., (2017). Combination of Transformed-means Clustering and Neural Networks for Short-Term Solar Radiation Forecasting, 49(2), pp. 187-194. doi: 10.22060/eej.2017.12487.5077",
+            "Common keywords" : [ 
+                "Data mining"
+            ]
+        }, 
+        {
+            "The paper published by you" : "A. Hariri, R. Rastegar, K. Navi, M. S. Zamani and M. R. Meybodi, \"Cellular learning automata based evolutionary computing (CLA-EC) for intrinsic hardware evolution,\" 2005 NASA/DoD Conference on Evolvable Hardware (EH'05), Washington, DC, USA, 2005, pp. 294-297, doi: 10.1109/EH.2005.12.",
+            "Suggested papers published in AJEE" : "AlyanNezhadi, M., Zare, F., Hassanpour, H., (2018). Grid Impedance Estimation Using Several Short-Term Low Power Signal Injections, 50(2), pp. 169-176. doi: 10.22060/eej.2017.12501.5091",
+            "Common keywords" : [ 
+                "Genetic algorithms"
+            ]
+        }, 
+        {
+            "The paper published by you" : "MehdiSaeed, MehdiSedigh, MortezaSaheb Zaman, \"A library-based synthesis methodology for reversible logic\", Microelectronics Journal, Volume 41, Issue 4, April 2010, Pages 185-194, https://doi.org/10.1016/j.mejo.2010.02.002",
+            "Suggested papers published in AJEE" : "Ravansalar, N., Pourahmadi, V., (2020). Distance-Aware Beamforming for Multiuser Secure Communication Systems, 52(1), pp. 9-9. doi: 10.22060/eej.2019.15573.5263",
+            "Common keywords" : [ 
+                "Optimization"
+            ]
+        }, 
+        {
+            "The paper published by you" : "Z. Sasanian, M. Saeedi, M. Sedighi and M. S. Zamani, \"A cycle-based synthesis algorithm for reversible logic,\" 2009 Asia and South Pacific Design Automation Conference, Yokohama, 2009, pp. 745-750, doi: 10.1109/ASPDAC.2009.4796569.",
+            "Suggested papers published in AJEE" : "Dosaranian-Moghadam, M., rahimi, z., (2018). Energy Efficiency and Reliability in Underwater Wireless Sensor Networks Using Cuckoo Optimizer Algorithm, 50(1), pp. 93-100. doi: 10.22060/eej.2018.13347.5154",
+            "Common keywords" : [ 
+                "Energy efficiency"
+            ]
+        }, 
+        {
+            "The paper published by you" : "MehdiSaeed, MehdiSedigh, MortezaSaheb Zaman, \"A library-based synthesis methodology for reversible logic\", Microelectronics Journal, Volume 41, Issue 4, April 2010, Pages 185-194, https://doi.org/10.1016/j.mejo.2010.02.002",
+            "Suggested papers published in AJEE" : "Majidi, S., Shahnazi, R., (2020). Optimal Adaptive Robust Pitch Control with Load Mitigation for Uncertain Variable Speed Wind Turbines, (), pp. -. doi: 10.22060/eej.2020.18344.5350",
+            "Common keywords" : [ 
+                "Optimization"
+            ]
+        }
+    ]
+}
+
+/* 3 */
+{
+    "_id" : ObjectId("60185ad191491c8d409378c1"),
+    "user_id" : "2RN0Y2YAAAAJ",
+    "recommendations" : [ 
+        {
+            "The paper published by you" : "F. Mehdipour, M. S. Zamani and M. Sedighi, \"Reducing inter-configuration memory usage and performance improvement in reconfigurable computing systems,\" 8th Euromicro Conference on Digital System Design (DSD'05), 2005, pp. 372-378, doi: 10.1109/DSD.2005.67.",
+            "Suggested papers published in AJEE" : "Zangeneh, V., Mohammadi, S., (2012). Multipath Node-Disjoint Routing with Backup List Based on the AODV Protocol, 44(1), pp. 25-31. doi: 10.22060/eej.2012.37",
+            "Common keywords" : [ 
+                "Routing"
+            ]
+        }, 
+        {
+            "The paper published by you" : "M. C. Moghadam, N. Mohammadzadeh, M. Sedighi and M. S. Zamani, \"A hierarchical layout generation method for quantum circuits,\" The 17th CSI International Symposium on Computer Architecture & Digital Systems (CADS 2013), 2013, pp. 51-57, doi: 10.1109/CADS.2013.6714237.",
+            "Suggested papers published in AJEE" : "Alimardani, A., Jadid, S., (2019). Optimum scheduling of the HRES for an isolated rural city in Iran, 51(1), pp. 13-20. doi: 10.22060/eej.2019.13946.5197",
+            "Common keywords" : [ 
+                "Scheduling"
+            ]
+        }, 
+        {
+            "The paper published by you" : "M. Aminian, M. Saeedi, M. S. Zamani and M. Sedighi, \"FPGA-Based Circuit Model Emulation of Quantum Algorithms,\" 2008 IEEE Computer Society Annual Symposium on VLSI, 2008, pp. 399-404, doi: 10.1109/ISVLSI.2008.43.",
+            "Suggested papers published in AJEE" : "Ojaghi, M., Sabouri, M., (2012). Magnetic Saturation Impacts on Fault Analysis of Squirrel-Cage Induction Motors using Winding Function Approach, 44(2), pp. 21-31. doi: 10.22060/eej.2012.359",
+            "Common keywords" : [ 
+                "Computer simulation"
+            ]
+        }, 
+        {
+            "The paper published by you" : "E. K. Ardestani, M. S. Zamani and M. Sedighi, \"A Fast Transformation-Based Synthesis Algorithm for Reversible Circuits,\" 2008 11th EUROMICRO Conference on Digital System Design Architectures, Methods and Tools, 2008, pp. 803-806, doi: 10.1109/DSD.2008.95.",
+            "Suggested papers published in AJEE" : "Khanteymoori, R., Homayounpour, M., Menhaj, M., (2012).  Structure Learning in Bayesian Networks Using Asexual Reproduction Optimization, 44(1), pp. 43-53. doi: 10.22060/eej.2012.40",
+            "Common references" : [ 
+                "Mitchel, M., (1999). An Introduction To Genetic Algorithms, MIT Press"
+            ]
+        }, 
+        {
+            "The paper published by you" : "M. Saeedi, M. S. Zamani and M. Sedighi, \"Moving forward: A non-search based synthesis method toward efficient CNOT-based quantum circuit synthesis algorithms,\" 2008 Asia and South Pacific Design Automation Conference, 2008, pp. 83-88, doi: 10.1109/ASPDAC.2008.4484066.",
+            "Suggested papers published in AJEE" : "Safari, L., Azhari, S., (2011). A Low Power Low Voltage Rail to Rail Constant gm Differential Amplifier with 150 dB CMRR and Enhanced Frequency Performance, 43(1), pp. 35-44. doi: 10.22060/eej.2011.86",
+            "Common references" : [ 
+                " International Technology Roadmap For Semiconductors"
+            ]
+        }, 
+        {
+            "The paper published by you" : "M. Sedighi, F. Haddadi, S. Emami and M. Saffarpour, \"A heuristic algorithm for high level synthesis of decimal arithmetic circuits using SystemC,\" 2015 10th International Conference on Design & Technology of Integrated Systems in Nanoscale Era (DTIS), 2015, pp. 1-6, doi: 10.1109/DTIS.2015.7127374.",
+            "Suggested papers published in AJEE" : "Mohammadi Ardehali, M., Ardehali, M., (2017). Optimization of Mixed-Integer Non-Linear Electricity Generation Expansion Planning Problem Based on Newly Improved Gravitational Search Algorithm, 49(2), pp. 161-172. doi: 10.22060/eej.2017.12123.5041",
+            "Common keywords" : [ 
+                "Optimization"
+            ]
+        }, 
+        {
+            "The paper published by you" : "M. Najibi, K. Saleh, M. Naderi, H. Pedram and M. Sedighi, \"Prototyping globally asynchronous locally synchronous circuits on commercial synchronous FPGAs,\" 16th IEEE International Workshop on Rapid System Prototyping (RSP'05), 2005, pp. 63-69, doi: 10.1109/RSP.2005.41.",
+            "Suggested papers published in AJEE" : "Yeganeh, H., Salahi, A., Pourmina, M., (2018). Reduction of Energy Consumption in Mobile Cloud Computing by ‎Classification of Demands and Executing in Different Data Centers, 50(1), pp. 59-66. doi: 10.22060/eej.2017.13284.5150",
+            "Common keywords" : [ 
+                "Energy consumption"
+            ]
+        }, 
+        {
+            "The paper published by you" : "M. Rahmaniheris and M. Sedighi, \"A New Algorithm for Resource Manager to Enhance the Quality of Service in VoIP Systems,\" International Conference on Networking, International Conference on Systems and International Conference on Mobile Communications and Learning Technologies (ICNICONSMCL'06), 2006, pp. 2-2, doi: 10.1109/ICNICONSMCL.2006.19.",
+            "Suggested papers published in AJEE" : "Efazati, s., Amerimehr, .., Montazeri, A., Sabagh, M., Alibeigi, M., Ayazi, F., (2020). Novel Methods For Determining QoS Parameters and Thresholds in End User's Service Level Agreement, 52(2), pp. 8-8. doi: 10.22060/eej.2020.17659.5323",
+            "Common keywords" : [ 
+                "Quality of service"
+            ]
+        }, 
+        {
+            "The paper published by you" : "M. Sedighi, F. Haddadi, S. Emami and M. Saffarpour, \"A heuristic algorithm for high level synthesis of decimal arithmetic circuits using SystemC,\" 2015 10th International Conference on Design & Technology of Integrated Systems in Nanoscale Era (DTIS), 2015, pp. 1-6, doi: 10.1109/DTIS.2015.7127374.",
+            "Suggested papers published in AJEE" : "Ravansalar, N., Pourahmadi, V., (2020). Distance-Aware Beamforming for Multiuser Secure Communication Systems, 52(1), pp. 9-9. doi: 10.22060/eej.2019.15573.5263",
+            "Common keywords" : [ 
+                "Optimization"
+            ]
+        }, 
+        {
+            "The paper published by you" : "Z. Sasanian, M. Saeedi, M. Sedighi and M. S. Zamani, \"A cycle-based synthesis algorithm for reversible logic,\" 2009 Asia and South Pacific Design Automation Conference, 2009, pp. 745-750, doi: 10.1109/ASPDAC.2009.4796569.",
+            "Suggested papers published in AJEE" : "Dosaranian-Moghadam, M., rahimi, z., (2018). Energy Efficiency and Reliability in Underwater Wireless Sensor Networks Using Cuckoo Optimizer Algorithm, 50(1), pp. 93-100. doi: 10.22060/eej.2018.13347.5154",
+            "Common keywords" : [ 
+                "Energy efficiency"
+            ]
+        }, 
+        {
+            "The paper published by you" : "M. Sedighi, F. Haddadi, S. Emami and M. Saffarpour, \"A heuristic algorithm for high level synthesis of decimal arithmetic circuits using SystemC,\" 2015 10th International Conference on Design & Technology of Integrated Systems in Nanoscale Era (DTIS), 2015, pp. 1-6, doi: 10.1109/DTIS.2015.7127374.",
+            "Suggested papers published in AJEE" : "Majidi, S., Shahnazi, R., (2020). Optimal Adaptive Robust Pitch Control with Load Mitigation for Uncertain Variable Speed Wind Turbines, (), pp. -. doi: 10.22060/eej.2020.18344.5350",
+            "Common keywords" : [ 
+                "Optimization"
+            ]
+        }
+    ]
+}
+
+/* 4 */
+{
+    "_id" : ObjectId("6018f265d8e7980916bacf37"),
+    "recommendations" : [ 
+        {
+            "The paper published by you" : "Hamburg Arc Furnace Physics",
+            "Suggested papers published in AJEE" : "Torabian Esfahani, M., Vahidi, B., (2015). A Probabilistic Three-Phase Time Domain Electric Arc Furnace Model based on analytical method, 47(1), pp. 1-10. doi: 10.22060/eej.2015.515",
+            "Common references" : [ 
+                "Hsu, Y., Chen, K.H., Huang, P., Lu, Ch, (2011). Electric Arc Furnace Voltage Flicker Analysis And Prediction, IEEE Trans. on Ins. and Meas, 60(10)"
+            ]
+        }, 
+        {
+            "The paper published by you" : "Effect of carbon nanofibers dispersion on the microwave absorbing properties of CNF/epoxy composites",
+            "Suggested papers published in AJEE" : "Pedram, M., Dehkhoda, P., Sadeghi, H., Moini, R., (2013). Shielding Effectiveness of a Lossy Metallic Enclosure, 45(1), pp. 17-26. doi: 10.22060/eej.2013.425",
+            "Common references" : [ 
+                "Balanis, A., (1989). Advance Engeneering Electromagnetics, Wiley"
+            ]
+        }, 
+        {
+            "The paper published by you" : "Effect of carbon nanofibers dispersion on the microwave absorbing properties of CNF/epoxy composites",
+            "Suggested papers published in AJEE" : "Aryanian, I., Abdipour, A., Moradi, G., (2014). Design and Efficient Analysis of Large Reflectarray Antenna, 46(1), pp. 49-58. doi: 10.22060/eej.2014.440",
+            "Common references" : [ 
+                "A, C., (2012). Advanced Engineering Electromagnetic”, IEEE Press, John Wiley & Sons New York"
+            ]
+        }
+    ],
+    "user_id" : "LBqohDwAAAAJ"
+}
+
+/* 5 */
+{
+    "_id" : ObjectId("601923ea89cfb83f48219e1d"),
+    "recommendations" : [ 
+        {
+            "The paper published by you" : "MojtabaRahmani, Seyed HosseinHosseiniana, MehrdadAbedia, \"Stochastic two-stage reliability-based Security Constrained Unit Commitment in smart grid environment\", Sustainable Energy, Grids and Networks, Volume 22, June 2020, 100348, https://doi.org/10.1016/j.segan.2020.100348",
+            "Suggested papers published in AJEE" : "Rasoolzadegan, A., Abdollahzadeh Barforoush, A., (2012). Developing Reliable yet Flexible Software through If-Then Model Transformation Rules, 44(1), pp. 1-24. doi: 10.22060/eej.2012.35",
+            "Common keywords" : [ 
+                "Reliability"
+            ]
+        }, 
+        {
+            "The paper published by you" : "Abedi, M., Rezaei, M.J. & Mosavi, M.R. Accurate Interference Mitigation in Global Positioning System Receivers Based on Double-Step Short-Time Fourier Transform. Circuits Syst Signal Process 37, 2450–2470 (2018). https://doi.org/10.1007/s00034-017-0670-y",
+            "Suggested papers published in AJEE" : "Mirzababaei, S., Akbariii, M., (2011). A Hierarchical SLAM/GPS/INS Sensor Fusion with WLFP for Flying Robo-SAR's Navigation, 43(1), pp. 1-10. doi: 10.22060/eej.2011.83",
+            "Common keywords" : [ 
+                "GPS"
+            ]
+        }, 
+        {
+            "The paper published by you" : "R.Noroozian, M.Abedi, G.B.Gharehpetian, S.H.Hosseini, \"Distributed resources and DC distribution system combination for high power quality\", International Journal of Electrical Power & Energy Systems, Volume 32, Issue 7, September 2010, Pages 769-781, https://doi.org/10.1016/j.ijepes.2010.01.013",
+            "Suggested papers published in AJEE" : "Abirii, E., Salehiii, M., Abrishamifariii, A., (2009). Active Filter Control Method Based on Direct Power Control for Compensating Reactive Powers due to Unbalanced Voltages and Nonlinear Loads, 41(2), pp. 1-8. doi: 10.22060/eej.2009.279",
+            "Common keywords" : [ 
+                "Power quality"
+            ]
+        }, 
+        {
+            "The paper published by you" : "Rameshkhah, F., Abedi, M. & Hosseinian, S.H. Clustering of voltage control areas in power system using shuffled frog-leaping algorithm. Electr Eng 92, 269–282 (2010). https://doi.org/10.1007/s00202-010-0178-y",
+            "Suggested papers published in AJEE" : "Farhadi, B., Shahalami, S., Fallah Choolabi, E., (2014). Optimal Design of Single-Phase Induction Motor Using MPSO and FEM, 46(1), pp. 1-9. doi: 10.22060/eej.2014.435",
+            "Common references" : [ 
+                "J., Eberhart, (1995). Particle Swarm Optimization”, Proceedings of the IEEE International Conference on Neural Networks, 4, pp. 1942 – 1948,"
+            ]
+        }, 
+        {
+            "The paper published by you" : "F. Irannezhad, S. H. Hosseinian, M. Abedi and B. Vahidi, \"Using the Instantaneous Power Theory in order to control the current in the parallel active filter to compensate reactive power and reduction of harmonics,\" 2012 IEEE International Conference on Power Electronics, Drives and Energy Systems (PEDES), Bengaluru, 2012, pp. 1-5, doi: 10.1109/PEDES.2012.6484390.",
+            "Suggested papers published in AJEE" : "Yousefi, S., Hosseini-Biyouki, M., Zaboli, A., Askarian-Abyaneh, H., Hosseinian, S., (2017). Harmonic Elimination of 25 kV AC Electric Railways Utilizing a New Hybrid Filter Structure, 49(1), pp. 3-10. doi: 10.22060/eej.2016.811",
+            "Common references" : [ 
+                "(1996). New Trends In Active Filters For Power Conditioning, Industry Applications, IEEE Transactions on, 32, pp. 1312–1322,", 
+                "Akagi, Y.Kanazawa, Nabae, A., (1984). Instantaneous Reactive Power Compensators Comprising Switching Devices Without Energy Storage Components, Industry Applications, IEEE Transactions on", 
+                "Akagi, Y.Kanazawa, Nabae, A., (1984). Instantaneous Reactive Power Compensators Comprising Switching Devices Without Energy Storage Components, Industry Applications, IEEE Transactions on"
+            ]
+        }, 
+        {
+            "The paper published by you" : "P. Javanbakht and M. Abedi, \"The enhancement of transient performance of cascaded induction motors using UPQC,\" 2009 IEEE International Electric Machines and Drives Conference, Miami, FL, 2009, pp. 405-412, doi: 10.1109/IEMDC.2009.5075238.",
+            "Suggested papers published in AJEE" : "Faiz, J., Takbash, A., Mazaheri-Tehrani, E., (2017). A Review of Application of Signal Processing Techniques for Fault Diagnosis of Induction Motors – Part I, 49(2), pp. 109-122. doi: 10.22060/eej.2017.13219.5142",
+            "Common keywords" : [ 
+                "Induction motors"
+            ]
+        }, 
+        {
+            "The paper published by you" : "Power electronics: converters, applications, and design",
+            "Suggested papers published in AJEE" : "saleh, a., deihimi, a., (2018). Model Predictive Control of Distributed Energy Resources with Predictive Set-Points for Grid-Connected Operation, 50(2), pp. 109-120. doi: 10.22060/eej.2018.14303.5217",
+            "Common references" : [ 
+                "Yazdani, A., Iravani, R., (2010). Voltage-Sourced Converters In Power Systems: Modeling, Control And Applications, IEEE Wiley Press"
+            ]
+        }, 
+        {
+            "The paper published by you" : "S. Najafi, S. H. Hosseinian, M. Abedi, A. Vahidnia and S. Abachezadeh, \"A Framework for Optimal Planning in Large Distribution Networks,\" in IEEE Transactions on Power Systems, vol. 24, no. 2, pp. 1019-1028, May 2009, doi: 10.1109/TPWRS.2009.2016052.",
+            "Suggested papers published in AJEE" : "Zangeneh, V., Mohammadi, S., (2012). Multipath Node-Disjoint Routing with Backup List Based on the AODV Protocol, 44(1), pp. 25-31. doi: 10.22060/eej.2012.37",
+            "Common keywords" : [ 
+                "Routing"
+            ]
+        }, 
+        {
+            "The paper published by you" : "M. Zolfaghari, M. Abedi and G. B. Gharehpetian, \"Power Flow Control of Interconnected AC–DC Microgrids in Grid-Connected Hybrid Microgrids Using Modified UIPC,\" in IEEE Transactions on Smart Grid, vol. 10, no. 6, pp. 6298-6307, Nov. 2019, doi: 10.1109/TSG.2019.2901193.",
+            "Suggested papers published in AJEE" : "Soltanii, J., Abootorabi Zarchi, H., (2011). Robust Control of Encoderless Synchronous Reluctance Motor Drives Based on Adaptive Backstepping and Input-Output Feedback Linearization Techniques, 43(1), pp. 11-23. doi: 10.22060/eej.2011.84",
+            "Common references" : [ 
+                "Marino, R., Tomei, P., (1995). Nonlinear Control Design, Prentice Hall, Inc"
+            ]
+        }, 
+        {
+            "The paper published by you" : "F. Irannezhad, S. H. Hosseinian, M. Abedi and B. Vahidi, \"Using the Instantaneous Power Theory in order to control the current in the parallel active filter to compensate reactive power and reduction of harmonics,\" 2012 IEEE International Conference on Power Electronics, Drives and Energy Systems (PEDES), Bengaluru, 2012, pp. 1-5, doi: 10.1109/PEDES.2012.6484390.",
+            "Suggested papers published in AJEE" : "Ghassemi, A., zarezadeh, E., Saeed Fazel, S., (2013). Power Quality Improvement in Traction Power Supply Networks, 45(1), pp. 9-15. doi: 10.22060/eej.2013.427",
+            "Common references" : [ 
+                "Alhaddad, Achandra Bhim singh, (1999). A Review Of Active Filters For Power Quality Improvement”, Industrial Electron, 4(5)"
+            ]
+        }, 
+        {
+            "The paper published by you" : "R.Noroozian, M.Abedi, G.B.Gharehpetian, S.H.Hosseini, \"Distributed resources and DC distribution system combination for high power quality\", International Journal of Electrical Power & Energy Systems, Volume 32, Issue 7, September 2010, Pages 769-781, https://doi.org/10.1016/j.ijepes.2010.01.013",
+            "Suggested papers published in AJEE" : "Ghassemi, A., zarezadeh, E., Saeed Fazel, S., (2013). Power Quality Improvement in Traction Power Supply Networks, 45(1), pp. 9-15. doi: 10.22060/eej.2013.427",
+            "Common keywords" : [ 
+                "Power quality"
+            ]
+        }, 
+        {
+            "The paper published by you" : "M. Zolfaghari, M. Abedi and G. B. Gharehpetian, \"Robust Nonlinear State Feedback Control of Bidirectional Interlink Power Converters in Grid-Connected Hybrid Microgrids,\" in IEEE Systems Journal, vol. 14, no. 1, pp. 1117-1124, March 2020, doi: 10.1109/JSYST.2019.2919551.",
+            "Suggested papers published in AJEE" : "Alimardani, A., Jadid, S., (2019). Optimum scheduling of the HRES for an isolated rural city in Iran, 51(1), pp. 13-20. doi: 10.22060/eej.2019.13946.5197",
+            "Common keywords" : [ 
+                "Uncertainty"
+            ]
+        }, 
+        {
+            "The paper published by you" : "R. Moini, B. Kordi and M. Abedi, \"Evaluation of LEMP effects on complex wire structures located above a perfectly conducting ground using electric field integral equation in time domain,\" in IEEE Transactions on Electromagnetic Compatibility, vol. 40, no. 2, pp. 154-162, May 1998, doi: 10.1109/15.673621.",
+            "Suggested papers published in AJEE" : "Zakeri, B., Radkani, N., (2019). Sea Surfaces Scattering by Multi-Order Small-Slope Approximation: a Monte-Carlo and Analytical Comparison, 51(2), pp. 3-3. doi: 10.22060/eej.2019.14446.5229",
+            "Common keywords" : [ 
+                "Electromagnetic scattering"
+            ]
+        }, 
+        {
+            "The paper published by you" : "Sadegh GhaniVarzane, MehrdadAbed, G.B.Gharehpetia, \"A new simplified model for assessment of power variation of DFIG-based wind farm participating in frequency control system\", Electric Power Systems Research, Volume 148, July 2017, Pages 220-229, https://doi.org/10.1016/j.epsr.2017.03.033",
+            "Suggested papers published in AJEE" : "Ojaghi, M., Sabouri, M., (2012). Magnetic Saturation Impacts on Fault Analysis of Squirrel-Cage Induction Motors using Winding Function Approach, 44(2), pp. 21-31. doi: 10.22060/eej.2012.359",
+            "Common keywords" : [ 
+                "Modeling"
+            ]
+        }, 
+        {
+            "The paper published by you" : "Optimal capacitor placement on radial distribution systems",
+            "Suggested papers published in AJEE" : "Hemmatpour, M., Mohammadian, M., Rashidinejad, M., (2011). A Novel Reconfiguration Mixed with Distributed Generation Planning via Considering Voltage Stability Margin, 43(1), pp. 23-34. doi: 10.22060/eej.2011.85",
+            "Common references" : [ 
+                "Sahoo, N.C., Prasad, K., (2006). A Fuzzy Genetic Approach For Network Reconfiguration To Enhance Voltage Stability In Radial Distribution Systems, Energy Conversion and Management, 47, pp. 3288–3306,", 
+                "Kashem, M.A., Ganapathy, V., Jasmon, G.B., (2000). Network Reconfiguration For Enhancement Of Voltage Stability In Distribution Networks, Generation, Transmission and Distribution, IEE Proceedings, 147, pp. 171,"
+            ]
+        }, 
+        {
+            "The paper published by you" : "R.Noroozian, M.Abedi, G.B.Gharehpetian, S.H.Hosseini, \"Distributed resources and DC distribution system combination for high power quality\", International Journal of Electrical Power & Energy Systems, Volume 32, Issue 7, September 2010, Pages 769-781, https://doi.org/10.1016/j.ijepes.2010.01.013",
+            "Suggested papers published in AJEE" : "Hemmatpour, M., Mohammadian, M., Rashidinejad, M., (2011). A Novel Reconfiguration Mixed with Distributed Generation Planning via Considering Voltage Stability Margin, 43(1), pp. 23-34. doi: 10.22060/eej.2011.85",
+            "Common keywords" : [ 
+                "Distributed generation (DG)"
+            ]
+        }, 
+        {
+            "The paper published by you" : "M. H. Zamani, S. Hamid Fathi, G. H. Riahy, M. Abedi and N. Abdolghani, \"Improving Transient Stability of Grid-Connected Squirrel-Cage Induction Generators by Plugging Mode Operation,\" in IEEE Transactions on Energy Conversion, vol. 27, no. 3, pp. 707-714, Sept. 2012, doi: 10.1109/TEC.2012.2194149.",
+            "Suggested papers published in AJEE" : "Kazemzadehi, F., Heydariii, H., (2010). Optimization of an HTS Induction/Synchronous Motor According to Changing of HTS Tapes Critical Current by Analytical Hierarchy Process, 42(1), pp. 17-29. doi: 10.22060/eej.2010.99",
+            "Common references" : [ 
+                "Sim, J., Lee, K., Cha, G., Lee, J., (2004). Development Of A Hts Squirrel Cage Induction Motor With Hts Rotor Bars, IEEE Trans. Applied Superconductivity, 14(2)"
+            ]
+        }, 
+        {
+            "The paper published by you" : "H.R.Baghaeea, M.Abedi, \"Calculation of weighting factors of static security indices used in contingency ranking of power systems based on fuzzy logic and analytical hierarchy process\", International Journal of Electrical Power & Energy Systems, Volume 33, Issue 4, May 2011, Pages 855-860, https://doi.org/10.1016/j.ijepes.2010.12.012",
+            "Suggested papers published in AJEE" : "Kazemzadehi, F., Heydariii, H., (2010). Optimization of an HTS Induction/Synchronous Motor According to Changing of HTS Tapes Critical Current by Analytical Hierarchy Process, 42(1), pp. 17-29. doi: 10.22060/eej.2010.99",
+            "Common keywords" : [ 
+                "Analytical hierarchy process"
+            ]
+        }, 
+        {
+            "The paper published by you" : "A. Bidadfar et al., \"Power System Stability Analysis Using Feedback Control System Modeling Including HVDC Transmission Links,\" in IEEE Transactions on Power Systems, vol. 31, no. 1, pp. 116-124, Jan. 2016, doi: 10.1109/TPWRS.2015.2407192.",
+            "Suggested papers published in AJEE" : "Mardanehi, M., Mirsalimii, M., (2009). Development of an Analytic Model for Flux Switching Motors, 41(1), pp. 21-29. doi: 10.22060/eej.2009.274",
+            "Common keywords" : [ 
+                "Analytical models"
+            ]
+        }, 
+        {
+            "The paper published by you" : "Power electronics: converters, applications, and design",
+            "Suggested papers published in AJEE" : "Poornazaryan, B., Abedi, M., Gharehpetian, G., Shokoohi, S., (2013). Suggested New Voltage and Frequency Control Framework for Autonomous Operation of Microgrids, 45(2), pp. 11-18. doi: 10.22060/eej.2013.431",
+            "Common references" : [ 
+                "H., Shokoohi, (1505). An Intelligent Droop Control For Simultaneous Voltage And Frequency Regulation In Islanded Microgrids, Smart Grid, IEEE Transactions on, 4(3)", 
+                " Power System Stability And Control”, McGraw-Hill Inc", 
+                "N., Prodanovic, Green, M., (2007). Modeling, Analysis And Testing Of Autonomous Operation Of An Inverter-Base Microgrid,”Power Electronics, IEEE Transactions on, 22(2,pp.613,625)"
+            ]
+        }, 
+        {
+            "The paper published by you" : "H. Shahinzadeh, J. Moradi, G. B. Gharehpetian, M. Abedi and S. H. Hosseinian, \"Multi-Objective Scheduling of CHP-Based Microgrids with Cooperation of Thermal and Electrical Storage Units in Restructured Environment,\" 2018 Smart Grid Conference (SGC), Sanandaj, Iran, 2018, pp. 1-10, doi: 10.1109/SGC.2018.8777885.",
+            "Suggested papers published in AJEE" : "Poornazaryan, B., Abedi, M., Gharehpetian, G., Shokoohi, S., (2013). Suggested New Voltage and Frequency Control Framework for Autonomous Operation of Microgrids, 45(2), pp. 11-18. doi: 10.22060/eej.2013.431",
+            "Common keywords" : [ 
+                "Microgrids"
+            ]
+        }, 
+        {
+            "The paper published by you" : "R. Moini, B. Kordi and M. Abedi, \"Evaluation of LEMP effects on complex wire structures located above a perfectly conducting ground using electric field integral equation in time domain,\" in IEEE Transactions on Electromagnetic Compatibility, vol. 40, no. 2, pp. 154-162, May 1998, doi: 10.1109/15.673621.",
+            "Suggested papers published in AJEE" : "Rabbani, M., Tavakoli, A., (2014). A New Guideline for the Allocation of Multipoles in the Multiple Multipole Method for Two Dimensional Scattering from Dielectrics, 46(1), pp. 19-26. doi: 10.22060/eej.2014.437",
+            "Common keywords" : [ 
+                "Electromagnetic scattering"
+            ]
+        }, 
+        {
+            "The paper published by you" : "M. Abedi and M. J. Emadi, \"Cooperative Power Management in Energy Harvesting Communication Systems in Presence of a Helper,\" in IEEE Transactions on Green Communications and Networking, vol. 3, no. 1, pp. 147-158, March 2019, doi: 10.1109/TGCN.2018.2886445.",
+            "Suggested papers published in AJEE" : "Rezaei, M., Sabahi, M., Shahtalebi, K., Mahin Zaeem, R., Sadeghi, R., (2015). A New Fairness Index and Novel Approach for QoS-Aware Resource Allocation in LTE Networks Based on Utility Functions, 47(2), pp. 19-25. doi: 10.22060/eej.2015.579",
+            "Common references" : [ 
+                "Boyd, S., Lieven, V., (2004). Convex Optimization, Cambridge university press"
+            ]
+        }, 
+        {
+            "The paper published by you" : "M. Abedi and M. J. Emadi, \"Cooperative Power Management in Energy Harvesting Communication Systems in Presence of a Helper,\" in IEEE Transactions on Green Communications and Networking, vol. 3, no. 1, pp. 147-158, March 2019, doi: 10.1109/TGCN.2018.2886445.",
+            "Suggested papers published in AJEE" : "Rezaei, M., Sabahi, M., Shahtalebi, K., Mahin Zaeem, R., Sadeghi, R., (2015). A New Fairness Index and Novel Approach for QoS-Aware Resource Allocation in LTE Networks Based on Utility Functions, 47(2), pp. 19-25. doi: 10.22060/eej.2015.579",
+            "Common keywords" : [ 
+                "Throughput"
+            ]
+        }, 
+        {
+            "The paper published by you" : "M. Zolfaghari, M. Abedi and G. B. Gharehpetian, \"Power Flow Control of Interconnected AC–DC Microgrids in Grid-Connected Hybrid Microgrids Using Modified UIPC,\" in IEEE Transactions on Smart Grid, vol. 10, no. 6, pp. 6298-6307, Nov. 2019, doi: 10.1109/TSG.2019.2901193.",
+            "Suggested papers published in AJEE" : "fathi, m., Ghahramani, N., Ashtiani, M., Mohammadi, A., Fallah, M., (2016). Adaptive Fusion of Inertial Navigation System and Tracking Radar Data, 48(2), pp. 81-92. doi: 10.22060/eej.2016.818",
+            "Common references" : [ 
+                "Barton, D.K., (1988). Modern Radar System Analysis, Artech House"
+            ]
+        }, 
+        {
+            "The paper published by you" : "Power electronics: converters, applications, and design",
+            "Suggested papers published in AJEE" : "Rahmani, R., Fakharian, A., (2018). A Distributed Control Architecture for Autonomous Operation of a Hybrid AC/DC Microgrid System, 50(1), pp. 25-32. doi: 10.22060/eej.2017.12312.5062",
+            "Common references" : [ 
+                "Bevrani, H., Shokoohi, S., (2013). An Intelligent Droop Control For Simultaneous Voltage And Frequency Regulation In Islanded Microgrids, Smart Grid, IEEE Transactions on, 4(3)"
+            ]
+        }, 
+        {
+            "The paper published by you" : "R.Noroozian, M.Abedi, G.B.Gharehpetian, S.H.Hosseini, \"Combined operation of DC isolated distribution and PV systems for supplying unbalanced AC loads\", Renewable Energy, Volume 34, Issue 3, March 2009, Pages 899-908, https://doi.org/10.1016/j.renene.2008.05.043",
+            "Suggested papers published in AJEE" : "Rahmani, R., Fakharian, A., (2018). A Distributed Control Architecture for Autonomous Operation of a Hybrid AC/DC Microgrid System, 50(1), pp. 25-32. doi: 10.22060/eej.2017.12312.5062",
+            "Common keywords" : [ 
+                "PV unit"
+            ]
+        }, 
+        {
+            "The paper published by you" : "M. Dehghani, M. Taghipour, G. B. Gharehpetian and M. Abedi, \"Optimized Fuzzy Controller for MPPT of Grid-Connected PV Systems in Rapidly Changing Atmospheric Conditions,\" in Journal of Modern Power Systems and Clean Energy, doi: 10.35833/MPCE.2019.000086.",
+            "Suggested papers published in AJEE" : "Khanteymoori, R., Homayounpour, M., Menhaj, M., (2012).  Structure Learning in Bayesian Networks Using Asexual Reproduction Optimization, 44(1), pp. 43-53. doi: 10.22060/eej.2012.40",
+            "Common keywords" : [ 
+                "Genetic algorithms"
+            ]
+        }, 
+        {
+            "The paper published by you" : "Naderi, M.S., Gharehpetian, G.B., Abedi, M. et al. An accurate method for estimation of series and parallel resistance in detailed model of transformer winding using impulse test results. Electr Eng 86, 255–260 (2004). https://doi.org/10.1007/s00202-003-0206-2",
+            "Suggested papers published in AJEE" : "Haghjoo, F., Mostafaei, M., Mohammadzadeh, M., (2013). A Novel Flux-Based Protection Scheme for Power Transformers, 45(1), pp. 27-33. doi: 10.22060/eej.2013.428",
+            "Common keywords" : [ 
+                "Power transformers"
+            ]
+        }, 
+        {
+            "The paper published by you" : "M. Abedi, H. Masoumi and M. J. Emadi, \"Power Splitting-Based SWIPT Systems With Decoding Cost,\" in IEEE Wireless Communications Letters, vol. 8, no. 2, pp. 432-435, April 2019, doi: 10.1109/LWC.2018.2874886.",
+            "Suggested papers published in AJEE" : "Baghery, K., Abdolmaleki, B., Emadi, M., (2014). Game-Based Cryptanalysis of a Lightweight CRC-Based Authentication Protocol for EPC Tags, 46(1), pp. 27-36. doi: 10.22060/eej.2014.438",
+            "Common keywords" : [ 
+                "Internet of Things"
+            ]
+        }, 
+        {
+            "The paper published by you" : "M. S. Naderi, G. B. Gharehpetian, M. Abedi and T. R. Blackburn, \"An Experimental Investigation and Model Development of Arc Discharge during Impulse Test,\" 2006 IEEE 8th International Conference on Properties & applications of Dielectric Materials, Bali, 2006, pp. 305-308, doi: 10.1109/ICPADM.2006.284177.",
+            "Suggested papers published in AJEE" : "Khosravi, R., Sadeghi, S., Moini, R., (2015). Electromagnetic Field Due to Lightning Strikes to Mountainous Ground, 47(2), pp. 27-37. doi: 10.22060/eej.2015.580",
+            "Common keywords" : [ 
+                "Lightning"
+            ]
+        }, 
+        {
+            "The paper published by you" : "M. Abedi and M. J. Emadi, \"Cooperative Power Management in Energy Harvesting Communication Systems in Presence of a Helper,\" in IEEE Transactions on Green Communications and Networking, vol. 3, no. 1, pp. 147-158, March 2019, doi: 10.1109/TGCN.2018.2886445.",
+            "Suggested papers published in AJEE" : "kuhestani, A., Mohammadi, A., Emadi, M., (2016). Performance Study of Untrusted Relay Network Utilizing Cooperative Jammer, 48(2), pp. 93-100. doi: 10.22060/eej.2016.820",
+            "Common references" : [ 
+                "Boyd, S., L, Vandenberghe, (2004). Convex Optimization, Cambridge University Press"
+            ]
+        }, 
+        {
+            "The paper published by you" : "M. Abedi and M. J. Emadi, \"Cooperative Power Management in Energy Harvesting Communication Systems in Presence of a Helper,\" in IEEE Transactions on Green Communications and Networking, vol. 3, no. 1, pp. 147-158, March 2019, doi: 10.1109/TGCN.2018.2886445.",
+            "Suggested papers published in AJEE" : "Abedi, M., Emadi, M., (2018). Optimal Power Management to Minimize SER in Amplify and-Forward Relay Networks, 50(1), pp. 33-42. doi: 10.22060/eej.2017.13060.5131",
+            "Common references" : [ 
+                "Tutuncuoglu, K., Yener, A., (2012). Optimum Transmission Policies For Battery Limited Energy Harvesting Nodes, IEEE Transactions on Wireless Communications, 11, pp. 1180–1189", 
+                "Ulukus, S., (2015). Optimal Policies For Wireless Networks With Energy Harvesting Transmitters And Receivers: Effects Of Decoding Costs, IEEE Journal on Selected Areas in Communications, 33, pp. 2611– 2625", 
+                "Abedi, M.J.Emadi, Shahrasbi, B., (2016). Optimal Energy Management For Energy Harvesting Transmitter And Receiver With Helper, Information Theory and Its Applications (ISITA), 2016 International Symposium on", 
+                "Vandenberghe, L., (2004). Convex Optimization, Cambridge university press"
+            ]
+        }, 
+        {
+            "The paper published by you" : "H. Shahinzadeh, J. Moradi, G. B. Gharehpetian, M. Abedi and S. H. Hosseinian, \"Multi-Objective Scheduling of CHP-Based Microgrids with Cooperation of Thermal and Electrical Storage Units in Restructured Environment,\" 2018 Smart Grid Conference (SGC), Sanandaj, Iran, 2018, pp. 1-10, doi: 10.1109/SGC.2018.8777885.",
+            "Suggested papers published in AJEE" : "mahdavi, m., B. Gharehpetian, G., Ranjbaran, P., Azizi, H., (2019). Frequency Regulation of AUT Microgrid Using Modified Fuzzy PI Controller for Flywheel Energy Storage System, 51(1), pp. 31-38. doi: 10.22060/eej.2018.14137.5207",
+            "Common keywords" : [ 
+                "Microgrids"
+            ]
+        }, 
+        {
+            "The paper published by you" : "Power electronics: converters, applications, and design",
+            "Suggested papers published in AJEE" : "Ghaseminezhad, M., Doroudi, A., Hosseinian, S., (2012). A Novel Equivalent Circuit for Induction Motors under Voltage Fluctuation Conditions, 44(1), pp. 53-61. doi: 10.22060/eej.2012.41",
+            "Common references" : [ 
+                "Kundur, P., (1994). Power System Stability And Control, McGraw-Hill"
+            ]
+        }, 
+        {
+            "The paper published by you" : "P. Javanbakht and M. Abedi, \"The enhancement of transient performance of cascaded induction motors using UPQC,\" 2009 IEEE International Electric Machines and Drives Conference, Miami, FL, 2009, pp. 405-412, doi: 10.1109/IEMDC.2009.5075238.",
+            "Suggested papers published in AJEE" : "Ghaseminezhad, M., Doroudi, A., Hosseinian, S., (2012). A Novel Equivalent Circuit for Induction Motors under Voltage Fluctuation Conditions, 44(1), pp. 53-61. doi: 10.22060/eej.2012.41",
+            "Common keywords" : [ 
+                "Induction motors", 
+                "Voltage fluctuations"
+            ]
+        }, 
+        {
+            "The paper published by you" : "Network-constrained joint energy and flexible ramping reserve market clearing of power and heat-based energy systems: A two-stage hybrid igdt-stochastic framework",
+            "Suggested papers published in AJEE" : "Shahmoradi, A., Kalantar, M., (2015). Resource Scheduling in a Smart Grid with Renewable Energy Resources and Plug-In Vehicles by MINLP Method, 47(2), pp. 39-47. doi: 10.22060/eej.2015.581",
+            "Common keywords" : [ 
+                "Renewable energy resource"
+            ]
+        }, 
+        {
+            "The paper published by you" : "Rameshkhah, F., Abedi, M. & Hosseinian, S.H. Clustering of voltage control areas in power system using shuffled frog-leaping algorithm. Electr Eng 92, 269–282 (2010). https://doi.org/10.1007/s00202-010-0178-y",
+            "Suggested papers published in AJEE" : "nikmehr, n., Najafi Ravadanegh, S., (2016). Analysis of Reliability Indices in Next Generation Microgrids Under Uncertainties of Load and Renewable Power Production, 48(1), pp. 41-51. doi: 10.22060/eej.2016.630",
+            "Common references" : [ 
+                "Kennedy, J., Eberhart, R.,  Particle Swarm Optimization, Proc. 1995 The International Conference on Neural Networks"
+            ]
+        }, 
+        {
+            "The paper published by you" : "M. Zolfaghari, M. Abedi and G. B. Gharehpetian, \"Robust Nonlinear State Feedback Control of Bidirectional Interlink Power Converters in Grid-Connected Hybrid Microgrids,\" in IEEE Systems Journal, vol. 14, no. 1, pp. 1117-1124, March 2020, doi: 10.1109/JSYST.2019.2919551.",
+            "Suggested papers published in AJEE" : "nikmehr, n., Najafi Ravadanegh, S., (2016). Analysis of Reliability Indices in Next Generation Microgrids Under Uncertainties of Load and Renewable Power Production, 48(1), pp. 41-51. doi: 10.22060/eej.2016.630",
+            "Common keywords" : [ 
+                "Uncertainty"
+            ]
+        }, 
+        {
+            "The paper published by you" : "S. R. Najafi, M. Abedi and S. H. hosseinian, \"A Novel Approach to Optimal Allocation of SVC using Genetic Algorithms and Continuation Power Flow,\" 2006 IEEE International Power and Energy Conference, Putra Jaya, 2006, pp. 202-206, doi: 10.1109/PECON.2006.346646.",
+            "Suggested papers published in AJEE" : "Karami, E., Madrigal, M., B. Gharehpetian, G., (2017). Dynamic Harmonic Modeling and Analysis of VSC-HVDC Systems, 49(1), pp. 31-38. doi: 10.22060/eej.2016.816",
+            "Common references" : [ 
+                "Hingorani, N.G., Gyugyi, L., (2000). Understanding Facts: Concepts And Technology Of Flexible Ac Transmission Systems, John Wiley & Sons"
+            ]
+        }, 
+        {
+            "The paper published by you" : "R.Noroozian, M.Abedi, G.B.Gharehpetian, S.H.Hosseini, \"Distributed resources and DC distribution system combination for high power quality\", International Journal of Electrical Power & Energy Systems, Volume 32, Issue 7, September 2010, Pages 769-781, https://doi.org/10.1016/j.ijepes.2010.01.013",
+            "Suggested papers published in AJEE" : "Karami, E., Madrigal, M., B. Gharehpetian, G., (2017). Dynamic Harmonic Modeling and Analysis of VSC-HVDC Systems, 49(1), pp. 31-38. doi: 10.22060/eej.2016.816",
+            "Common keywords" : [ 
+                "Power quality"
+            ]
+        }, 
+        {
+            "The paper published by you" : "M. S. Naderi, G. B. Gharehpetian, M. Abedi and T. R. Blackburn, \"Modeling and detection of transformer internal incipient fault during impulse test,\" in IEEE Transactions on Dielectrics and Electrical Insulation, vol. 15, no. 1, pp. 284-291, February 2008, doi: 10.1109/T-DEI.2008.4446762.",
+            "Suggested papers published in AJEE" : "davari, n., Gholami, A., shabani, m., (2016). Performance Enhancement of GPS/INS Integrated Navigation System Using Wavelet Based De-noising method, 48(2), pp. 101-112. doi: 10.22060/eej.2016.824",
+            "Common references" : [ 
+                "Strang, G., Nguyen, T., (1997). Wavelets And Filter Banks, Wellesley-Cambridge Press"
+            ]
+        }, 
+        {
+            "The paper published by you" : "M. S. Naderi, G. B. Gharehpetian, M. Abedi and T. R. Blackburn, \"Soft-Threshold Wavelet De-Noising Technique Application for a Single Arc Discharge Across a Static Gap,\" 2006 IEEE 8th International Conference on Properties & applications of Dielectric Materials, Bali, 2006, pp. 44-47, doi: 10.1109/ICPADM.2006.284113.",
+            "Suggested papers published in AJEE" : "davari, n., Gholami, A., shabani, m., (2016). Performance Enhancement of GPS/INS Integrated Navigation System Using Wavelet Based De-noising method, 48(2), pp. 101-112. doi: 10.22060/eej.2016.824",
+            "Common keywords" : [ 
+                "Wavelet analysis"
+            ]
+        }, 
+        {
+            "The paper published by you" : "S. M. Fatemi, S. Abedi, G. B. Gharehpetian, S. H. Hosseinian and M. Abedi, \"Introducing a Novel DC Power Flow Method With Reactive Power Considerations,\" in IEEE Transactions on Power Systems, vol. 30, no. 6, pp. 3012-3023, Nov. 2015, doi: 10.1109/TPWRS.2014.2368572.",
+            "Suggested papers published in AJEE" : "Hemmatpour, M., Zarei, E., Mohammadian, M., (2018). Incorporating Wind Power Generation And Demand Response into Security-Constrained Unit Commitment, 50(2), pp. 141-148. doi: 10.22060/eej.2018.14001.5200",
+            "Common references" : [ 
+                "Shahidehpour, M., Yamin, H., Li, Z., (2002). Market Overview In Electric Power Systems, Market Operations in Electric Power Systems: Forecasting, Scheduling, and Risk Management"
+            ]
+        }, 
+        {
+            "The paper published by you" : "Rameshkhah, F., Abedi, M. & Hosseinian, S.H. Clustering of voltage control areas in power system using shuffled frog-leaping algorithm. Electr Eng 92, 269–282 (2010). https://doi.org/10.1007/s00202-010-0178-y",
+            "Suggested papers published in AJEE" : "Akbari, R., Zeighami, V., Ziarati, K., Akbari, I., (2012). Development of an Efficient Hybrid Method for Motif Discovery in DNA Sequences, 44(1), pp. 63-75. doi: 10.22060/eej.2012.42",
+            "Common references" : [ 
+                "Kennedy, J., Eberhart, R., (1995). Particle Swarm Optimization\", In Proc, IEEE Int. Conf. Neural Networks, 4, pp. 1942–1947"
+            ]
+        }, 
+        {
+            "The paper published by you" : "PeymanKarimyan, G.B.Gharehpetian, M.Abedi, A.Gavili, \"Long term scheduling for optimal allocation and sizing of DG unit considering load variations and DG type\", International Journal of Electrical Power & Energy Systems, Volume 54, January 2014, Pages 277-287, https://doi.org/10.1016/j.ijepes.2013.07.016",
+            "Suggested papers published in AJEE" : "Akbari, R., Zeighami, V., Ziarati, K., Akbari, I., (2012). Development of an Efficient Hybrid Method for Motif Discovery in DNA Sequences, 44(1), pp. 63-75. doi: 10.22060/eej.2012.42",
+            "Common keywords" : [ 
+                "Particle swarm optimization"
+            ]
+        }, 
+        {
+            "The paper published by you" : "Sadegh GhaniVarzane, MehrdadAbed, G.B.Gharehpetia, \"A new simplified model for assessment of power variation of DFIG-based wind farm participating in frequency control system\", Electric Power Systems Research, Volume 148, July 2017, Pages 220-229, https://doi.org/10.1016/j.epsr.2017.03.033",
+            "Suggested papers published in AJEE" : "Esmaelii, A., (2009). A Novel Active Filter for Mitigation of EMI and Other Adverse Effects of PWM Inverter-Fed AC Motor, 41(1), pp. 45-53. doi: 10.22060/eej.2009.277",
+            "Common keywords" : [ 
+                "Modeling"
+            ]
+        }, 
+        {
+            "The paper published by you" : "Rameshkhah, F., Abedi, M. & Hosseinian, S.H. Clustering of voltage control areas in power system using shuffled frog-leaping algorithm. Electr Eng 92, 269–282 (2010). https://doi.org/10.1007/s00202-010-0178-y",
+            "Suggested papers published in AJEE" : "Pourjafari, M., Fallah Choolabi, E., Jafarboland, M., (2012). Optimum Design of BrushLess DC Motor with Minimum Torque Pulsation using FEM & PSO, 44(2), pp. 59-70. doi: 10.22060/eej.2012.360",
+            "Common references" : [ 
+                "J., Eberhart, C, R., (1995). Particle Swarm Optimization”, IEEE Conference on Neural Networks, 4"
+            ]
+        }, 
+        {
+            "The paper published by you" : "Power electronics: converters, applications, and design",
+            "Suggested papers published in AJEE" : "Kosari, M., Hosseinian, S., Mahmoudi, A., (2015). Decentralized Frequency Restoration in Islanded Converter Base Microgrid, 46(2), pp. 47-55. doi: 10.22060/eej.2015.513",
+            "Common references" : [ 
+                "Pogaku, N., Prodanovic, M., Green, T.C., (2007). Modeling, Analysis And Testing Of Autonomous Operation Of An Inverter-Based Microgrid, IEEE Trans. Power Electron, 22(2)"
+            ]
+        }, 
+        {
+            "The paper published by you" : "Sadegh GhaniVarzane, MehrdadAbed, G.B.Gharehpetia, \"A new simplified model for assessment of power variation of DFIG-based wind farm participating in frequency control system\", Electric Power Systems Research, Volume 148, July 2017, Pages 220-229, https://doi.org/10.1016/j.epsr.2017.03.033",
+            "Suggested papers published in AJEE" : "Kosari, M., Hosseinian, S., Mahmoudi, A., (2015). Decentralized Frequency Restoration in Islanded Converter Base Microgrid, 46(2), pp. 47-55. doi: 10.22060/eej.2015.513",
+            "Common keywords" : [ 
+                "Droop control"
+            ]
+        }, 
+        {
+            "The paper published by you" : "R.Noroozian, M.Abedi, G.B.Gharehpetian, S.H.Hosseini, \"Combined operation of DC isolated distribution and PV systems for supplying unbalanced AC loads\", Renewable Energy, Volume 34, Issue 3, March 2009, Pages 899-908, https://doi.org/10.1016/j.renene.2008.05.043",
+            "Suggested papers published in AJEE" : "Ehsanipour, M., Moghani, J., Hosseinian, S., Saberi, M., (2015). The Impact of Superconducting Fault Current Limiter Locations on Voltage Sag in Power Distribution System, 47(2), pp. 49-60. doi: 10.22060/eej.2015.582",
+            "Common keywords" : [ 
+                "Distributed generation"
+            ]
+        }, 
+        {
+            "The paper published by you" : "H. Shahinzadeh, J. Moradi, G. B. Gharehpetian, H. Nafisi and M. Abedi, \"Internet of Energy (IoE) in Smart Power Systems,\" 2019 5th Conference on Knowledge Based Engineering and Innovation (KBEI), Tehran, Iran, 2019, pp. 627-636, doi: 10.1109/KBEI.2019.8735086.",
+            "Suggested papers published in AJEE" : "Aazami, R., talaeizadeh, v., Daniar, S., (2017). Transmission switching cost modeling and determination candidate Lines for participation in joint energy and reserve markets, 49(1), pp. 39-52. doi: 10.22060/eej.2016.815",
+            "Common keywords" : [ 
+                "Smart grids"
+            ]
+        }, 
+        {
+            "The paper published by you" : "M. Kohansal, G. B. Gharehpetian, M. Rahmatian, M. Abedi and M. J. Sanjari, \"The effect of load condition on stability in isolated Microgrids,\" 2012 Second Iranian Conference on Renewable Energy and Distributed Generation, Tehran, 2012, pp. 28-32, doi: 10.1109/ICREDG.2012.6190463.",
+            "Suggested papers published in AJEE" : "Khosravi, M., Taghiraad, H., (2016). Stability Analysis and Robust PID Control of Cable Driven Robots Considering Elasticity in Cables, 48(2), pp. 113-126. doi: 10.22060/eej.2016.821",
+            "Common keywords" : [ 
+                "Stability analysis"
+            ]
+        }, 
+        {
+            "The paper published by you" : "N. Madinehi, K. Shaloudegi, M. Abedi and H. A. Abyaneh, \"Optimum design of PID controller in AVR system using intelligent methods,\" 2011 IEEE Trondheim PowerTech, Trondheim, 2011, pp. 1-6, doi: 10.1109/PTC.2011.6019196.",
+            "Suggested papers published in AJEE" : "Mohammadi Ardehali, M., Ardehali, M., (2017). Optimization of Mixed-Integer Non-Linear Electricity Generation Expansion Planning Problem Based on Newly Improved Gravitational Search Algorithm, 49(2), pp. 161-172. doi: 10.22060/eej.2017.12123.5041",
+            "Common references" : [ 
+                "Huynh, T.-H., (2008). A Modified Shuffled Frog Leaping Algorithm For Optimal Tuning Of Multivariable Pid Controllers, IEEE, Industrial Technology, 2008. ICIT 2008. IEEE International Conference on"
+            ]
+        }, 
+        {
+            "The paper published by you" : "M. Abedi and M. J. Emadi, \"Cooperative Power Management in Energy Harvesting Communication Systems in Presence of a Helper,\" in IEEE Transactions on Green Communications and Networking, vol. 3, no. 1, pp. 147-158, March 2019, doi: 10.1109/TGCN.2018.2886445.",
+            "Suggested papers published in AJEE" : "Mohammadi Ardehali, M., Ardehali, M., (2017). Optimization of Mixed-Integer Non-Linear Electricity Generation Expansion Planning Problem Based on Newly Improved Gravitational Search Algorithm, 49(2), pp. 161-172. doi: 10.22060/eej.2017.12123.5041",
+            "Common keywords" : [ 
+                "Optimization"
+            ]
+        }, 
+        {
+            "The paper published by you" : "MojtabaRahmani, Seyed HosseinHosseiniana, MehrdadAbedia, \"Stochastic two-stage reliability-based Security Constrained Unit Commitment in smart grid environment\", Sustainable Energy, Grids and Networks, Volume 22, June 2020, 100348, https://doi.org/10.1016/j.segan.2020.100348",
+            "Suggested papers published in AJEE" : "Mosstafayi, M., Abedi, M., Riahy Dehkordi, G., (2018). Optimal DC Fast Charging Placing And Sizing In Iran Capital (Tehran), 50(2), pp. 149-156. doi: 10.22060/eej.2018.13801.5191",
+            "Common keywords" : [ 
+                "Electric vehicles"
+            ]
+        }, 
+        {
+            "The paper published by you" : "E. Saeidpour, V. S. Parizy, M. Abedi and H. Rastegar, \"Complete, integrated and simultaneously design for STATCOM fuzzy controller with variable length genetic algorithm for voltage profile improvement,\" 2008 13th International Conference on Harmonics and Quality of Power, Wollongong, NSW, Australia, 2008, pp. 1-7, doi: 10.1109/ICHQP.2008.4668855.",
+            "Suggested papers published in AJEE" : "Sheikhlar, A., Zarghami, M., Fakharian, A., Menhaj, M., (2015). Delay Compensation on Fuzzy Trajectory Tracking Control of Omni-Directional Mobile Robots, 45(2), pp. 57-64. doi: 10.22060/eej.2015.508",
+            "Common keywords" : [ 
+                "Fuzzy control"
+            ]
+        }, 
+        {
+            "The paper published by you" : "Power electronics: converters, applications, and design",
+            "Suggested papers published in AJEE" : "Mahmoudi, A., Hosseinian, S., Kosari, M., (2015). Eigenvalue calculator for Islanded Inverter-Based Microgrids, 47(1), pp. 47-60. doi: 10.22060/eej.2015.521",
+            "Common references" : [ 
+                "Bevrani, H., S, Shokoohi, (2013). An Intelligent Droop Control For Simultaneous Voltage And Frequency Regulation In Islanded Microgrids” Smart Grid, IEEE Trans, 4(3)", 
+                "Pogaku, N., Prodanovic, M., Green, T.C., (2007). Modeling, Analysis And Testing Of Autonomous Operation Of An Inverter-Based Microgrid, Power Electronics IEEE Trans, 22(2)"
+            ]
+        }, 
+        {
+            "The paper published by you" : "M. Kohansal, G. B. Gharehpetian, M. Rahmatian, M. Abedi and M. J. Sanjari, \"The effect of load condition on stability in isolated Microgrids,\" 2012 Second Iranian Conference on Renewable Energy and Distributed Generation, Tehran, 2012, pp. 28-32, doi: 10.1109/ICREDG.2012.6190463.",
+            "Suggested papers published in AJEE" : "Mahmoudi, A., Hosseinian, S., Kosari, M., (2015). Eigenvalue calculator for Islanded Inverter-Based Microgrids, 47(1), pp. 47-60. doi: 10.22060/eej.2015.521",
+            "Common keywords" : [ 
+                "Stability analysis"
+            ]
+        }, 
+        {
+            "The paper published by you" : "M. Zolfaghari, M. Abedi and G. B. Gharehpetian, \"Power Flow Control of Interconnected AC–DC Microgrids in Grid-Connected Hybrid Microgrids Using Modified UIPC,\" in IEEE Transactions on Smart Grid, vol. 10, no. 6, pp. 6298-6307, Nov. 2019, doi: 10.1109/TSG.2019.2901193.",
+            "Suggested papers published in AJEE" : "دینی, ا., Yazdanpanah, M., (2018). Estimation of the Domain of Attraction of Free Tumor Equilibrium Point for Perturbed Tumor Immunotherapy Model, 50(2), pp. 157-162. doi: 10.22060/eej.2018.12086.5036",
+            "Common references" : [ 
+                "Khalil, H.K., (2001). Nonlinear Systems, Prentice Hall"
+            ]
+        }, 
+        {
+            "The paper published by you" : "PeymanKarimyan, G.B.Gharehpetian, M.Abedi, A.Gavili, \"Long term scheduling for optimal allocation and sizing of DG unit considering load variations and DG type\", International Journal of Electrical Power & Energy Systems, Volume 54, January 2014, Pages 277-287, https://doi.org/10.1016/j.ijepes.2013.07.016",
+            "Suggested papers published in AJEE" : "Khorsand, F., Shahnazi, R., Fallah Choolabi, E., (2019). A Thorough Comparative Analysis of PI and Sliding Mode Controllers in Permanent Magnet Synchronous Motor Drive Based on Optimization Algorithms, 51(2), pp. 8-8. doi: 10.22060/eej.2019.16219.5278",
+            "Common keywords" : [ 
+                "Particle swarm optimization"
+            ]
+        }, 
+        {
+            "The paper published by you" : "H. Shahinzadeh, J. Moradi, G. B. Gharehpetian, S. H. Fathi and M. Abedi, \"Optimal Energy Scheduling for a Microgrid Encompassing DRRs and Energy Hub Paradigm Subject to Alleviate Emission and Operational Costs,\" 2018 Smart Grid Conference (SGC), Sanandaj, Iran, 2018, pp. 1-10, doi: 10.1109/SGC.2018.8777808.",
+            "Suggested papers published in AJEE" : "Mohammadi, f., Abdi, H., Dehnavi, E., (2017). Solving Multiple Fuels Dynamic Environmental/Economic Dispatch Problem and Incentive Based Demand Response Considering Spinning Reserve Requirements, 49(1), pp. 63-74. doi: 10.22060/eej.2016.813",
+            "Common references" : [ 
+                "Moghaddam, M.Parsa, Abdollahi, A., (2011). Flexible Demand Response Programs Modeling In Competitive Electricity Markets, Applied Energy, 88, pp. 3257–3269,"
+            ]
+        }, 
+        {
+            "The paper published by you" : "Statistical distributions",
+            "Suggested papers published in AJEE" : "Zolfaghari Moghaddam, S., Akbari, T., (2018). A Multi-objective Transmission Expansion Planning Strategy: A Bilevel Programming Method, 50(2), pp. 163-168. doi: 10.22060/eej.2018.13484.5167",
+            "Common references" : [ 
+                "Moeini-Aghtaie, M., Abbaspour, A., Fotuhi-Firuzabad, M., (2012). Incorporating Large-Scale Distant Wind Farms In Probabilistic Transmission Expansion Planning—Part I: Theory And Algorithm, IEEE Transactions on Power Systems, 27(3)"
+            ]
+        }, 
+        {
+            "The paper published by you" : "M. Dehghani, M. Taghipour, G. B. Gharehpetian and M. Abedi, \"Optimized Fuzzy Controller for MPPT of Grid-Connected PV Systems in Rapidly Changing Atmospheric Conditions,\" in Journal of Modern Power Systems and Clean Energy, doi: 10.35833/MPCE.2019.000086.",
+            "Suggested papers published in AJEE" : "AlyanNezhadi, M., Zare, F., Hassanpour, H., (2018). Grid Impedance Estimation Using Several Short-Term Low Power Signal Injections, 50(2), pp. 169-176. doi: 10.22060/eej.2017.12501.5091",
+            "Common keywords" : [ 
+                "Genetic algorithms"
+            ]
+        }, 
+        {
+            "The paper published by you" : "M. Abedi and M. J. Emadi, \"Cooperative Power Management in Energy Harvesting Communication Systems in Presence of a Helper,\" in IEEE Transactions on Green Communications and Networking, vol. 3, no. 1, pp. 147-158, March 2019, doi: 10.1109/TGCN.2018.2886445.",
+            "Suggested papers published in AJEE" : "Ravansalar, N., Pourahmadi, V., (2020). Distance-Aware Beamforming for Multiuser Secure Communication Systems, 52(1), pp. 9-9. doi: 10.22060/eej.2019.15573.5263",
+            "Common keywords" : [ 
+                "Optimization"
+            ]
+        }, 
+        {
+            "The paper published by you" : "Probabilistic iterative harmonic analysis of power system",
+            "Suggested papers published in AJEE" : "Mahmoudi, A., Hosseinian, S., Zarabadipour, H., (2018). A Direct Matrix Inversion-Less Analysis for Distribution System Power Flow Considering Distributed Generation, 50(1), pp. 85-92. doi: 10.22060/eej.2017.11646.4984",
+            "Common references" : [ 
+                "Chen, T.-H., (1991). Distribution System Power Flow Analysis-A Rigid Approach, IEEE Transactions on Power Delivery, 6, pp. 1146–1152"
+            ]
+        }, 
+        {
+            "The paper published by you" : "R.Noroozian, M.Abedi, G.B.Gharehpetian, S.H.Hosseini, \"Combined operation of DC isolated distribution and PV systems for supplying unbalanced AC loads\", Renewable Energy, Volume 34, Issue 3, March 2009, Pages 899-908, https://doi.org/10.1016/j.renene.2008.05.043",
+            "Suggested papers published in AJEE" : "Mahmoudi, A., Hosseinian, S., Zarabadipour, H., (2018). A Direct Matrix Inversion-Less Analysis for Distribution System Power Flow Considering Distributed Generation, 50(1), pp. 85-92. doi: 10.22060/eej.2017.11646.4984",
+            "Common keywords" : [ 
+                "Distributed generation"
+            ]
+        }, 
+        {
+            "The paper published by you" : "M. Abedi and M. J. Emadi, \"Cooperative Power Management in Energy Harvesting Communication Systems in Presence of a Helper,\" in IEEE Transactions on Green Communications and Networking, vol. 3, no. 1, pp. 147-158, March 2019, doi: 10.1109/TGCN.2018.2886445.",
+            "Suggested papers published in AJEE" : "Emadi, M., Mehrabi, A., (2020). Throughput Maximization for Multi-Slot Data Transmission via Two-Hop DF SWIPT-Based UAV System, 52(2), pp. 11-11. doi: 10.22060/eej.2019.16272.5280",
+            "Common keywords" : [ 
+                "Energy harvesting"
+            ]
+        }, 
+        {
+            "The paper published by you" : "P. H. Divshali, A. Alimardani, S. H. Hosseinian and M. Abedi, \"Decentralized Cooperative Control Strategy of Microsources for Stabilizing Autonomous VSC-Based Microgrids,\" in IEEE Transactions on Power Systems, vol. 27, no. 4, pp. 1949-1959, Nov. 2012, doi: 10.1109/TPWRS.2012.2188914.",
+            "Suggested papers published in AJEE" : "Naderi, Y., Karimi, M., Jannati Oskuee, m., Hosseini, S., Najafi Ravadanegh, s., (2018). A Developed Asymmetric Multilevel Inverter with Lower Number of Components, 50(2), pp. 197-206. doi: 10.22060/eej.2018.12163.5056",
+            "Common references" : [ 
+                "Hagh, M.T., Taghizadeh, H., Razi, K., (2009). Harmonic Minimization In Multilevel Inverters Using Modified Species-Based Particle Swarm Optimization, IEEE Transactions on Power Electronics, 24(10)"
+            ]
+        }, 
+        {
+            "The paper published by you" : "E. A. Farsani, H. A. Abyaneh, M. Abedi and S. H. Hosseinian, \"A Novel Policy for LMP Calculation in Distribution Networks Based on Loss and Emission Reduction Allocation Using Nucleolus Theory,\" in IEEE Transactions on Power Systems, vol. 31, no. 1, pp. 143-152, Jan. 2016, doi: 10.1109/TPWRS.2015.2398821.",
+            "Suggested papers published in AJEE" : "جعفری, ا., (2020). Determining the Optimal Strategy of Multi Virtual Power Plants using GA-GT, 52(2), pp. 12-12. doi: 10.22060/eej.2020.17607.5322",
+            "Common keywords" : [ 
+                "Game theory"
+            ]
+        }, 
+        {
+            "The paper published by you" : "M. Abedi, H. Masoumi and M. J. Emadi, \"Power Splitting-Based SWIPT Systems With Decoding Cost,\" in IEEE Wireless Communications Letters, vol. 8, no. 2, pp. 432-435, April 2019, doi: 10.1109/LWC.2018.2874886.",
+            "Suggested papers published in AJEE" : "Sattari-Naeini, V., Parizi-Nejad, Z., (2017). Combination of Feature Selection and Learning Methods for IoT Data Fusion, 49(2), pp. 223-232. doi: 10.22060/eej.2017.12151.5046",
+            "Common keywords" : [ 
+                "Internet of Things"
+            ]
+        }, 
+        {
+            "The paper published by you" : "S. M. Ale-Emran, M. Abedi, G. B. Gharehpetian and R. Noroozian, \"Dynamic operation of a photovoltaic system connected to distribution system,\" 2008 International Symposium on Power Electronics, Electrical Drives, Automation and Motion, Ischia, 2008, pp. 206-210, doi: 10.1109/SPEEDHAM.2008.4581298.",
+            "Suggested papers published in AJEE" : "Rahideh, M., Ketabi, A., Halvaei Niasar, A., zamani, I., (2020). Linear Quadratic Integral optimal control of photovoltaic systems, (), pp. -. doi: 10.22060/eej.2020.14970.5249",
+            "Common keywords" : [ 
+                "Photovoltaic systems"
+            ]
+        }, 
+        {
+            "The paper published by you" : "SaeedZolfaghar, Gholam H.Riah, MehrdadAbed, \"A new method to adequate assessment of wind farms’ power output\", Energy Conversion and Management, Volume 103, October 2015, Pages 585-604, https://doi.org/10.1016/j.enconman.2015.07.001",
+            "Suggested papers published in AJEE" : "Majidi, S., Shahnazi, R., (2020). Optimal Adaptive Robust Pitch Control with Load Mitigation for Uncertain Variable Speed Wind Turbines, (), pp. -. doi: 10.22060/eej.2020.18344.5350",
+            "Common keywords" : [ 
+                "Wind turbine"
+            ]
+        }, 
+        {
+            "The paper published by you" : "MojtabaRahmani, Seyed HosseinHosseiniana, MehrdadAbedia, \"Stochastic two-stage reliability-based Security Constrained Unit Commitment in smart grid environment\", Sustainable Energy, Grids and Networks, Volume 22, June 2020, 100348, https://doi.org/10.1016/j.segan.2020.100348",
+            "Suggested papers published in AJEE" : "Jamali Arand, S., Rahmani Fard, J., (2020). Model Predictive Control of a Fault-Tolerant- Hybrid Excitation Axial Field-Flux-Switching Permanent Magnet Motor, (), pp. -. doi: 10.22060/eej.2020.19044.5376",
+            "Common keywords" : [ 
+                "Electric vehicles"
+            ]
+        }, 
+        {
+            "The paper published by you" : "R.Noroozian, M.Abedi, G.B.Gharehpetian, S.H.Hosseini, \"Distributed resources and DC distribution system combination for high power quality\", International Journal of Electrical Power & Energy Systems, Volume 32, Issue 7, September 2010, Pages 769-781, https://doi.org/10.1016/j.ijepes.2010.01.013",
+            "Suggested papers published in AJEE" : "Azad Farsani, E., Zare, M., (2021). Stochastic Multi-objective Distribution Network Reconfiguration Considering Wind Turbines, (), pp. -. doi: 10.22060/eej.2021.19203.5384",
+            "Common keywords" : [ 
+                "Distributed generation (DG)"
+            ]
+        }
+    ],
+    "user_id" : "ksqVjWQAAAAJ"
+}
+
+/* 6 */
+{
+    "_id" : ObjectId("601929c3b79247964bb62ecc"),
+    "recommendations" : [ 
+        {
+            "The paper published by you" : "A. Jahanian and M. Saheb Zamani, \"Chip master planning: An efficient methodology to improve design closure and complexity management of ultra large chips,\" 2010 15th CSI International Symposium on Computer Architecture and Digital Systems, Tehran, 2010, pp. 107-114, doi: 10.1109/CADS.2010.5623543.",
+            "Suggested papers published in AJEE" : "Zangeneh, V., Mohammadi, S., (2012). Multipath Node-Disjoint Routing with Backup List Based on the AODV Protocol, 44(1), pp. 25-31. doi: 10.22060/eej.2012.37",
+            "Common keywords" : [ 
+                "Routing"
+            ]
+        }, 
+        {
+            "The paper published by you" : "H. Daryanavard, A. Parvizian, A. Jahanian and M. Eshghi, \"Design of CAD ASIP for JIT extensible processor: Case study on simulated annealing placer,\" 2014 22nd Iranian Conference on Electrical Engineering (ICEE), Tehran, 2014, pp. 259-263, doi: 10.1109/IranianCEE.2014.6999544.",
+            "Suggested papers published in AJEE" : "Zibaeifardi, M., Rahmatiii, M., (2009). A Novel Subsampling Method for 3D Multimodality Medical Image Registration Based on Mutual Information, 41(1), pp. 11-19. doi: 10.22060/eej.2009.273",
+            "Common keywords" : [ 
+                "Simulated annealing"
+            ]
+        }, 
+        {
+            "The paper published by you" : "M. Salimian and A. Jahanian, \"Analysis of Geometrical Parameters for Remote Side-Channel Attacks on Multi-Tenant FPGAs,\" 2020 17th International ISC Conference on Information Security and Cryptology (ISCISC), Tehran, Iran, 2020, pp. 28-35, doi: 10.1109/ISCISC51277.2020.9261904.",
+            "Suggested papers published in AJEE" : "ghadimi, g., nejati jahromi, m., Ghaemi, E., Heydari, A., (2017). Data Hiding Method Based on Graph Coloring and Pixel Block‘s Correlation in Color Image, 49(2), pp. 123-130. doi: 10.22060/eej.2017.10676.4868",
+            "Common keywords" : [ 
+                "Correlation"
+            ]
+        }, 
+        {
+            "The paper published by you" : "F. Kordi, H. Hosseintalaee and A. Jahanian, \"Cost-Effective and Practical Countermeasure against the Template Side Channel Attack,\" 2020 17th International ISC Conference on Information Security and Cryptology (ISCISC), Tehran, Iran, 2020, pp. 22-27, doi: 10.1109/ISCISC51277.2020.9261918.",
+            "Suggested papers published in AJEE" : "Azimi, S., Veisi, H., Rahmani, R., (2015). Automatic Discovery of Technology Networks for Industrial-Scale R&D IT Projects via Data Mining, 47(1), pp. 17-22. doi: 10.22060/eej.2015.517",
+            "Common keywords" : [ 
+                "Data mining"
+            ]
+        }, 
+        {
+            "The paper published by you" : "M. K. Akbari, A. H. Jahanian, M. Naderi and B. Javadi, \"Area efficient, low power and robust design for add-compare-select units,\" Euromicro Symposium on Digital System Design, 2004. DSD 2004., Rennes, France, 2004, pp. 611-614, doi: 10.1109/DSD.2004.1333334.",
+            "Suggested papers published in AJEE" : "Rezaei, M., Sabahi, M., Shahtalebi, K., Mahin Zaeem, R., Sadeghi, R., (2015). A New Fairness Index and Novel Approach for QoS-Aware Resource Allocation in LTE Networks Based on Utility Functions, 47(2), pp. 19-25. doi: 10.22060/eej.2015.579",
+            "Common keywords" : [ 
+                "Throughput"
+            ]
+        }, 
+        {
+            "The paper published by you" : "Mehdi Saeedi, Morteza Saheb Zamani, Ali Jahanian, \"Prediction and reduction of routing congestion\", ISPD '06: Proceedings of the 2006 international symposium on Physical design, April 2006  , https://doi.org/10.1145/1123008.1123023",
+            "Suggested papers published in AJEE" : "Khanteymoori, R., Homayounpour, M., Menhaj, M., (2012).  Structure Learning in Bayesian Networks Using Asexual Reproduction Optimization, 44(1), pp. 43-53. doi: 10.22060/eej.2012.40",
+            "Common references" : [ 
+                "Mitchel, M., (1999). An Introduction To Genetic Algorithms, MIT Press"
+            ]
+        }, 
+        {
+            "The paper published by you" : "S. Boroojerdi, A. Jahanian and E. Rohani, \"Noise Resistant Full Adder Using DNA Strands,\" 2020 Intermountain Engineering, Technology and Computing (IETC), Orem, UT, USA, 2020, pp. 1-6, doi: 10.1109/IETC47856.2020.9249190.",
+            "Suggested papers published in AJEE" : "Safari, L., Azhari, S., (2011). A Low Power Low Voltage Rail to Rail Constant gm Differential Amplifier with 150 dB CMRR and Enhanced Frequency Performance, 43(1), pp. 35-44. doi: 10.22060/eej.2011.86",
+            "Common references" : [ 
+                " International Technology Roadmap For Semiconductors"
+            ]
+        }, 
+        {
+            "The paper published by you" : "S. ZamanZadeh, S. Shahabi and A. Jahanian, \"Security improvement of FPGA configuration file against the reverse engineering attack,\" 2016 13th International Iranian Society of Cryptology Conference on Information Security and Cryptology (ISCISC), Tehran, 2016, pp. 101-105, doi: 10.1109/ISCISC.2016.7736459.",
+            "Suggested papers published in AJEE" : "Aazami, R., talaeizadeh, v., Daniar, S., (2017). Transmission switching cost modeling and determination candidate Lines for participation in joint energy and reserve markets, 49(1), pp. 39-52. doi: 10.22060/eej.2016.815",
+            "Common keywords" : [ 
+                "Security"
+            ]
+        }, 
+        {
+            "The paper published by you" : "N. MohammadZadeh, M. Mirsaeedi, A. Jahanian and M. S. Zamani, \"Multi-domain clock skew scheduling-aware register placement to optimize clock distribution network,\" 2009 Design, Automation & Test in Europe Conference & Exhibition, Nice, 2009, pp. 833-838, doi: 10.1109/DATE.2009.5090778.",
+            "Suggested papers published in AJEE" : "Yeganeh, H., Salahi, A., Pourmina, M., (2018). Reduction of Energy Consumption in Mobile Cloud Computing by ‎Classification of Demands and Executing in Different Data Centers, 50(1), pp. 59-66. doi: 10.22060/eej.2017.13284.5150",
+            "Common keywords" : [ 
+                "Energy consumption"
+            ]
+        }, 
+        {
+            "The paper published by you" : "M. Sanjabi, A. Jahanian and M. Tahmasebi, \"High-Performance General-Purpose Arithmetic Operations Using the Massive Parallel DNA-Based Computation,\" 2017 Euromicro Conference on Digital System Design (DSD), Vienna, 2017, pp. 543-546, doi: 10.1109/DSD.2017.23.",
+            "Suggested papers published in AJEE" : "نصیری, پ., Saviz, M., حلمی کهنه شهری, م., pourhosein, M., Divani, R., (2017). Measurement and Computational Modeling of Radio-Frequency Electromagnetic Power Density Around GSM Base Transceiver Station Antennas, 49(2), pp. 179-186. doi: 10.22060/eej.2017.12018.5026",
+            "Common keywords" : [ 
+                "Simulation"
+            ]
+        }, 
+        {
+            "The paper published by you" : "F. Kordi, H. Hosseintalaee and A. Jahanian, \"Cost-Effective and Practical Countermeasure against the Template Side Channel Attack,\" 2020 17th International ISC Conference on Information Security and Cryptology (ISCISC), Tehran, Iran, 2020, pp. 22-27, doi: 10.1109/ISCISC51277.2020.9261918.",
+            "Suggested papers published in AJEE" : "Ghayekhloo, M., Menhaj, M., (2017). Combination of Transformed-means Clustering and Neural Networks for Short-Term Solar Radiation Forecasting, 49(2), pp. 187-194. doi: 10.22060/eej.2017.12487.5077",
+            "Common keywords" : [ 
+                "Data mining"
+            ]
+        }, 
+        {
+            "The paper published by you" : "H. Hossein-Talaee and A. Jahanian, \"Layout Vulnerability Reduction against Trojan Insertion Using Security-Aware White Space Distribution,\" 2017 IEEE Computer Society Annual Symposium on VLSI (ISVLSI), Bochum, 2017, pp. 551-555, doi: 10.1109/ISVLSI.2017.102.",
+            "Suggested papers published in AJEE" : "Bigdeli, M., (2021). Performance of Mathematical Indices in Transformer Condition Monitoring Using k-NN Based Frequency Response Analysis, (), pp. -. doi: 10.22060/eej.2021.19061.5378",
+            "Common keywords" : [ 
+                "Measurement"
+            ]
+        }
+    ],
+    "user_id" : "EA0uE3kAAAAJ"
+}
+
+/* 7 */
+{
+    "_id" : ObjectId("6019423c3204ffe2c1e88a18"),
+    "recommendations" : [ 
+        {
+            "The paper published by you" : "RahimehRouhi, MehdiJafari, ShohrehKasaei, PeimanKeshavarzian, \"Benign and malignant breast tumors classification based on region growing and CNN segmentation\", Expert Systems with Applications, Volume 42, Issue 3, 15 February 2015, Pages 990-1002, https://doi.org/10.1016/j.eswa.2014.09.020",
+            "Suggested papers published in AJEE" : "Moallemi, P., Behnampourii, M., (2010). Adaptive Optimum Notch Filter for Periodic Noise Reduction in Digital Images, 42(1), pp. 1-7. doi: 10.22060/eej.2010.94",
+            "Common keywords" : [ 
+                "Region growing"
+            ]
+        }, 
+        {
+            "The paper published by you" : "Ahmad Ali Abin, Mehran Fotouhi, Shohreh Kasaei, \"Skin segmentation based on cellular learning automata\", MoMM '08: Proceedings of the 6th International Conference on Advances in Mobile Computing and Multimedia, November 2008  , https://doi.org/10.1145/1497185.1497238",
+            "Suggested papers published in AJEE" : "Farzaneh Bahalgardi, N., Yaghmaee, M., Adjeroh, D., (2012). An Adaptive Congestion Alleviating Protocol for Healthcare Applications in Wireless Body Sensor Networks: Learning Automata Approach, 44(1), pp. 31-41. doi: 10.22060/eej.2012.38",
+            "Common references" : [ 
+                "Narendra, K.S., Thathachar, M.A., (1989). Learning Automaton: An Introduction, Prentice Hall"
+            ]
+        }, 
+        {
+            "The paper published by you" : "RahimehRouhi, MehdiJafari, ShohrehKasaei, PeimanKeshavarzian, \"Benign and malignant breast tumors classification based on region growing and CNN segmentation\", Expert Systems with Applications, Volume 42, Issue 3, 15 February 2015, Pages 990-1002, https://doi.org/10.1016/j.eswa.2014.09.020",
+            "Suggested papers published in AJEE" : "Khanteymoori, R., Homayounpour, M., Menhaj, M., (2012).  Structure Learning in Bayesian Networks Using Asexual Reproduction Optimization, 44(1), pp. 43-53. doi: 10.22060/eej.2012.40",
+            "Common keywords" : [ 
+                "Genetic algorithm"
+            ]
+        }, 
+        {
+            "The paper published by you" : "RahimehRouhi, MehdiJafari, ShohrehKasaei, PeimanKeshavarzian, \"Benign and malignant breast tumors classification based on region growing and CNN segmentation\", Expert Systems with Applications, Volume 42, Issue 3, 15 February 2015, Pages 990-1002, https://doi.org/10.1016/j.eswa.2014.09.020",
+            "Suggested papers published in AJEE" : "AlyanNezhadi, M., Zare, F., Hassanpour, H., (2018). Grid Impedance Estimation Using Several Short-Term Low Power Signal Injections, 50(2), pp. 169-176. doi: 10.22060/eej.2017.12501.5091",
+            "Common keywords" : [ 
+                "Genetic algorithm"
+            ]
+        }
+    ],
+    "user_id" : "mvx4PvgAAAAJ"
+}
+
+/* 8 */
+{
+    "_id" : ObjectId("60d87563902c1d1996d8c102"),
+    "user_id" : "RV_QfCsAAAAJ",
+    "recommendations" : [ 
+        {
+            "The paper published by you" : "M. S. Zamani, M. Taajobian and M. Saeedi, \"An Efficient Non-Tree Clock Routing Algorithm for Reducing Delay Uncertainty,\" 2008 11th EUROMICRO Conference on Digital System Design Architectures, Methods and Tools, 2008, pp. 558-565, doi: 10.1109/DSD.2008.72.",
+            "Suggested papers published in AJEE" : "Faiz, J., Takbash, A., Mazaheri-Tehrani, E., (2017). A Review of Application of Signal Processing Techniques for Fault Diagnosis of Induction Motors – Part I, 49(2), pp. 109-122. doi: 10.22060/eej.2017.13219.5142",
+            "Common keywords" : [ 
+                "Signal processing"
+            ]
+        }, 
+        {
+            "The paper published by you" : "M. S. Zamani, M. Taajobian and M. Saeedi, \"An Efficient Non-Tree Clock Routing Algorithm for Reducing Delay Uncertainty,\" 2008 11th EUROMICRO Conference on Digital System Design Architectures, Methods and Tools, 2008, pp. 558-565, doi: 10.1109/DSD.2008.72.",
+            "Suggested papers published in AJEE" : "Zangeneh, V., Mohammadi, S., (2012). Multipath Node-Disjoint Routing with Backup List Based on the AODV Protocol, 44(1), pp. 25-31. doi: 10.22060/eej.2012.37",
+            "Common keywords" : [ 
+                "Routing"
+            ]
+        }, 
+        {
+            "The paper published by you" : "M. S. Zamani, M. Taajobian and M. Saeedi, \"An Efficient Non-Tree Clock Routing Algorithm for Reducing Delay Uncertainty,\" 2008 11th EUROMICRO Conference on Digital System Design Architectures, Methods and Tools, 2008, pp. 558-565, doi: 10.1109/DSD.2008.72.",
+            "Suggested papers published in AJEE" : "Alimardani, A., Jadid, S., (2019). Optimum scheduling of the HRES for an isolated rural city in Iran, 51(1), pp. 13-20. doi: 10.22060/eej.2019.13946.5197",
+            "Common keywords" : [ 
+                "Uncertainty"
+            ]
+        }, 
+        {
+            "The paper published by you" : "M. Aminian, M. Saeedi, M. S. Zamani and M. Sedighi, \"FPGA-Based Circuit Model Emulation of Quantum Algorithms,\" 2008 IEEE Computer Society Annual Symposium on VLSI, 2008, pp. 399-404, doi: 10.1109/ISVLSI.2008.43.",
+            "Suggested papers published in AJEE" : "Ojaghi, M., Sabouri, M., (2012). Magnetic Saturation Impacts on Fault Analysis of Squirrel-Cage Induction Motors using Winding Function Approach, 44(2), pp. 21-31. doi: 10.22060/eej.2012.359",
+            "Common keywords" : [ 
+                "Computer simulation"
+            ]
+        }, 
+        {
+            "The paper published by you" : "Y. Sanaee, M. Saeedi and M. S. Zamani, \"Shared-PPRM: A Memory-Efficient Representation for Boolean Reversible Functions,\" 2008 IEEE Computer Society Annual Symposium on VLSI, 2008, pp. 471-474, doi: 10.1109/ISVLSI.2008.41.",
+            "Suggested papers published in AJEE" : "Azimi, S., Veisi, H., Rahmani, R., (2015). Automatic Discovery of Technology Networks for Industrial-Scale R&D IT Projects via Data Mining, 47(1), pp. 17-22. doi: 10.22060/eej.2015.517",
+            "Common keywords" : [ 
+                "Data mining"
+            ]
+        }, 
+        {
+            "The paper published by you" : "Mehdi Saeedi, Morteza Saheb Zamani, Ali Jahanian, \"Prediction and reduction of routing congestion\", ISPD '06: Proceedings of the 2006 international symposium on Physical design, April 2006  , https://doi.org/10.1145/1123008.1123023",
+            "Suggested papers published in AJEE" : "Khanteymoori, R., Homayounpour, M., Menhaj, M., (2012).  Structure Learning in Bayesian Networks Using Asexual Reproduction Optimization, 44(1), pp. 43-53. doi: 10.22060/eej.2012.40",
+            "Common references" : [ 
+                "Mitchel, M., (1999). An Introduction To Genetic Algorithms, MIT Press"
+            ]
+        }, 
+        {
+            "The paper published by you" : "M. Saeedi, M. S. Zamani and M. Sedighi, \"Moving forward: A non-search based synthesis method toward efficient CNOT-based quantum circuit synthesis algorithms,\" 2008 Asia and South Pacific Design Automation Conference, 2008, pp. 83-88, doi: 10.1109/ASPDAC.2008.4484066.",
+            "Suggested papers published in AJEE" : "Safari, L., Azhari, S., (2011). A Low Power Low Voltage Rail to Rail Constant gm Differential Amplifier with 150 dB CMRR and Enhanced Frequency Performance, 43(1), pp. 35-44. doi: 10.22060/eej.2011.86",
+            "Common references" : [ 
+                " International Technology Roadmap For Semiconductors"
+            ]
+        }, 
+        {
+            "The paper published by you" : "M. S. Zamani, M. Taajobian and M. Saeedi, \"An Efficient Non-Tree Clock Routing Algorithm for Reducing Delay Uncertainty,\" 2008 11th EUROMICRO Conference on Digital System Design Architectures, Methods and Tools, 2008, pp. 558-565, doi: 10.1109/DSD.2008.72.",
+            "Suggested papers published in AJEE" : "nikmehr, n., Najafi Ravadanegh, S., (2016). Analysis of Reliability Indices in Next Generation Microgrids Under Uncertainties of Load and Renewable Power Production, 48(1), pp. 41-51. doi: 10.22060/eej.2016.630",
+            "Common keywords" : [ 
+                "Uncertainty"
+            ]
+        }, 
+        {
+            "The paper published by you" : "MehdiSaeed, MehdiSedigh, MortezaSaheb Zaman, \"A library-based synthesis methodology for reversible logic\", Microelectronics Journal, Volume 41, Issue 4, April 2010, Pages 185-194, https://doi.org/10.1016/j.mejo.2010.02.002",
+            "Suggested papers published in AJEE" : "Mohammadi Ardehali, M., Ardehali, M., (2017). Optimization of Mixed-Integer Non-Linear Electricity Generation Expansion Planning Problem Based on Newly Improved Gravitational Search Algorithm, 49(2), pp. 161-172. doi: 10.22060/eej.2017.12123.5041",
+            "Common keywords" : [ 
+                "Optimization"
+            ]
+        }, 
+        {
+            "The paper published by you" : "H. R. Kheirabadi, M. S. Zamani and M. Saeedi, \"An Efficient Analytical Approach to Path-Based Buffer Insertion,\" IEEE Computer Society Annual Symposium on VLSI (ISVLSI '07), 2007, pp. 219-224, doi: 10.1109/ISVLSI.2007.23.",
+            "Suggested papers published in AJEE" : "Yeganeh, H., Salahi, A., Pourmina, M., (2018). Reduction of Energy Consumption in Mobile Cloud Computing by ‎Classification of Demands and Executing in Different Data Centers, 50(1), pp. 59-66. doi: 10.22060/eej.2017.13284.5150",
+            "Common keywords" : [ 
+                "Energy consumption"
+            ]
+        }, 
+        {
+            "The paper published by you" : "Y. Sanaee, M. Saeedi and M. S. Zamani, \"Shared-PPRM: A Memory-Efficient Representation for Boolean Reversible Functions,\" 2008 IEEE Computer Society Annual Symposium on VLSI, 2008, pp. 471-474, doi: 10.1109/ISVLSI.2008.41.",
+            "Suggested papers published in AJEE" : "Ghayekhloo, M., Menhaj, M., (2017). Combination of Transformed-means Clustering and Neural Networks for Short-Term Solar Radiation Forecasting, 49(2), pp. 187-194. doi: 10.22060/eej.2017.12487.5077",
+            "Common keywords" : [ 
+                "Data mining"
+            ]
+        }, 
+        {
+            "The paper published by you" : "MehdiSaeed, MehdiSedigh, MortezaSaheb Zaman, \"A library-based synthesis methodology for reversible logic\", Microelectronics Journal, Volume 41, Issue 4, April 2010, Pages 185-194, https://doi.org/10.1016/j.mejo.2010.02.002",
+            "Suggested papers published in AJEE" : "Ravansalar, N., Pourahmadi, V., (2020). Distance-Aware Beamforming for Multiuser Secure Communication Systems, 52(1), pp. 9-9. doi: 10.22060/eej.2019.15573.5263",
+            "Common keywords" : [ 
+                "Optimization"
+            ]
+        }, 
+        {
+            "The paper published by you" : "MehdiSaeed, MehdiSedigh, MortezaSaheb Zaman, \"A library-based synthesis methodology for reversible logic\", Microelectronics Journal, Volume 41, Issue 4, April 2010, Pages 185-194, https://doi.org/10.1016/j.mejo.2010.02.002",
+            "Suggested papers published in AJEE" : "Majidi, S., Shahnazi, R., (2020). Optimal Adaptive Robust Pitch Control with Load Mitigation for Uncertain Variable Speed Wind Turbines, (), pp. -. doi: 10.22060/eej.2020.18344.5350",
+            "Common keywords" : [ 
+                "Optimization"
+            ]
+        }
+    ]
+}
