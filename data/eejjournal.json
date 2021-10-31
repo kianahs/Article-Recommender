@@ -1,6 +1,6 @@
-/* 1 */
+[
 {
-    "_id" : ObjectId("601825068cca53d2d23fcb86"),
+    "_id" : "ObjectId(601825068cca53d2d23fcb86)",
     "DOI" : "10.22060/eej.2018.13787.5189",
     "article" : {
         "title" : "Asadi Amiri, S., Hassanpour, H., (2019). A Saliency Detection Model via Fusing Extracted Low-level and High-level Features from an Image, 51(1), pp. 3-12. doi: 10.22060/eej.2018.13787.5189",
@@ -14,10 +14,10 @@
         "url" : "https://eej.aut.ac.ir/article_3157.html"
     }
 }
+,
 
-/* 2 */
 {
-    "_id" : ObjectId("6018251f8cca53d2d23fcb91"),
+    "_id" : "ObjectId(6018251f8cca53d2d23fcb91)",
     "DOI" : "10.22060/eej.2013.430",
     "article" : {
         "title" : "Badiei Khuzani, M., Moradi, G., (2013). Fast Finite Element Method Using Multi-Step Mesh Process, 45(2), pp. 1-9. doi: 10.22060/eej.2013.430",
@@ -258,10 +258,9 @@
         "url" : "https://eej.aut.ac.ir/article_430.html"
     }
 }
-
-/* 3 */
+,
 {
-    "_id" : ObjectId("601824c88cca53d2d23fcb75"),
+    "_id" : "ObjectId(601824c88cca53d2d23fcb75)",
     "DOI" : "10.22060/eej.2012.35",
     "article" : {
         "title" : "Rasoolzadegan, A., Abdollahzadeh Barforoush, A., (2012). Developing Reliable yet Flexible Software through If-Then Model Transformation Rules, 44(1), pp. 1-24. doi: 10.22060/eej.2012.35",
@@ -1927,10 +1926,10 @@
         "url" : "https://eej.aut.ac.ir/article_35.html"
     }
 }
+,
 
-/* 4 */
 {
-    "_id" : ObjectId("601824cb8cca53d2d23fcb76"),
+    "_id" : "ObjectId(601824cb8cca53d2d23fcb76)",
     "DOI" : "10.22060/eej.2011.83",
     "article" : {
         "title" : "Mirzababaei, S., Akbariii, M., (2011). A Hierarchical SLAM/GPS/INS Sensor Fusion with WLFP for Flying Robo-SAR's Navigation, 43(1), pp. 1-10. doi: 10.22060/eej.2011.83",
@@ -2784,9 +2783,9 @@
     }
 }
 
-/* 5 */
+,
 {
-    "_id" : ObjectId("601824cd8cca53d2d23fcb77"),
+    "_id" : "ObjectId(601824cd8cca53d2d23fcb77)",
     "DOI" : "10.22060/eej.2010.94",
     "article" : {
         "title" : "Moallemi, P., Behnampourii, M., (2010). Adaptive Optimum Notch Filter for Periodic Noise Reduction in Digital Images, 42(1), pp. 1-7. doi: 10.22060/eej.2010.94",
@@ -3104,9 +3103,9 @@
     }
 }
 
-/* 6 */
+,
 {
-    "_id" : ObjectId("601824cf8cca53d2d23fcb78"),
+    "_id" : "ObjectId(601824cf8cca53d2d23fcb78)",
     "DOI" : "10.22060/eej.2009.272",
     "article" : {
         "title" : "Farshidii, E., Sayediii, S., (2009). A Micropower Multi Decade Dynamic Range Current-Mode True RMS-to-DC Converter, 41(1), pp. 1-10. doi: 10.22060/eej.2009.272",
@@ -3592,10 +3591,9 @@
         "url" : "https://eej.aut.ac.ir/article_272.html"
     }
 }
-
-/* 7 */
+,
 {
-    "_id" : ObjectId("601824d08cca53d2d23fcb79"),
+    "_id" : "ObjectId(601824d08cca53d2d23fcb79)",
     "DOI" : "10.22060/eej.2009.279",
     "article" : {
         "title" : "Abirii, E., Salehiii, M., Abrishamifariii, A., (2009). Active Filter Control Method Based on Direct Power Control for Compensating Reactive Powers due to Unbalanced Voltages and Nonlinear Loads, 41(2), pp. 1-8. doi: 10.22060/eej.2009.279",
@@ -3895,10 +3893,10 @@
         "url" : "https://eej.aut.ac.ir/article_279.html"
     }
 }
+,
 
-/* 8 */
 {
-    "_id" : ObjectId("601824e38cca53d2d23fcb7a"),
+    "_id" : "ObjectId(601824e38cca53d2d23fcb7a)",
     "DOI" : "10.22060/eej.2012.357",
     "article" : {
         "title" : "Meymanatabadi, S., Musevi niya, J., Mozaffari Tazeh kand, b., (2012). An Efficient Scheme for PAPR Reduction of OFDM based on Selected Mapping without Side Information, 44(2), pp. 1-9. doi: 10.22060/eej.2012.357",
@@ -4701,10 +4699,9 @@
         "url" : "https://eej.aut.ac.ir/article_357.html"
     }
 }
-
-/* 9 */
+,
 {
-    "_id" : ObjectId("601824e68cca53d2d23fcb7b"),
+    "_id" : "ObjectId(601824e68cca53d2d23fcb7b)",
     "DOI" : "10.22060/eej.2013.423",
     "article" : {
         "title" : "Zarif Loloei, A., Taghirad, H., N. Kouchmeshky, N., (2013). Interval Analysis of Controllable Workspace for Cable Robots, 45(1), pp. 1-8. doi: 10.22060/eej.2013.423",
@@ -5438,10 +5435,10 @@
         "url" : "https://eej.aut.ac.ir/article_423.html"
     }
 }
+,
 
-/* 10 */
 {
-    "_id" : ObjectId("601824e98cca53d2d23fcb7c"),
+    "_id" : "ObjectId(601824e98cca53d2d23fcb7c)",
     "DOI" : "10.22060/eej.2014.435",
     "article" : {
         "title" : "Farhadi, B., Shahalami, S., Fallah Choolabi, E., (2014). Optimal Design of Single-Phase Induction Motor Using MPSO and FEM, 46(1), pp. 1-9. doi: 10.22060/eej.2014.435",
@@ -5954,10 +5951,10 @@
         "url" : "https://eej.aut.ac.ir/article_435.html"
     }
 }
+,
 
-/* 11 */
 {
-    "_id" : ObjectId("601824eb8cca53d2d23fcb7d"),
+    "_id" : "ObjectId(601824eb8cca53d2d23fcb7d)",
     "DOI" : "10.22060/eej.2014.442",
     "article" : {
         "title" : "Kalantari, I., Zakeri, B., (2014). Microwave Imaging Using SAR, 46(2), pp. 1-7. doi: 10.22060/eej.2014.442",
@@ -6384,10 +6381,10 @@
         "url" : "https://eej.aut.ac.ir/article_442.html"
     }
 }
+,
 
-/* 12 */
 {
-    "_id" : ObjectId("601824ee8cca53d2d23fcb7e"),
+    "_id" : "ObjectId(601824ee8cca53d2d23fcb7e)",
     "DOI" : "10.22060/eej.2015.515",
     "article" : {
         "title" : "Torabian Esfahani, M., Vahidi, B., (2015). A Probabilistic Three-Phase Time Domain Electric Arc Furnace Model based on analytical method, 47(1), pp. 1-10. doi: 10.22060/eej.2015.515",
@@ -6794,9 +6791,9 @@
     }
 }
 
-/* 13 */
+,
 {
-    "_id" : ObjectId("601824ef8cca53d2d23fcb7f"),
+    "_id" : "ObjectId(601824ef8cca53d2d23fcb7f)",
     "DOI" : "10.22060/eej.2015.577",
     "article" : {
         "title" : "Sharifi, A., Sharifi, M., Musevi Niya, M., (2015). Secure Collaborative Spectrum Sensing in the Presence of Primary User Emulation Attack in Cognitive Radio Networks, 47(2), pp. 1-8. doi: 10.22060/eej.2015.577",
@@ -7132,9 +7129,9 @@
     }
 }
 
-/* 14 */
+,
 {
-    "_id" : ObjectId("601824f28cca53d2d23fcb80"),
+    "_id" : "ObjectId(601824f28cca53d2d23fcb80)",
     "DOI" : "10.22060/eej.2016.626",
     "article" : {
         "title" : "Danaeian, M., Movahhedi, M., Hakimi, A., Afrooz, K., (2016). A Compact Ultra-Wideband Bandpass Filter with Sharp-Rejection using Complementary Split Ring Resonators, 48(1), pp. 1-10. doi: 10.22060/eej.2016.626",
@@ -7956,9 +7953,9 @@
     }
 }
 
-/* 15 */
+,
 {
-    "_id" : ObjectId("601824f48cca53d2d23fcb81"),
+    "_id" : "ObjectId(601824f48cca53d2d23fcb81)",
     "DOI" : "10.22060/eej.2016.811",
     "article" : {
         "title" : "Yousefi, S., Hosseini-Biyouki, M., Zaboli, A., Askarian-Abyaneh, H., Hosseinian, S., (2017). Harmonic Elimination of 25 kV AC Electric Railways Utilizing a New Hybrid Filter Structure, 49(1), pp. 3-10. doi: 10.22060/eej.2016.811",
@@ -8406,9 +8403,9 @@
     }
 }
 
-/* 16 */
+,
 {
-    "_id" : ObjectId("601824f68cca53d2d23fcb82"),
+    "_id" : "ObjectId(601824f68cca53d2d23fcb82)",
     "DOI" : "10.22060/eej.2016.812",
     "article" : {
         "title" : "Neshati, M., Rahimi, ٍ., (2016). Development of Low Profile Substrate Integrated Waveguide Horn Antenna with Improved Gain, 48(2), pp. 63-70. doi: 10.22060/eej.2016.812",
@@ -8908,9 +8905,9 @@
     }
 }
 
-/* 17 */
+,
 {
-    "_id" : ObjectId("601824fc8cca53d2d23fcb83"),
+    "_id" : "ObjectId(601824fc8cca53d2d23fcb83)",
     "DOI" : "10.22060/eej.2017.13219.5142",
     "article" : {
         "title" : "Faiz, J., Takbash, A., Mazaheri-Tehrani, E., (2017). A Review of Application of Signal Processing Techniques for Fault Diagnosis of Induction Motors – Part I, 49(2), pp. 109-122. doi: 10.22060/eej.2017.13219.5142",
@@ -10768,9 +10765,9 @@
     }
 }
 
-/* 18 */
+,
 {
-    "_id" : ObjectId("601825008cca53d2d23fcb84"),
+    "_id" : "ObjectId(601825008cca53d2d23fcb84)",
     "DOI" : "10.22060/eej.2017.13220.5143",
     "article" : {
         "title" : "Faiz, J., Takbash, A., Mazaheri-Tehrani, E., (2018). Application of Signal Processing Tools for Fault Diagnosis in Induction Motors-A Review-Part II, 50(1), pp. 3-12. doi: 10.22060/eej.2017.13220.5143",
@@ -12651,9 +12648,9 @@
     }
 }
 
-/* 19 */
+,
 {
-    "_id" : ObjectId("601825048cca53d2d23fcb85"),
+    "_id" : "ObjectId(601825048cca53d2d23fcb85)",
     "DOI" : "10.22060/eej.2018.14303.5217",
     "article" : {
         "title" : "saleh, A., deihimi, A., (2018). Model Predictive Control of Distributed Energy Resources with Predictive Set-Points for Grid-Connected Operation, 50(2), pp. 109-120. doi: 10.22060/eej.2018.14303.5217",
@@ -13697,9 +13694,9 @@
     }
 }
 
-/* 20 */
+,
 {
-    "_id" : ObjectId("6018250d8cca53d2d23fcb8a"),
+    "_id" : "ObjectId(6018250d8cca53d2d23fcb8a)",
     "DOI" : "10.22060/eej.2012.37",
     "article" : {
         "title" : "Zangeneh, V., Mohammadi, S., (2012). Multipath Node-Disjoint Routing with Backup List Based on the AODV Protocol, 44(1), pp. 25-31. doi: 10.22060/eej.2012.37",
@@ -14016,9 +14013,9 @@
     }
 }
 
-/* 21 */
+,
 {
-    "_id" : ObjectId("601825108cca53d2d23fcb8b"),
+    "_id" : "ObjectId(601825108cca53d2d23fcb8b)",
     "DOI" : "10.22060/eej.2011.84",
     "article" : {
         "title" : "Soltanii, J., Abootorabi Zarchi, H., (2011). Robust Control of Encoderless Synchronous Reluctance Motor Drives Based on Adaptive Backstepping and Input-Output Feedback Linearization Techniques, 43(1), pp. 11-23. doi: 10.22060/eej.2011.84",
@@ -14785,9 +14782,9 @@
     }
 }
 
-/* 22 */
+,
 {
-    "_id" : ObjectId("601825128cca53d2d23fcb8c"),
+    "_id" : "ObjectId(601825128cca53d2d23fcb8c)",
     "DOI" : "10.22060/eej.2010.96",
     "article" : {
         "title" : "Bidabadi, B., Sedaghat, M., (2010). Geometric Modeling of Dubins Airplane Movement and its Metric, 42(1), pp. 9-16. doi: 10.22060/eej.2010.96",
@@ -15146,9 +15143,9 @@
     }
 }
 
-/* 23 */
+,
 {
-    "_id" : ObjectId("601825148cca53d2d23fcb8d"),
+    "_id" : "ObjectId(601825148cca53d2d23fcb8d)",
     "DOI" : "10.22060/eej.2009.273",
     "article" : {
         "title" : "Zibaeifardi, M., Rahmatiii, M., (2009). A Novel Subsampling Method for 3D Multimodality Medical Image Registration Based on Mutual Information, 41(1), pp. 11-19. doi: 10.22060/eej.2009.273",
@@ -15451,9 +15448,9 @@
     }
 }
 
-/* 24 */
+,
 {
-    "_id" : ObjectId("601825178cca53d2d23fcb8e"),
+    "_id" : "ObjectId(601825178cca53d2d23fcb8e)",
     "DOI" : "10.22060/eej.2009.280",
     "article" : {
         "title" : "Modarres-Hashemi, M., Dorostgan, M., Naghshiii *, M., (2009). ISAR Image Improvement Using STFT Kernel Width Optimization Based On Minimum Entropy Criterion, 41(2), pp. 9-16. doi: 10.22060/eej.2009.280",
@@ -16144,9 +16141,9 @@
     }
 }
 
-/* 25 */
+,
 {
-    "_id" : ObjectId("601825198cca53d2d23fcb8f"),
+    "_id" : "ObjectId(601825198cca53d2d23fcb8f)",
     "DOI" : "10.22060/eej.2012.358",
     "article" : {
         "title" : "gholami, r., Zakeri, B., Mehrpour Bernety, h., (2012). A New Compact Ultra-wideband Linear Antenna Array for Target Detection Applications, 44(2), pp. 11-19. doi: 10.22060/eej.2012.358",
@@ -16683,9 +16680,9 @@
     }
 }
 
-/* 26 */
+,
 {
-    "_id" : ObjectId("6018251c8cca53d2d23fcb90"),
+    "_id" : "ObjectId(6018251c8cca53d2d23fcb90)",
     "DOI" : "10.22060/eej.2013.427",
     "article" : {
         "title" : "Ghassemi, A., zarezadeh, E., Saeed Fazel, S., (2013). Power Quality Improvement in Traction Power Supply Networks, 45(1), pp. 9-15. doi: 10.22060/eej.2013.427",
@@ -17256,9 +17253,9 @@
     }
 }
 
-/* 27 */
+,
 {
-    "_id" : ObjectId("601825218cca53d2d23fcb92"),
+    "_id" : "ObjectId(601825218cca53d2d23fcb92)",
     "DOI" : "10.22060/eej.2014.436",
     "article" : {
         "title" : "Abbaszadeh, K., Maroufian, S., (2014). Cogging Torque Reduction in PMSM Motor by Using Proposed New Auxiliary Winding, 46(1), pp. 11-17. doi: 10.22060/eej.2014.436",
@@ -17789,9 +17786,9 @@
     }
 }
 
-/* 28 */
+,
 {
-    "_id" : ObjectId("601825248cca53d2d23fcb93"),
+    "_id" : "ObjectId(601825248cca53d2d23fcb93)",
     "DOI" : "10.22060/eej.2015.509",
     "article" : {
         "title" : "Namin, F., (2015). Tunable Plasmonic Nanoparticles Based on Prolate Spheroids, 46(2), pp. 9-14. doi: 10.22060/eej.2015.509",
@@ -18416,9 +18413,9 @@
     }
 }
 
-/* 29 */
+,
 {
-    "_id" : ObjectId("601825258cca53d2d23fcb94"),
+    "_id" : "ObjectId(601825258cca53d2d23fcb94)",
     "DOI" : "10.22060/eej.2015.516",
     "article" : {
         "title" : "Alishahi, M., Yaghmaee, M., Wu, G., (2015). Improving the QoS in Intelligent Connected EVSE by Using RPL, 47(1), pp. 11-16. doi: 10.22060/eej.2015.516",
@@ -18658,9 +18655,9 @@
     }
 }
 
-/* 30 */
+,
 {
-    "_id" : ObjectId("601825288cca53d2d23fcb95"),
+    "_id" : "ObjectId(601825288cca53d2d23fcb95)",
     "DOI" : "10.22060/eej.2015.578",
     "article" : {
         "title" : "Rahati Belabad, A., Iranpour, E., Sharifian, S., (2015). FPGA Implementation of a Hammerstein Based Digital Predistorter for Linearizing RF Power Amplifiers with Memory Effects, 47(2), pp. 9-17. doi: 10.22060/eej.2015.578",
@@ -19329,9 +19326,9 @@
     }
 }
 
-/* 31 */
+,
 {
-    "_id" : ObjectId("6018252b8cca53d2d23fcb96"),
+    "_id" : "ObjectId(6018252b8cca53d2d23fcb96)",
     "DOI" : "10.22060/eej.2016.627",
     "article" : {
         "title" : "Nikzad, S., Noshad, H., (2016). Electrostatic analysis of the charged surface in a solution via the finite element method: The Poisson-Boltzmann theory, 48(1), pp. 11-17. doi: 10.22060/eej.2016.627",
@@ -20046,9 +20043,9 @@
     }
 }
 
-/* 32 */
+,
 {
-    "_id" : ObjectId("6018252d8cca53d2d23fcb97"),
+    "_id" : "ObjectId(6018252d8cca53d2d23fcb97)",
     "DOI" : "10.22060/eej.2016.817",
     "article" : {
         "title" : "Abdolmaleki, B., Baghery, K., Emadi, M., (2016). HMAC-Based Authentication Protocol: Attacks and Improvements, 48(2), pp. 71-80. doi: 10.22060/eej.2016.817",
@@ -20608,9 +20605,9 @@
     }
 }
 
-/* 33 */
+,
 {
-    "_id" : ObjectId("6018252f8cca53d2d23fcb98"),
+    "_id" : "ObjectId(6018252f8cca53d2d23fcb98)",
     "DOI" : "10.22060/eej.2016.822",
     "article" : {
         "title" : "saidi, M., Hassanpoor, H., Azizi Lari, A., (2017). Proposed new signal for real-time stress monitoring: Combination of physiological measures, 49(1), pp. 11-18. doi: 10.22060/eej.2016.822",
@@ -21131,9 +21128,9 @@
     }
 }
 
-/* 34 */
+,
 {
-    "_id" : ObjectId("601825318cca53d2d23fcb99"),
+    "_id" : "ObjectId(601825318cca53d2d23fcb99)",
     "DOI" : "10.22060/eej.2017.10676.4868",
     "article" : {
         "title" : "ghadimi, G., nejati jahromi, M., Ghaemi, E., Heydari, A., (2017). Data Hiding Method Based on Graph Coloring and Pixel Block‘s Correlation in Color Image, 49(2), pp. 123-130. doi: 10.22060/eej.2017.10676.4868",
@@ -21503,9 +21500,9 @@
     }
 }
 
-/* 35 */
+,
 {
-    "_id" : ObjectId("601825338cca53d2d23fcb9a"),
+    "_id" : "ObjectId(601825338cca53d2d23fcb9a)",
     "DOI" : "10.22060/eej.2017.12662.5103",
     "article" : {
         "title" : "Rasti, M., Kazemi Taskou, S., (2018). On Joint Sub-channel Allocation, Duplexing Mode Selection, and Power Control in Full-Duplex Co-Channel Femtocell Networks, 50(1), pp. 13-24. doi: 10.22060/eej.2017.12662.5103",
@@ -22375,9 +22372,9 @@
     }
 }
 
-/* 36 */
+,
 {
-    "_id" : ObjectId("601825358cca53d2d23fcb9b"),
+    "_id" : "ObjectId(601825358cca53d2d23fcb9b)",
     "DOI" : "10.22060/eej.2018.13703.5181",
     "article" : {
         "title" : "نیک زاد, S., Noshad, H., Saviz, M., (2018). Response of A Saline Solution Containing A Macromolecule To An External Electric Field, 50(2), pp. 121-128. doi: 10.22060/eej.2018.13703.5181",
@@ -23617,9 +23614,9 @@
     }
 }
 
-/* 37 */
+,
 {
-    "_id" : ObjectId("601825378cca53d2d23fcb9c"),
+    "_id" : "ObjectId(601825378cca53d2d23fcb9c)",
     "DOI" : "10.22060/eej.2019.13946.5197",
     "article" : {
         "title" : "Alimardani, A., Jadid, S., (2019). Optimum scheduling of the HRES for an isolated rural city in Iran, 51(1), pp. 13-20. doi: 10.22060/eej.2019.13946.5197",
@@ -23635,9 +23632,9 @@
     }
 }
 
-/* 38 */
+,
 {
-    "_id" : ObjectId("6018253e8cca53d2d23fcba0"),
+    "_id" : "ObjectId(6018253e8cca53d2d23fcba0)",
     "DOI" : "10.22060/eej.2012.38",
     "article" : {
         "title" : "Farzaneh Bahalgardi, N., Yaghmaee, M., Adjeroh, D., (2012). An Adaptive Congestion Alleviating Protocol for Healthcare Applications in Wireless Body Sensor Networks: Learning Automata Approach, 44(1), pp. 31-41. doi: 10.22060/eej.2012.38",
@@ -23972,9 +23969,9 @@
     }
 }
 
-/* 39 */
+,
 {
-    "_id" : ObjectId("6018254d8cca53d2d23fcba5"),
+    "_id" : "ObjectId(6018254d8cca53d2d23fcba5)",
     "DOI" : "10.22060/eej.2012.359",
     "article" : {
         "title" : "Ojaghi, m., Sabouri, M., (2012). Magnetic Saturation Impacts on Fault Analysis of Squirrel-Cage Induction Motors using Winding Function Approach, 44(2), pp. 21-31. doi: 10.22060/eej.2012.359",
@@ -23990,9 +23987,9 @@
     }
 }
 
-/* 40 */
+,
 {
-    "_id" : ObjectId("601825418cca53d2d23fcba1"),
+    "_id" : "ObjectId(601825418cca53d2d23fcba1)",
     "DOI" : "10.22060/eej.2011.85",
     "article" : {
         "title" : "Hemmatpour, M., Mohammadian, M., Rashidinejad, M., (2011). A Novel Reconfiguration Mixed with Distributed Generation Planning via Considering Voltage Stability Margin, 43(1), pp. 23-34. doi: 10.22060/eej.2011.85",
@@ -24891,9 +24888,9 @@
     }
 }
 
-/* 41 */
+,
 {
-    "_id" : ObjectId("601825448cca53d2d23fcba2"),
+    "_id" : "ObjectId(601825448cca53d2d23fcba2)",
     "DOI" : "10.22060/eej.2010.99",
     "article" : {
         "title" : "Kazemzadehi, F., Heydariii, H., (2010). Optimization of an HTS Induction/Synchronous Motor According to Changing of HTS Tapes Critical Current by Analytical Hierarchy Process, 42(1), pp. 17-29. doi: 10.22060/eej.2010.99",
@@ -25343,9 +25340,9 @@
     }
 }
 
-/* 42 */
+,
 {
-    "_id" : ObjectId("601825458cca53d2d23fcba3"),
+    "_id" : "ObjectId(601825458cca53d2d23fcba3)",
     "DOI" : "10.22060/eej.2009.274",
     "article" : {
         "title" : "Mardanehi, M., Mirsalimii, M., (2009). Development of an Analytic Model for Flux Switching Motors, 41(1), pp. 21-29. doi: 10.22060/eej.2009.274",
@@ -25729,9 +25726,9 @@
     }
 }
 
-/* 43 */
+,
 {
-    "_id" : ObjectId("6018254b8cca53d2d23fcba4"),
+    "_id" : "ObjectId(6018254b8cca53d2d23fcba4)",
     "DOI" : "10.22060/eej.2009.281",
     "article" : {
         "title" : "Daneshpour, N., Abdollahzadeh Barfourosh, A., (2009). A Solution to View Management to Build a Data Warehouse, 41(2), pp. 17-27. doi: 10.22060/eej.2009.281",
@@ -27145,9 +27142,9 @@
     }
 }
 
-/* 44 */
+,
 {
-    "_id" : ObjectId("601825518cca53d2d23fcba6"),
+    "_id" : "ObjectId(601825518cca53d2d23fcba6)",
     "DOI" : "10.22060/eej.2013.425",
     "article" : {
         "title" : "Pedram, M., Dehkhoda, P., Sadeghi, H., Moini, R., (2013). Shielding Effectiveness of a Lossy Metallic Enclosure, 45(1), pp. 17-26. doi: 10.22060/eej.2013.425",
@@ -27764,9 +27761,9 @@
     }
 }
 
-/* 45 */
+,
 {
-    "_id" : ObjectId("601825538cca53d2d23fcba7"),
+    "_id" : "ObjectId(601825538cca53d2d23fcba7)",
     "DOI" : "10.22060/eej.2013.431",
     "article" : {
         "title" : "Poornazaryan, B., Abedi, M., Gharehpetian, G., Shokoohi, S., (2013). Suggested New Voltage and Frequency Control Framework for Autonomous Operation of Microgrids, 45(2), pp. 11-18. doi: 10.22060/eej.2013.431",
@@ -28416,9 +28413,9 @@
     }
 }
 
-/* 46 */
+,
 {
-    "_id" : ObjectId("601825568cca53d2d23fcba8"),
+    "_id" : "ObjectId(601825568cca53d2d23fcba8)",
     "DOI" : "10.22060/eej.2014.437",
     "article" : {
         "title" : "Rabbani, M., Tavakoli, A., (2014). A New Guideline for the Allocation of Multipoles in the Multiple Multipole Method for Two Dimensional Scattering from Dielectrics, 46(1), pp. 19-26. doi: 10.22060/eej.2014.437",
@@ -29218,9 +29215,9 @@
     }
 }
 
-/* 47 */
+,
 {
-    "_id" : ObjectId("601825588cca53d2d23fcba9"),
+    "_id" : "ObjectId(601825588cca53d2d23fcba9)",
     "DOI" : "10.22060/eej.2015.510",
     "article" : {
         "title" : "Askarpour, A., Zhao, Y., Alù, A., (2015). Optical Chirality Enhancement in Twisted Arrays of Plasmonic Nano-rods, 46(2), pp. 15-22. doi: 10.22060/eej.2015.510",
@@ -29875,9 +29872,9 @@
     }
 }
 
-/* 48 */
+,
 {
-    "_id" : ObjectId("6018255a8cca53d2d23fcbaa"),
+    "_id" : "ObjectId(6018255a8cca53d2d23fcbaa)",
     "DOI" : "10.22060/eej.2015.517",
     "article" : {
         "title" : "Azimi, S., Veisi, H., Rahmani, R., (2015). Automatic Discovery of Technology Networks for Industrial-Scale R&D IT Projects via Data Mining, 47(1), pp. 17-22. doi: 10.22060/eej.2015.517",
@@ -30285,9 +30282,9 @@
     }
 }
 
-/* 49 */
+,
 {
-    "_id" : ObjectId("6018255c8cca53d2d23fcbab"),
+    "_id" : "ObjectId(6018255c8cca53d2d23fcbab)",
     "DOI" : "10.22060/eej.2015.579",
     "article" : {
         "title" : "Rezaei, M., Sabahi, M., Shahtalebi, K., Mahin Zaeem, R., Sadeghi, R., (2015). A New Fairness Index and Novel Approach for QoS-Aware Resource Allocation in LTE Networks Based on Utility Functions, 47(2), pp. 19-25. doi: 10.22060/eej.2015.579",
@@ -30955,10 +30952,9 @@
         "url" : "https://eej.aut.ac.ir/article_579.html"
     }
 }
-
-/* 50 */
+,
 {
-    "_id" : ObjectId("601825608cca53d2d23fcbac"),
+    "_id" : "ObjectId(601825608cca53d2d23fcbac)",
     "DOI" : "10.22060/eej.2016.628",
     "article" : {
         "title" : "Borna, M., Madani, M., (2016). Improving Long PN-Code Acquisition in the Presence of Doppler Frequency Shifts, 48(1), pp. 19-27. doi: 10.22060/eej.2016.628",
@@ -31698,3 +31694,4 @@
         "url" : "https://eej.aut.ac.ir/article_628.html"
     }
 }
+]

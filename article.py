@@ -7,6 +7,11 @@ class Article:
   def __init__(self, title):
 
     self.title = self.extract_title(title)
+
+
+  def get_splited_title(self):
+
+    return self.title.split()
   
   def add_author(self, author_name):
 
@@ -25,6 +30,6 @@ class Article:
       article_title = title[qutation_indexes[0]+1:qutation_indexes[1]]
     else:
       article_title = ""
-      
+
     return re.sub(r'[^\w\s]', '', article_title)
     
