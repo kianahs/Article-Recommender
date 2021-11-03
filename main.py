@@ -53,11 +53,12 @@ def optimize_dictionary(dictionary):
     # keyMax = max(dictionary.items(), key = operator.itemgetter(1))[0]
     # print(max(dictionary.values()))
     # print(dictionary)
-    key_max = max(dictionary, key=dictionary.get)
-    key_min = min(dictionary, key=dictionary.get)
-    # print(key_max, dictionary[key_max])
-    del dictionary[key_max]
-    del dictionary[key_min]
+    minimum=1
+    maximum=max(dictionary.values())
+    for key in list(dictionary):
+        if dictionary[key] == maximum or dictionary[key] == minimum or dictionary[key]== (minimum+1):
+            del dictionary[key]
+   
     all_prepositions = []
     english_prepositions=get_list_of_csv_column("prepositions.csv")
     # print(prepositions)
