@@ -1,9 +1,6 @@
-a,771
-tileable,1
 switch,5
 module,5
 architecture,17
-for,521
 homogeneous,5
 3d,24
 fpgas,22
@@ -14,15 +11,11 @@ reversible,22
 circuits,27
 rulebased,2
 optimization,92
-of,3542
-on,883
-the,1248
 behavior,182
 substitutionbased,3
 circuit,18
 algorithms,39
 investigation,344
-and,1393
 improvement,47
 fpgabased,4
 model,152
@@ -48,7 +41,6 @@ reconfiguration,5
 time,52
 computing,14
 systems,99
-in,1037
 integrated,23
 temporal,9
 partitioning,3
@@ -57,7 +49,6 @@ design,150
 framework,9
 functional,6
 unit,11
-an,196
 adaptive,36
 dynamic,97
 extensible,5
@@ -74,8 +65,6 @@ trojan,4
 detection,47
 algebraic,3
 characterization,14
-with,517
-its,48
 applications,19
 cellular,9
 learning,13
@@ -86,7 +75,6 @@ intrinsic,3
 evolution,8
 improving,21
 latency,3
-by,241
 gate,8
 exchanging,2
 multidomain,3
@@ -95,7 +83,6 @@ skew,6
 schedulingaware,2
 register,2
 placement,15
-to,271
 optimize,2
 distribution,58
 network,54
@@ -150,7 +137,6 @@ computation,17
 measurement,18
 patterns,6
 extracting,3
-from,65
 performance,191
 timing,12
 yield,14
@@ -209,7 +195,6 @@ proposing,11
 estimate,5
 reduce,10
 crosstalk,2
-after,3
 vlsi,3
 implementing,1
 cipher,1
@@ -227,9 +212,7 @@ nqubit,2
 diagonal,4
 ring,9
 gates,8
-into,20
 clifford,2
-t,3
 matsuoka,1
 parameters,102
 tuning,3
@@ -265,7 +248,6 @@ decomposition,6
 hermitian,3
 multiplecontrolled,1
 pauli,1
-z,1
 targeting,1
 pattern,14
 cost,17
@@ -275,7 +257,6 @@ floorplacement,2
 flow,157
 quantumlogic,1
 architectures,4
-under,158
 bitstream,1
 compression,21
 modifying,2
@@ -350,7 +331,6 @@ converged,2
 epon,1
 wimax,1
 icn,1
-2006,1
 sessions,1
 table,8
 contents,4
@@ -361,7 +341,6 @@ factors,23
 involved,1
 ac,12
 field,53
-at,64
 arbitrary,3
 liftoff,2
 distance,7
@@ -452,7 +431,6 @@ domain,15
 timedomain,2
 mom,2
 structures,64
-above,3
 halfspace,1
 media,15
 complextime,1
@@ -511,7 +489,6 @@ renewable,6
 reliability,16
 indices,6
 feedback,9
-including,7
 hvdc,4
 transmission,12
 links,2
@@ -528,7 +505,6 @@ reserve,2
 credible,1
 contingencies,1
 loadshedding,2
-during,21
 contingency,3
 situations,1
 metaheuristics,2
@@ -636,7 +612,6 @@ fractional,3
 order,25
 proportionalintegral,2
 sharing,5
-between,33
 dgs,2
 inverter,1
 ga,3
@@ -699,7 +674,6 @@ steadystate,1
 softthreshold,1
 denoising,5
 single,21
-across,1
 gap,7
 optimized,5
 mppt,1
@@ -717,7 +691,6 @@ studies,17
 random,5
 iranian,12
 standard,7
-400,2
 kv,1
 lines,4
 harvesting,3
@@ -741,7 +714,6 @@ committees,3
 thechnical,1
 program,3
 ipaps,1
-2019,1
 authors,1
 term,4
 forecasting,5
@@ -787,8 +759,6 @@ compensator,2
 remote,3
 redesigned,1
 cmos,4
-4,3
-2,7
 compressor,11
 binary,6
 multipliers,3
@@ -849,7 +819,6 @@ car,6
 navigation,6
 wireless,3
 landmarks,1
-against,20
 side,14
 attack,13
 scalable,1
@@ -905,7 +874,6 @@ style,1
 resourceaware,1
 multiplier,1
 iscisc,1
-2020,1
 page,1
 culturallygrounded,1
 everyday,1
@@ -968,7 +936,6 @@ perception,4
 perceptual,1
 race,2
 project,14
-towards,1
 lifelong,1
 assistive,1
 robotics,1
@@ -1014,18 +981,13 @@ encoding,1
 gaming,1
 عملکرد,18
 روش,188
-های,384
 ضمنی,1
 qssaو,1
 ebi,1
-در,547
 مدلهای,6
 آلودگی,5
 هوا,14
-و,535
 مقایسه,32
-آنها,9
-با,328
 کلاسیک,5
 twodimensional,8
 shockbubble,1
@@ -1158,14 +1120,12 @@ studying,5
 rooftop,1
 damper,16
 frame,30
-near,19
 far,5
 earthquake,24
 excitations,3
 adaptiverobust,1
 trajectory,11
 two,36
-5,1
 dof,2
 cooperating,1
 robot,17
@@ -1245,7 +1205,6 @@ potential,11
 papr,1
 ofdm,2
 selected,3
-without,12
 information,10
 voronoi,2
 dam,20
@@ -1271,7 +1230,6 @@ highturning,1
 blade,18
 loading,56
 calculations,4
-some,5
 exterior,3
 beamcolumn,7
 connection,11
@@ -1330,7 +1288,6 @@ complementary,2
 split,2
 resonators,2
 layer,17
-around,25
 cylinders,10
 suction,2
 بهینه,75
@@ -1349,10 +1306,7 @@ bench,2
 قسمت,5
 اول,3
 مروری,7
-بر,160
-از,250
 آغاز,1
-تا,4
 امروز,1
 تاثیر,62
 متغیرهای,2
@@ -1364,9 +1318,7 @@ bench,2
 خواص,40
 نخهای,4
 حجیم,3
-شده,47
 جت,5
-چند,34
 معیار,5
 جدید,25
 انطباق,1
@@ -1374,7 +1326,6 @@ bench,2
 پیاده,5
 سخت,6
 افزاری,3
-برای,151
 کاربرد,61
 فشرده,6
 ویدیو,1
@@ -1390,7 +1341,6 @@ bench,2
 اطلاعات,13
 تصاویر,8
 سنجنده,2
-ها,47
 کاربردهای,5
 سنجش,3
 دور,9
@@ -1415,10 +1365,8 @@ bench,2
 برداری,8
 آزمایش,9
 شکست,9
-روی,52
 استخوان,5
 گاوری,1
-به,176
 دست,4
 آوردن,3
 خصوصیات,8
@@ -1620,18 +1568,13 @@ shrinkage,6
 cracking,11
 hightemperature,1
 دانشگاه,4
-است,1
-یا,7
 دبیرستان,1
 کوپلیمریزاسیون,1
 اکریلیونیتریل,1
 نور,3
 بانادین,1
-بی,4
 سیکلو,1
-122,1
 هپتا,1
-25,2
 دین,1
 اثر,77
 ارتعاشات,4
@@ -1639,7 +1582,6 @@ hightemperature,1
 زمین,24
 مقابل,2
 فرو,1
-کردن,19
 پایهها,1
 ورقها,1
 معرفی,4
@@ -1693,7 +1635,6 @@ sapiv,1
 شگرف,1
 ic,2
 اثرات,9
-آن,44
 تکامل,1
 میکروپروسسورها,2
 تحلیل,82
@@ -1712,7 +1653,6 @@ ic,2
 بین,15
 صنایع,11
 آمیزه,1
-ای,83
 جالب,1
 مهندسی,8
 علم,1
@@ -1803,7 +1743,6 @@ scenarios,3
 آتروما,1
 کمک,28
 فرآیند,33
-بوسیله,9
 cooling,31
 change,19
 materialcuo,1
@@ -1890,7 +1829,6 @@ column,22
 انتخاب,11
 تامین,2
 کنندگان,2
-over,15
 broadcrested,2
 slopes,7
 performancebased,1
@@ -1984,7 +1922,6 @@ common,4
 turnouts,2
 railway,6
 confining,1
-i,6
 ii,7
 lushan,1
 sandstone,1
@@ -1995,7 +1932,6 @@ inconel,3
 joint,13
 wide,2
 brazing,1
-718,1
 typical,3
 telecommunication,1
 center,2
@@ -2227,10 +2163,7 @@ shop,1
 جزیی,3
 الاستومرهای,1
 sbrbrnr,1
-هم,6
 پخت,2
-بودن,1
-هر,2
 الاستومردر,1
 درصدهای,1
 متعادل,2
@@ -2292,7 +2225,6 @@ co2h2o,1
 معادلات,16
 انتگرالی,1
 سیال,9
-غیر,4
 لزج,3
 ناپذیر,2
 مارچنیگ,1
@@ -2325,7 +2257,6 @@ promote,1
 voice,2
 conversion,2
 interstructural,1
-following,1
 monte,7
 carlo,7
 scale,11
@@ -2387,7 +2318,6 @@ sorbents,1
 electrostatic,2
 charged,1
 poissonboltzmann,1
-past,2
 طرح,8
 برج,3
 جذب,6
@@ -2900,14 +2830,12 @@ seperation,1
 انفجاری,4
 صفحات,7
 آلومینیم,5
-بدون,9
 سنسور,3
 سوئیپ,1
 رلو,1
 کتانس,1
 رویتگر,1
 باینری,1
-همراه,4
 مستقیم,6
 معماری,1
 موتورهای,13
@@ -3008,7 +2936,6 @@ artery,10
 مسلح,10
 ارتفاع,3
 متوسط,3
-h,5
 رگلاسیون,1
 مقاوم,10
 آشفته,2
@@ -3023,7 +2950,6 @@ suggested,1
 فرمول,5
 رباتهای,2
 صفحه,12
-n,3
 آزادی,3
 اتاق,2
 magneto,3
@@ -3373,7 +3299,6 @@ endplate,2
 مرزها,1
 مشتقات,1
 صریح,1
-جزء,2
 مرتبه,5
 بالا,6
 پس,3
@@ -3409,7 +3334,6 @@ tdvqss,1
 tts,1
 kinetic,10
 vinasse,1
-onto,4
 activated,5
 affected,4
 punched,2
@@ -3466,7 +3390,6 @@ stresses,9
 girth,1
 شامل,2
 peg,1
-1000,2
 h2o,1
 اتیلن,2
 گلیکول,1
@@ -3515,7 +3438,6 @@ boiling,11
 compared,3
 phenomena,3
 geframe,1
-6,4
 shearwalls,1
 semienclosed,1
 heavy,8
@@ -3584,7 +3506,6 @@ pso,4
 دیفرانسیل,5
 فردهلمولترای,1
 جمله,2
-ایهای,1
 لژاندر,1
 شارهای,1
 گردشی,2
@@ -3835,7 +3756,6 @@ mountainous,1
 راهسازی,1
 مخصوص,1
 پلیمرهای,1
-دیگر,1
 sma,1
 wires,2
 torsion,5
@@ -3925,7 +3845,6 @@ bentonite,3
 nanoclay,6
 gm,1
 amplifier,4
-150,1
 db,2
 cmrr,1
 team,2
@@ -3946,8 +3865,6 @@ amorphous,1
 flotation,6
 changes,6
 ahvaz,1
-2008,1
-2014,1
 qual2kw,1
 heavily,1
 members,4
@@ -3997,7 +3914,6 @@ humidity,2
 oscillator,1
 earning,1
 leg,2
-like,1
 stretchable,1
 pendulum,1
 exploiting,1
@@ -4178,7 +4094,6 @@ accordance,1
 investigate,6
 mechanism,8
 ste,2
-500,1
 red,5
 isotherm,2
 بازیابی,4
@@ -4201,7 +4116,6 @@ hydroforming,6
 rubber,10
 exponentially,1
 spaces,2
-x,2
 bracings,1
 netted,2
 scouring,4
@@ -4411,7 +4325,6 @@ oxygenation,1
 اصطکاکی,4
 iai6061ai203,1
 aisi,5
-304,4
 کورونای,1
 اتیلین,1
 آسنکرون,1
@@ -4439,7 +4352,6 @@ tubes,6
 rain,1
 ku,1
 beacon,1
-e,2
 پلاستیکها,1
 الاستیکها,1
 فرآورده,2
@@ -4478,7 +4390,6 @@ asymptotically,1
 stable,3
 variant,1
 avaj,1
-2002,1
 semiempirical,2
 gaincell,1
 combining,3
@@ -4514,9 +4425,7 @@ bangbang,1
 cdr,1
 modal,6
 base,12
-behind,1
 obstacle,3
-s,1
 librwater,1
 ann,3
 iir,1
@@ -4555,10 +4464,8 @@ super,5
 produce,2
 fresh,1
 part,6
-1,7
 diversion,3
 entering,2
-90,2
 deg,1
 sinus,1
 parachute,1
@@ -4594,7 +4501,6 @@ traveling,1
 blasting,4
 loose,6
 deposits,1
-18,1
 seismichazard,1
 psha,1
 soilsite,1
@@ -4701,7 +4607,6 @@ du,1
 حد,7
 پوسته,4
 استوانه,8
-که,2
 معرض,2
 قرار,1
 گرفته,1
@@ -4819,7 +4724,6 @@ applied,5
 piano,3
 weir,4
 pkw,1
-as,14
 bipolar,3
 stamping,1
 nickel,3
@@ -4864,7 +4768,6 @@ blades,2
 annular,6
 steels,4
 nanoplates,1
-1045,1
 progressive,5
 pyramid,1
 breakers,1
@@ -4944,7 +4847,6 @@ dscdmad,1
 کنش,1
 twojoint,1
 arm,1
-شدن,8
 آبرفتهای,1
 hkodelaydependent,1
 timeinvariant,3
@@ -5055,7 +4957,6 @@ klt,1
 فریمی,1
 نرخ,9
 bpp,1
-0080,1
 maps,2
 skins,1
 capacitive,2
@@ -5398,7 +5299,6 @@ eulerlagrange,1
 کشور,1
 خودکار,1
 یادیگری,1
-q,2
 اتوماتون,1
 betas,1
 multiparameter,1
@@ -5593,8 +5493,6 @@ nonplanar,1
 height,4
 fistula,2
 anastomosis,2
-45,2
-135,1
 اپیدمی,1
 hiviaids,1
 sumt,1
@@ -5916,7 +5814,6 @@ catalytic,2
 monolithic,2
 druckerprager,1
 cap,2
-92,1
 alumina,1
 obtuse,1
 guidance,4
@@ -5990,20 +5887,16 @@ extracted,2
 wheat,1
 straw,2
 basic,2
-46,1
 aqueous,4
 twoway,1
 rayleigh,2
 pasternak,1
-along,3
 quantifying,1
 fingering,1
 tuned,6
 endurance,2
 asymmetricplan,1
 relationships,2
-u,1
-among,1
 workers,1
 braking,1
 yaw,1
@@ -6035,7 +5928,6 @@ scaleup,1
 بیتی,1
 دیودی,1
 میکرواستریپ,3
-93,1
 ghz,1
 anova,2
 fopdt,1
@@ -6175,7 +6067,6 @@ assistance,1
 مستقیمند,1
 صافی,1
 میانگذر,1
-112,1
 ژیگاهرتز,1
 بهم,1
 تزویج,1
@@ -6217,7 +6108,6 @@ rounded,1
 کدگذاری,2
 دوار,2
 signs,1
-before,1
 store,1
 approximate,2
 inviscid,1
@@ -6304,7 +6194,6 @@ riprap,1
 closedcell,1
 crushing,1
 symmetrically,1
-11,1
 preparation,1
 polystyrenestarch,1
 melt,2
@@ -6317,7 +6206,6 @@ flexibleshaftdiskblades,1
 sinks,1
 smoluchowskis,1
 adomians,1
-ی,6
 ابر,3
 تلفاتی,1
 تطابق,2
@@ -6394,7 +6282,6 @@ school,2
 differentiation,1
 blocks,2
 laminar,4
-within,3
 rugged,1
 feedforward,3
 neuralnetwork,1
@@ -6506,7 +6393,6 @@ continuoustime,1
 asbestos,1
 ablative,1
 insulation,2
-w,2
 adjusted,1
 selfstarting,1
 bernoulli,1
@@ -6558,7 +6444,6 @@ nitrogen,3
 passivation,1
 6hydroxy4methyl167,1
 triphenylazabicyclo,1
-330,1
 oct7ene,1
 rings,2
 nilpotent,1
@@ -6702,7 +6587,6 @@ berwald,1
 isnr,1
 mri,1
 تسلا,1
-15,1
 آگوستیکی,1
 رئولوژی,1
 مگنتیت,1
@@ -6857,7 +6741,6 @@ sipho,1
 پیوند,1
 هیدروژنی,1
 نظریه,2
-y,1
 intersections,1
 intersection,2
 penstock,1
@@ -6926,7 +6809,6 @@ alloying,1
 amplification,1
 outrigger,1
 nzs,1
-11705,1
 look,1
 directivity,2
 semitimoshenko,1
@@ -7047,7 +6929,6 @@ acrylate,1
 qazvin,3
 prechamber,1
 himsen,1
-3540,1
 foamed,1
 zeolite,9
 angular,2
@@ -7095,7 +6976,6 @@ slot,2
 coaxial,3
 feed,1
 nonelastic,1
-upon,1
 mobilization,1
 desorption,1
 biosurfactant,1
@@ -7184,7 +7064,6 @@ ampv,1
 cbfs,1
 wears,1
 gearbox,1
-k,1
 جزیره,1
 کیش,1
 عمیق,2
@@ -7386,7 +7265,6 @@ geothermally,1
 لسی,1
 رودبار,1
 منجیلخرداد,1
-1369,1
 شتابضریب,1
 پهنه,2
 مقدماتی,1
@@ -7401,11 +7279,9 @@ capillaryporous,1
 dirichlet,1
 conditio,1
 optimisation,1
-5083,1
 طی,2
 sorption,1
 ci,1
-14,1
 lowcost,3
 feldspar,1
 culverts,1
@@ -7490,7 +7366,6 @@ semirigid,1
 شدنی,1
 کمبود,1
 پیشنهاد,2
-r,1
 امپدانس,3
 پیگمان,1
 محافظتی,3
@@ -7626,7 +7501,6 @@ breakwater,1
 پیدا,1
 helium,1
 thermohydraulic,2
-2800,4
 sitedistance,1
 particularly,1
 sites,1
@@ -7693,7 +7567,6 @@ selffeedback,1
 ممنتوم,1
 ژئوشیمیایی,9
 نقشه,2
-1100000,1
 سوریان,1
 فرکتال,1
 ارتونرمال,1
@@ -7819,7 +7692,6 @@ dispersivity,1
 preconditioning,1
 accelerating,1
 تدارک,1
-j,1
 insoil,1
 msw,2
 geosynthetic,2
@@ -8038,7 +7910,6 @@ kinetostatic,1
 dryers,1
 chordwise,1
 naca,2
-0012,2
 gastank,1
 overturning,2
 freestanding,1
@@ -8340,7 +8211,6 @@ temperatureresponsive,1
 hydrogels,1
 فهلیان,1
 خوین,1
-مانند,1
 میله,1
 اسفوردی,2
 آکوستیکی,1
@@ -8509,7 +8379,6 @@ excitatory,1
 درگیر,2
 کرنش,3
 فیچرهای,1
-ه,1
 کیوبلکا,1
 مانک,1
 تقلید,1
@@ -8519,7 +8388,6 @@ drc,1
 ذخیره,2
 لحیم,1
 aa3003aa,1
-4043,1
 هیدروکسید,1
 داغ,1
 lacquers,1
@@ -8541,7 +8409,6 @@ reach,1
 flanged,1
 tape,1
 bojnord,1
-2017,1
 ebf,1
 pulsetype,2
 peripheral,1
@@ -8612,7 +8479,6 @@ elastomer,1
 bendin,1
 سایشی,1
 تنگستن,2
-20,1
 توأمان,1
 درتف,1
 آهنی,1
@@ -8673,7 +8539,6 @@ shapeshifting,1
 4dprinted,1
 xcavation,1
 strss,1
-off,1
 imperfect,1
 proportionalintegralderivative,1
 jolfa,1
@@ -8690,7 +8555,6 @@ interfac,1
 taughness,1
 haz,1
 shadow,1
-7075,1
 stented,1
 stents,1
 diffusionradiation,1
@@ -8772,7 +8636,6 @@ cylindrial,1
 gnetic,1
 dielectrophoreticphotophoretic,1
 penicillin,1
-g,1
 wetlands,1
 dsign,1
 robustification,1
@@ -8783,7 +8646,6 @@ trombe,1
 دیاسپوری,2
 بلبلویه,1
 جداکننده,2
-بالای,1
 طارم,1
 نوسانی,1
 گردابه,1
@@ -8799,7 +8661,6 @@ melts,1
 گسلش,1
 مسبب,1
 سال,1
-1382,1
 غلظت,4
 اپوکسی,3
 هیدرو,1
@@ -8860,13 +8721,11 @@ matroll,1
 رنگدانه,3
 قرمز,2
 شماره,1
-3,1
 پیوستارهای,1
 دیدگی,1
 چرخانه,3
 تنشهای,1
 ماند,1
-4140,1
 نیتروژن,2
 اکتشاف,2
 چغارت,1
@@ -9446,7 +9305,6 @@ algebras,1
 تنشی,1
 زنگ,1
 نزن,1
-420,1
 کک,1
 گازوئیل,1
 میکروراکتور,1
@@ -9546,7 +9404,6 @@ kantorovich,1
 guanine,1
 tautomers,1
 nuclei,1
-c,1
 ofor,1
 tautomer,1
 abinitiio,1
@@ -9699,7 +9556,6 @@ strut,1
 dualcutoff,1
 fibermetal,1
 burnishing,1
-4130,1
 hardened,1
 oxidant,1
 sac,1
@@ -9738,4 +9594,3 @@ mall,1
 transregional,1
 tehrans,1
 triaxialities,1
-out,1

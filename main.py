@@ -30,10 +30,11 @@ def create_dictionary_of_words(all_articles):
 
         for word in title_words:
 
-            if word in word_count:
-                word_count[word] += 1
+            if word.lower() in word_count:
+                word_count[word.lower()] += 1
             else:
-                word_count[word] = 1
+                print(word.lower())
+                word_count[word.lower()] = 1
 
     return word_count
 
@@ -54,28 +55,29 @@ def optimize_dictionary(dictionary):
     # print(dictionary)
     key_max = max(dictionary, key=dictionary.get)
     key_min = min(dictionary, key=dictionary.get)
-    print(key_max, dictionary[key_max])
+    # print(key_max, dictionary[key_max])
     del dictionary[key_max]
     del dictionary[key_min]
+    all_prepositions = []
+    english_prepositions=get_list_of_csv_column("prepositions.csv")
+    # print(prepositions)
+    persion_prepositions = ["بوسیله","دادن","شده","بود","است","چند","آن","آنها","ها","برای","تا","جز","از","به","بدون","بر","در","بی","با","چون","مانند","مثل","غیر","روی","بالای","های","شد","شدن","بودن","یا","کردن","ای","هم","هر","اس","ایها","ایهای","دیگر","همراه","که","جزء"]
+    for item in english_prepositions:
+        all_prepositions.append(item[0])
 
-    prepositions=get_list_of_csv_column("prepositions.csv")
-    print(prepositions)
-    new_prep =[]
-    for item in prepositions:
-        new_prep.append(item[0])
-
+    all_prepositions += persion_prepositions
     for key in list(dictionary):
    
         if key.isdigit()==True :
             del dictionary[key]
-        elif key.lower() in new_prep:
+        elif key.lower() in all_prepositions:
              del dictionary[key]
         elif key.isalpha() and len(key) == 1:
             del dictionary[key]
  
             
 if __name__ == '__main__':
-    print("A".isdigit())
+    # print("A".isdigit())
     
     articles_data = read_JSON('data/scholars.json')
     journals_data = read_JSON('data/journals.json')
