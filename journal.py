@@ -1,5 +1,5 @@
 import re
-
+import numpy
 class Jounal:
 
   authors = []
@@ -21,7 +21,27 @@ class Jounal:
 
     return self.title
   
+ 
   def extract_title(self, title):
 
-    return re.sub(r'[^\w\s]', '', title)
+    self.splitedTitle = re.sub(r'[^\w\s]', '', title)
+
+    return self.splitedTitle
     
+
+  
+  def calculate_word_occurance(self, word):
+    return self.splitedTitle.count(word)
+
+
+  def create_vector(self, dictionary):
+    self.vector_list = []
+
+    for key in list(dictionary):
+      self.vector_list.append(self.calculate_word_occurance(key))
+    
+    self.vector = numpy.array(self.vector_list)
+   
+  def get_vector (self):
+
+    return self.vector

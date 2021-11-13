@@ -16,9 +16,7 @@ def write_dictonary_to_csv(filename, dictonary):
         writer = csv.writer(csv_file)
         for key, value in dictonary.items():
             writer.writerow([key, value])
-    # with open(filename, 'w', encoding="utf-8") as f:
-    #     for key in dictonary.keys():
-    #         f.write("%s,%s\n"%(key,word_count[key]))
+ 
 
 def create_dictionary_of_words(all_articles):
     
@@ -33,7 +31,7 @@ def create_dictionary_of_words(all_articles):
             if word.lower() in word_count:
                 word_count[word.lower()] += 1
             else:
-                print(word.lower())
+                # print(word.lower())
                 word_count[word.lower()] = 1
 
     return word_count
@@ -48,11 +46,6 @@ def get_list_of_csv_column(path):
 
 def optimize_dictionary(dictionary):
 
-    # import operator
-    # key_max = max(dictionary, key= lambda x: dictionary[x])
-    # keyMax = max(dictionary.items(), key = operator.itemgetter(1))[0]
-    # print(max(dictionary.values()))
-    # print(dictionary)
     minimum=1
     maximum=max(dictionary.values())
     for key in list(dictionary):
@@ -75,8 +68,30 @@ def optimize_dictionary(dictionary):
              del dictionary[key]
         elif key.isalpha() and len(key) == 1:
             del dictionary[key]
- 
-            
+    
+    choosen_words = ["investigation", "method","based","using","effect", "study", "analysis","numerical","experimental"]
+    for word in choosen_words:
+        del dictionary[word]
+
+def dictionary_creation():
+    
+    word_count = create_dictionary_of_words(all_articles + all_journals)
+    # print(word_count)
+    optimize_dictionary(word_count)
+    # print(word_count)
+    write_dictonary_to_csv("word_dictionary_v2.csv",word_count)
+
+
+def get_dictionary_from_csv():
+    words = {}
+   
+    with open('source.csv', mode='r', encoding='utf-8') as infile:
+        reader = csv.reader(infile)
+        for rows in reader:
+            words[rows[0]] = rows[1]
+
+    return words
+
 if __name__ == '__main__':
     # print("A".isdigit())
     
@@ -91,28 +106,21 @@ if __name__ == '__main__':
         # print(journal["articleTitle"])
         all_journals.append(Jounal(journal["articleTitle"]))
 
-
+    # dictionary_creation()
+    # word_count = get_dictionary_from_csv()
     word_count = create_dictionary_of_words(all_articles + all_journals)
-    # print(word_count)
     optimize_dictionary(word_count)
-    # print(word_count)
-    write_dictonary_to_csv("word_dictionary_v2.csv",word_count)
+
+    for article in all_articles:
+        article.create_vector(word_count)
+    for journal in all_journals:
+        journal.create_vector(word_count)
+
+    for article in all_articles:
+        article.find_cosine_distance(all_journals)
 
 
+    # print(len(all_journals))
+    # all_articles[0].find_cosine_distance(all_journals)
 
-
-
-# with open('words_dictionary.csv', 'w', encoding="utf-8") as csv_file:  
-#     writer = csv.writer(csv_file)
-#     for key, value in word_count.items():
-#        writer.writerow([key, value])
-
-# with open('testF.csv', 'w', encoding="utf-8") as f:
-#     for key in word_count.keys():
-#         f.write("%s,%s\n"%(key,word_count[key]))
-
-# import matplotlib.pyplot as plt
-
-# plt.bar(range(len(word_count)), list(word_count.values()), align='center')
-# plt.xticks(range(len(word_count)), list(word_count.keys()))
-# plt.show()
+    print(all_articles[0].get_journals_cosines().values())
