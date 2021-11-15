@@ -31,7 +31,6 @@ def create_dictionary_of_words(all_articles):
             if word.lower() in word_count:
                 word_count[word.lower()] += 1
             else:
-                # print(word.lower())
                 word_count[word.lower()] = 1
 
     return word_count
@@ -54,7 +53,7 @@ def optimize_dictionary(dictionary):
    
     all_prepositions = []
     english_prepositions=get_list_of_csv_column("prepositions.csv")
-    # print(prepositions)
+    
     persion_prepositions = ["بوسیله","دادن","شده","بود","است","چند","آن","آنها","ها","برای","تا","جز","از","به","بدون","بر","در","بی","با","چون","مانند","مثل","غیر","روی","بالای","های","شد","شدن","بودن","یا","کردن","ای","هم","هر","اس","ایها","ایهای","دیگر","همراه","که","جزء"]
     for item in english_prepositions:
         all_prepositions.append(item[0])
@@ -73,14 +72,6 @@ def optimize_dictionary(dictionary):
     for word in choosen_words:
         del dictionary[word]
 
-def dictionary_creation():
-    
-    word_count = create_dictionary_of_words(all_articles + all_journals)
-    # print(word_count)
-    optimize_dictionary(word_count)
-    # print(word_count)
-    write_dictonary_to_csv("word_dictionary_v2.csv",word_count)
-
 
 def get_dictionary_from_csv():
     words = {}
@@ -92,8 +83,32 @@ def get_dictionary_from_csv():
 
     return words
 
+
+def suggest_journals_to_articles(word_count, top_k):
+
+
+    for article in all_articles.copy():
+        check = article.create_vector(word_count)
+        if check == -1 :
+            all_articles.remove(article)
+            print("article {} removed".format(article.get_title()))
+            
+    for journal in all_journals.copy():
+        check = journal.create_vector(word_count)
+        if check == -1 :
+            all_journals.remove(journal)
+            print("journal {} removed".format(journal.get_title()))
+
+        
+    count = 1
+    for article in all_articles:
+        print("****************** article {} *******************".format(count))
+        article.find_cosine_distance(all_journals)
+        article.get_top_nearest_journals(top_k)
+        count += 1
+
+
 if __name__ == '__main__':
-    # print("A".isdigit())
     
     articles_data = read_JSON('data/scholars.json')
     journals_data = read_JSON('data/journals.json')
@@ -103,36 +118,14 @@ if __name__ == '__main__':
             all_articles.append(Article(paper["title"]))
 
     for journal in journals_data["articles"]:
-        # print(journal["articleTitle"])
         all_journals.append(Jounal(journal["articleTitle"]))
-
-    # dictionary_creation()
-    # word_count = get_dictionary_from_csv()
+    
+    
     word_count = create_dictionary_of_words(all_articles + all_journals)
-    # optimize_dictionary(word_count)
+    optimize_dictionary(word_count)
+    #  write_dictonary_to_csv("word_dictionary_v2.csv",word_count)
+    # word_count = get_dictionary_from_csv()
 
-    # print(len(all_articles))
-    for article in all_articles:
-        article.create_vector(word_count)
-    for journal in all_journals:
-        journal.create_vector(word_count)
+    suggest_journals_to_articles(word_count, 20)
 
-    for key in list(word_count):
-
-        sen = "SEM STUDY OF JUTE FIBRES".lower().split()
-        # print(sen)
-        
-        if key in sen:
-            print("trueeeeeeeeeeeeeeeeee")
-    print("done")
-
-        
-
-    # for article in all_articles:
-    #     article.find_cosine_distance(all_journals)
-
-
-    # print(len(all_journals))
-    # all_articles[0].find_cosine_distance(all_journals)
-
-    # print(all_articles[0].get_journals_cosines().values())
+    print("DONE")
