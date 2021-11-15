@@ -5,7 +5,10 @@ class Jounal:
   authors = []
 
   def __init__(self, title):
-
+    self.pure_title = title
+    if title == "SEM STUDY OF JUTE FIBRES":
+      print("FinDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD")
+      print(self.extract_title(title))
     self.title = self.extract_title(title)
 
 
@@ -31,7 +34,12 @@ class Jounal:
 
   
   def calculate_word_occurance(self, word):
-    return self.splitedTitle.count(word)
+    # print(type(self.splitedTitle))
+    # print(self.splitedTitle)
+ 
+    
+    return self.splitedTitle.lower().count(word)
+    # return 0
 
 
   def create_vector(self, dictionary):

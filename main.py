@@ -109,18 +109,30 @@ if __name__ == '__main__':
     # dictionary_creation()
     # word_count = get_dictionary_from_csv()
     word_count = create_dictionary_of_words(all_articles + all_journals)
-    optimize_dictionary(word_count)
+    # optimize_dictionary(word_count)
 
+    # print(len(all_articles))
     for article in all_articles:
         article.create_vector(word_count)
     for journal in all_journals:
         journal.create_vector(word_count)
 
-    for article in all_articles:
-        article.find_cosine_distance(all_journals)
+    for key in list(word_count):
+
+        sen = "SEM STUDY OF JUTE FIBRES".lower().split()
+        # print(sen)
+        
+        if key in sen:
+            print("trueeeeeeeeeeeeeeeeee")
+    print("done")
+
+        
+
+    # for article in all_articles:
+    #     article.find_cosine_distance(all_journals)
 
 
     # print(len(all_journals))
     # all_articles[0].find_cosine_distance(all_journals)
 
-    print(all_articles[0].get_journals_cosines().values())
+    # print(all_articles[0].get_journals_cosines().values())

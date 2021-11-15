@@ -9,6 +9,7 @@ class Article:
 
   def __init__(self, title):
 
+    self.pure_title = title
     self.title = self.extract_title(title)
 
 
@@ -40,16 +41,23 @@ class Article:
     
 
   def calculate_word_occurance(self, word):
-    return self.splitedTitle.count(word)
+    return self.splitedTitle.lower().count(word)
+    # return 1
 
 
   def create_vector(self, dictionary):
     self.vector_list = []
 
     for key in list(dictionary):
+      # print(key)
       self.vector_list.append(self.calculate_word_occurance(key))
     
     self.vector = np.array(self.vector_list)
+    
+    if not np.any(self.vector):
+      print(self.vector)
+      print("article empty")
+      print(self.pure_title)
 
    
   def get_vector (self):
@@ -68,6 +76,8 @@ class Article:
       # count = count + 1
       # print(count)
       journal_vector = journal.get_vector()
+      if not np.any(journal_vector):
+        print("journal empty", journal.get_title())
       # print("journal vector, \n", journal.get_vector())
       # self.journals_cosines[journal] = spatial.distance.cosine(self.vector, journal.get_vector())
       self.journals_cosines[journal] = np.dot(self.vector,journal_vector) / (LA.norm(self.vector) * LA.norm(journal_vector))
