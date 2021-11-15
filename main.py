@@ -99,13 +99,17 @@ def suggest_journals_to_articles(word_count, top_k):
             all_journals.remove(journal)
             print("journal {} removed".format(journal.get_title()))
 
-        
-    count = 1
+    fp = open("result.txt","w",encoding="utf8",newline='')
+    # count = 1
     for article in all_articles:
-        print("****************** article {} *******************".format(count))
+        # print("****************** article {} *******************".format(count))
+        fp.write("\n\n****************** article {} *******************\n\n".format(article.get_title()))
         article.find_cosine_distance(all_journals)
-        article.get_top_nearest_journals(top_k)
-        count += 1
+        k_nearests_journals = article.get_top_nearest_journals(top_k)
+        for journal in k_nearests_journals:
+            fp.write(journal.get_title()+"\n")
+    fp.close()
+        # count += 1
 
 
 if __name__ == '__main__':
@@ -123,9 +127,9 @@ if __name__ == '__main__':
     
     word_count = create_dictionary_of_words(all_articles + all_journals)
     optimize_dictionary(word_count)
-    #  write_dictonary_to_csv("word_dictionary_v2.csv",word_count)
+    write_dictonary_to_csv("word_dictionary_vf1.csv",word_count)
     # word_count = get_dictionary_from_csv()
 
-    suggest_journals_to_articles(word_count, 20)
+    suggest_journals_to_articles(word_count, 5)
 
-    print("DONE")
+    print("The results were successfully written to the text file (result.txt)")

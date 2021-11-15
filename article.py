@@ -72,8 +72,8 @@ class Article:
     return self.journals_cosines
 
   def get_top_nearest_journals(self, count):
-    print(self.title)
-    top_journals =nsmallest(count, self.journals_cosines, key = self.journals_cosines.get)
-    for journal in top_journals:
-      print(journal.get_title())
-      print(self.journals_cosines.get(journal))
+    # print(self.title)
+    top_journals = nlargest(count, self.journals_cosines, key = self.journals_cosines.get)
+    
+    # print(top_journals[0].get_title())
+    return top_journals
