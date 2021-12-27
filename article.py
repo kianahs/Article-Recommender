@@ -7,10 +7,11 @@ class Article:
 
   authors = []
 
-  def __init__(self, title):
+  def __init__(self, title,keywords):
 
     self.pure_title = title
     self.title = self.extract_title(title)
+    self.keywords = keywords
 
 
   def get_splited_title(self):
@@ -74,6 +75,10 @@ class Article:
   def get_top_nearest_journals(self, count):
     # print(self.title)
     top_journals = nlargest(count, self.journals_cosines, key = self.journals_cosines.get)
-    
+    # print(top_journals.values())
     # print(top_journals[0].get_title())
-    return top_journals
+    values =[]
+    for journal in top_journals:
+      values.append( self.journals_cosines[journal])
+
+    return top_journals,values
