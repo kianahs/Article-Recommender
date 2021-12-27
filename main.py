@@ -35,7 +35,7 @@ def create_dictionary_of_words(all_articles):
 
     for article in all_articles:
 
-        title_words = article.get_splited_title()
+        title_words = article.get_splited_context()
 
         for word in title_words:
             result=re.search('^[\s,'+persian_alpha_codepoints+additional_arabic_characters_codepoints
@@ -158,7 +158,12 @@ if __name__ == '__main__':
             all_articles.append(Article(paper["title"],paper["keywords"]))
 
     for journal in journals_data["articles"]:
-        all_journals.append(Jounal(journal["articleTitle"],journal["articleKeywords"]))
+        result=re.search('^[\s,'+persian_alpha_codepoints+additional_arabic_characters_codepoints
+                     +arabic_numbers_codepoints+persian_num_codepoints+']*$', journal["articleTitle"])
+      
+        if not result:
+            # print(result)
+            all_journals.append(Jounal(journal["articleTitle"],journal["articleKeywords"]))
     
     
     word_count = create_dictionary_of_words(all_articles + all_journals)

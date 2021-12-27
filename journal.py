@@ -10,12 +10,15 @@ class Jounal:
   def __init__(self, title, keywords):
     self.pure_title = title
     self.title = self.extract_title(title)
-    self.keywords = keywords
+    self.keywords = []
+    for word in keywords:
+      self.keywords += word.split()
+    self.keywords_lowercase = ' '.join(map(str, [word.lower() for word in self.keywords]))
 
 
-  def get_splited_title(self):
+  def get_splited_context(self):
 
-    return self.title.split()
+    return self.title.split() + self.keywords
   
   def add_author(self, author_name):
 
@@ -36,7 +39,7 @@ class Jounal:
   
   def calculate_word_occurance(self, word):
     
-    return self.splitedTitle.lower().count(word)
+    return (self.splitedTitle.lower() + self.keywords_lowercase).count(word)
     
 
   def create_vector(self, dictionary):
