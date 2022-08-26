@@ -1,0 +1,3620 @@
+
+
+******************  qMmvqUwAAAAJ *******************
+
+ID: 217[
+title: FPGA Implementation of a Hammerstein Based Digital Predistorter for Linearizing RF Power Amplifiers with Memory Effects
+score: 71]
+
+ID: 2725[
+title: A NEW OPTIMIZATION METHOD BY RING PROBABILISTIC LOGIC NEURAL NETWORKS
+score: 62]
+
+ID: 1209[
+title: PATH DELAY FAULTS CATEGORIZATION IN ASYNCHRONOUS CIRCUITS
+score: 56]
+
+ID: 2745[
+title: A FUZZY GENETIC METHOD TO PREDICT AIR DEMAND DOWNSTREAM OF BOTTOM OUTLET GATES
+score: 43]
+
+ID: 344[
+title: A NEW METHOD FOR OPTIMAL PLACEMENT OF STATCOM USING GENETIC ALGORITHMS AND CONTINUATION POWER FLOW
+score: 38]
+
+ID: 469[
+title: A Hybrid Meta-heuristic Algorithm for the Vehicle Routing Problem with Simultaneous Delivery and Pick-up
+score: 34]
+
+ID: 351[
+title: Attitude Stabilization of Quadrotor Using Adaptive Fuzzy Proportional Integral Derivative Controller
+score: 33]
+
+ID: 1857[
+title: Optimizing the Weight of 3D Steel structures by spectrum dynamic analysis and soft computing algorithm
+score: 27]
+
+ID: 1647[
+title: OPTIMUM STRUCTURAL DESIGN OF SPILLWAY RADIAL GATE BY FINITE ELEMENT METHODS
+score: 27]
+
+ID: 1396[
+title: Grinding Circuit at Mouteh Gold Mine
+score: 26]
+
+ID: 1702[
+title: A deadlock free routing algorithm for a modular type packet switching system
+score: 25]
+
+ID: 1044[
+title: SIMULATION OF THE CARDIOVASCULAR SYSTEM USING EQUIVALENT ELECTRONIC CIRCUIT WITH ACTIVE ELEMENTS
+score: 23]
+
+ID: 437[
+title: An Adaptive Congestion Alleviating Protocol for Healthcare Applications in Wireless Body Sensor Networks: Learning Automata Approach
+score: 21]
+
+ID: 570[
+title: A Quantitative Evaluation of Maintainability of Software Architecture Styles
+score: 19]
+
+ID: 1558[
+title: NONDISCIPLINARY SYNTHESIS IN MECHATRONICS ILIZING BOND GRAPH TECHNIQUES
+score: 16]
+
+ID: 779[
+title: Fully Distributed Modeling, Analysis and Simulation of an Improved Non-Uniform Traveling Wave Structure
+score: 15]
+
+ID: 1210[
+title: APPLICATION OF JUZZY LOGIC CONTROLLERS IN TRAFFIC MANAGEMENT OF COMMUNICATION NETWORKS
+score: 14]
+
+ID: 208[
+title: Fluid Flow Modeling in Single Fracture Using Cellular Automata Method
+score: 14]
+
+ID: 2712[
+title: INVESTIGATION THE PHYSICAL PROPERTIES OF RUBBER CONCRETE
+score: 14]
+
+ID: 1840[
+title: Computer based optimisation of underground mining area
+score: 13]
+
+ID: 871[
+title: A NOVEL FUZZY LOGIC CONTROLLER FOR A BOOST POWER FACTOR CORRECTOR
+score: 12]
+
+ID: 411[
+title: Developing Robust Project Scheduling Methods for Uncertain Parameters
+score: 12]
+
+ID: 385[
+title: Automatic Discovery of Technology Networks for Industrial-Scale R&D IT Projects via Data Mining
+score: 12]
+
+ID: 746[
+title: Nonlinear Modeling, Analysis and Design of an Active Antenna in S Frequency Band
+score: 11]
+
+ID: 2641[
+title: Sizing and Geometry Optimization of Truss Structures Using a Hybrid of Gravitational Search Algorithm and Cellular Automata
+score: 11]
+
+ID: 1969[
+title: Developing a Hybrid Optimization Scheduling Model in Construction Projects Using Comparative Analysis of Existing Meta-heuristic Algorithms
+score: 11]
+
+ID: 1449[
+title: ARTIFICIAL NEURAL NETWORKS IN MULTIPLE – ACCESS COMMUNICATION
+score: 11]
+
+ID: 2032[
+title: Experimental Investigation of Discharge Coefficient in Tainter (Radial) Gate with Sill in Free Flow Conditions
+score: 11]
+
+ID: 164[
+title: Cooperative path planning for leader – follower formation of Multi UAV based on the minimum energy consumption for load transportation
+score: 11]
+
+ID: 102[
+title: Effect of Start of Injection Timing on Waste Heat Recovery Capacity in a Reactivity Controlled Compression Ignition Engine
+score: 11]
+
+ID: 412[
+title: Neuro-ACT Cognitive Architecture Applications in Modeling Driver’s Steering Behavior in Turns
+score: 10]
+
+ID: 2218[
+title: Investigation of the micromechanical behavior of ferritic-martensitic steel under complex loading
+score: 10]
+
+ID: 786[
+title: A Novel Equivalent Circuit for Induction Motors under Voltage Fluctuation Conditions
+score: 9]
+
+ID: 604[
+title: Reducing the Power Consumption in Flash ADC Using 65nm CMOS Technology
+score: 9]
+
+ID: 1853[
+title: Determining Impending Slip of Slop and Optimized Embankment Operation Volume of Earth Dams Using a Combination of Neural Networks and Genetic Algorithms (GA)
+score: 9]
+
+ID: 2707[
+title: OPTIMAL SAMPLING DESIGN FOR MODEL CALIBRATION USING GENETIC ALGORITHM: A CASE STUDY
+score: 9]
+
+ID: 1551[
+title: A Stochastic Programming Model for Power Generation Expansion Planning in Iran
+score: 9]
+
+ID: 2805[
+title: ALMOST STRUCTURES : PRODUCT AND ANTI - HERMITIAN
+score: 9]
+
+ID: 1435[
+title: Copper Extraction From Aqueous Solution By Organic Solvents Of TBP And D2EHPA In Buffer Solution
+score: 9]
+
+ID: 34[
+title: Thermodynamic Analysis Of Variation Of Opening Angles Of Continuous Variable Valve Timing System
+score: 9]
+
+ID: 1262[
+title: Algorithms for Computing Limit distributions of Oscillating Systems with Finite Capacity
+score: 8]
+
+ID: 1824[
+title: COMPUTER INTRUSION DETECTION AND INCOMPLETE INFORMATION
+score: 8]
+
+ID: 2036[
+title: Optimal Trajectory Planning of a Quadrotor Based on Minimum Effort
+score: 8]
+
+ID: 588[
+title: Genetic Optimizing of Hard Computing vs Soft Computing for MR Damper Modeling and Proposing an Invertible Pseudo Static Model
+score: 8]
+
+ID: 493[
+title: Prediction models for estimation of exit hydraulic gradient and uplift pressure under the influence of downstream filter
+score: 8]
+
+ID: 2034[
+title: Designing an Adaptive Control Algorithm for Amirkabir’s Laboratory Attitude Simulator of a Spacecraft
+score: 8]
+
+ID: 1925[
+title: Delay Determination of Subway Construction Project by Fuzzy MCDM (Case Study, Karaj Subway)
+score: 7]
+
+ID: 2415[
+title: Designing a New Intelligent Image Processing Algorithm for Traffic Sign Detection and Recognition Based on Fuzzy Logic
+score: 7]
+
+ID: 608[
+title:  Structure Learning in Bayesian Networks Using Asexual Reproduction Optimization
+score: 7]
+
+ID: 2726[
+title: Numerical analysis of the effect of configurations of double rotating cylinders on heat transfer enhancement hybrid nanofluid flow in a vented cavity
+score: 7]
+
+ID: 718[
+title: Study of the Motion Behavior of Soft Fiber Reinforced Actuators Based on Fiber Angle
+score: 7]
+
+ID: 278[
+title: HMAC-Based Authentication Protocol: Attacks and Improvements
+score: 7]
+
+ID: 1947[
+title: Numerical Simulation of Magnetic Field Effect on Thermal and Thermo-Hydraulic Performance and Entropy Generation of a Silicon Microchannel Heat Sink Under Uniform Heat Flux
+score: 6]
+
+ID: 1256[
+title: Design of a Fuzzy Controller Chip with New Structure, Supporting Rational-Powered Membership Functions
+score: 6]
+
+ID: 2765[
+title: SYNTHESIS AND APPLICATION OF NOVEL MONOAZO DISPERSE DYES BASED ON N-ESTER-1,8- NAPHTHALIMIDE ON POLYESTER
+score: 6]
+
+ID: 762[
+title: A New Job Scheduling in Data Grid Environment Based on Data and Computational Resource Availability
+score: 6]
+
+ID: 2256[
+title: Experimental Study of Cryogenic Cooling Effect on Tool Wear and Power Consumption During Turning of AISI304
+score: 6]
+
+ID: 1083[
+title: Impact of Using Knee Elements to Improve Cyclic Performance of Chevron & Diagonal Braced Steel Frames
+score: 6]
+
+ID: 1244[
+title: PD Controller Design with H¥ Performance for Linear Systems with Input Delay
+score: 6]
+
+ID: 2866[
+title: Modal Data Identification of the Prestressed Concrete Bridge Using Variational Mode Decomposition
+score: 6]
+
+ID: 710[
+title: Experimental investigation of shear behavior of one-way reinforced slabs with high performance fiber reinforced cementitious composite laminates
+score: 6]
+
+ID: 1400[
+title: Design and Development of a New Physical Model of Strip Footings on Reinforced Soil Media under Cyclic Loadings
+score: 6]
+
+ID: 1536[
+title: Study On Compressive Strength Of Microjet Grouting Columns By Physical Model
+score: 6]
+
+ID: 2524[
+title: Designing Optimum Multi-Domain System by Integrating Bond Graph and Genetic Programming
+score: 6]
+
+ID: 1668[
+title: Investigation of crack propagation in the concrete beam in meso-scale by using topology optimization
+score: 5]
+
+ID: 2231[
+title: calculation of Functional Costs Reduction in Economic Evaluation of Roads Rehalibitation(Case Study: Fasa-Zahedshahr Main Road)
+score: 5]
+
+ID: 927[
+title: Design and Efficient Analysis of Large Reflectarray Antenna
+score: 5]
+
+ID: 2241[
+title: AN EFFICIENT METHOD FOR DAM-RESERVIOR SEISMIC INTERACTION ANALYSIS
+score: 5]
+
+ID: 1173[
+title: Site Layout Optimization and its Impact on the Cost of Construction Projects
+score: 5]
+
+ID: 1712[
+title: Overcoming some of the problems associated with the design of warp knitted fabrics by the use of a computer aided design
+score: 5]
+
+ID: 2669[
+title: SYMMETRIC CURVATURE IN LIFTING METRICS
+score: 5]
+
+ID: 703[
+title: Developing a Decision Tree Data Mining Method for detecting the Effective Parameters for Determining the Power of Flood Destruction
+score: 5]
+
+ID: 934[
+title: Crack identification in postbuckled plates using differential quadrature element method and sequential quadratic programming
+score: 5]
+
+ID: 338[
+title: A Mushy State Simulated Annealing
+score: 5]
+
+ID: 958[
+title: Extended Multiple Impedance Control of a Space Robot with Flexible Members
+score: 5]
+
+ID: 276[
+title: Multipath Node-Disjoint Routing with Backup List Based on the AODV Protocol
+score: 5]
+
+ID: 2202[
+title: A numerical study on the behavior of a supercritical flow over piano key side weirs
+score: 5]
+
+ID: 1791[
+title: Effect of long-term aging on low-temperature cracking of asphalt mixtures using mechanical and thermodynamic methods
+score: 5]
+
+ID: 615[
+title: Using the Adaptive Frequency Nonlinear Oscillator for Earning an Energy Efficient Motion Pattern in a Leg- Like Stretchable Pendulum by Exploiting the Resonant Mode
+score: 5]
+
+ID: 368[
+title: Active Fault Tolerant Control of Wind Turbine Systems using Disturbance Observer-based Sliding Mode and Time Delay Estimation
+score: 5]
+
+ID: 2326[
+title: Developing a Bidirectional Evolutionary Topology Algorithm for Continuum Structures with the Objective Functions of Stiffness and Fundamental Frequency with Geometrical Symmetry Constraint
+score: 5]
+
+ID: 543[
+title: Markovian Delay Prediction-Based Control of Networked Systems
+score: 5]
+
+ID: 2755[
+title: DETERMINATION OF CRIMP INDEXES OF FALSE TWIST AND KNIT DE KNIT TEXTURED YARNS USING COMPUTER VISION
+score: 5]
+
+ID: 2291[
+title: TIME- OPTIMAL SWITCHING CONTROL COMPUTATION OF NONLINEAR SYSTEMS USING LGI METHOD
+score: 5]
+
+ID: 2790[
+title: A STUDY OF MECHANICAL PROPERTIES OF NET WARP KNITTED FABRICS
+score: 5]
+
+ID: 2378[
+title: A METHODOLOGY TO ANALYZE THE TRANSIENT BEHAVIOR OF EXPONENTIAL QUEUING SYSTEMS
+score: 5]
+
+ID: 1916[
+title: Developing an alternating direction explicit-implicit domain-decomposition approach to solve heat transfer equation on graphics processing unit
+score: 5]
+
+ID: 1821[
+title: Dynamics simulation algorithms of industrial robots
+score: 4]
+
+ID: 1922[
+title: Adaptive Leader-Following and Leaderless Consensus of a Class of Nonlinear Systems Using Neural Networks
+score: 4]
+
+ID: 1653[
+title: Analysis of dynamic instability in sandwich thick beams with flexible functional core subjected to a follower force
+score: 4]
+
+ID: 2715[
+title: NUMERICAL MODELING OF THE WATER HAMMER PHENOMEND WITH FLUENT SOFTWARE
+score: 4]
+
+ID: 1599[
+title: An Integer Programming Algorithm for Stope Layout Optimization
+score: 4]
+
+ID: 1734[
+title: Investigation and Optimization Flat Lapping Process Using Non-Dominated Sorting Genetic Algorithm II
+score: 4]
+
+ID: 2247[
+title: THE DEVELOPMENT OF A COMPUTER PROGRAM FOR CAM AND FOLLOWER DESIGN
+score: 4]
+
+ID: 2381[
+title: COMPUTER VISION AIDED FABRIC INSPECTION SYSTEM FOR ON-CIRCULARKNITTING MACHINE
+score: 4]
+
+ID: 376[
+title: Optical Chirality Enhancement in Twisted Arrays of Plasmonic Nano-rods
+score: 4]
+
+ID: 684[
+title: Single-objective and multi-objective design of optimal control systems by Genetic programming and its comparison with analytical solution of Riccati equation
+score: 4]
+
+ID: 2802[
+title: THE DEA PROCESS TO THE PLANNING OF WELL-DRILLING OPERATIONS
+score: 4]
+
+ID: 429[
+title: Measurement of Strain by Digital Shearography with a New Algorithm of Phase Calculation
+score: 4]
+
+ID: 1246[
+title: A Mushy State Simulated Annealing
+score: 4]
+
+ID: 2722[
+title: ALMOST PRODUCT STRUCTURES ONTANGENT MANIFOLD OF A SPACE FORM
+score: 4]
+
+ID: 1959[
+title: Generalized Predictive Filter for Discrete-Time Linear Systems
+score: 4]
+
+ID: 1988[
+title: STABILITY ANALYSIS OF SELF-FEEDBACK NEURAL NETWORK STRUCTURES
+score: 4]
+
+ID: 415[
+title: A Novel Reconfiguration Mixed with Distributed Generation Planning via Considering Voltage Stability Margin
+score: 4]
+
+ID: 2010[
+title: Code Investigation and Experimental Study of Wide Beam-Column Connections
+score: 4]
+
+ID: 1930[
+title: Mathematical Modelling and Resonance Analysis in Impact Oscillators
+score: 4]
+
+ID: 115[
+title: Spacecraft Fault Tolerant Attitude Control Design under Control Input Saturation and Uncertainty in Fault Information
+score: 4]
+
+ID: 2327[
+title: A NEW STATISTICAL TEST BASED ON LINEAR COMPLEXITY PROFILE (LCP)
+score: 4]
+
+ID: 834[
+title: Optimal Economic of Water Allocation Using EA and ICA Evolutionary Algorithms
+score: 4]
+
+ID: 1345[
+title: Investigating the effect of Portland cement and Nano-clay on the collapse potential and consolidation indexes of the collapsible soil
+score: 4]
+
+ID: 1375[
+title: Analytical Review of Risk Triggers in the Design Phase of D&B Contracts
+score: 4]
+
+ID: 2932[
+title: Investigation of electro-osmotic micro-pumps using electrical field gradient and asymmetric micro-electrodes: numerical modeling and experimental validation
+score: 4]
+
+ID: 22[
+title: Local Density of States؛ Tight binding Model؛ Surface Energy؛ Recursion Method
+score: 4]
+
+ID: 1626[
+title: A Literature Review on Modeling and Mitigating the Pounding Effects in Buildings
+score: 4]
+
+ID: 52[
+title: A Sub-Optimal Look-Up Table Based on Fuzzy System to Enhance the Reliability of Coriolis Mass Flow Meter
+score: 4]
+
+ID: 56[
+title: Secure Collaborative Spectrum Sensing in the Presence of Primary User Emulation Attack in Cognitive Radio Networks
+score: 3]
+
+ID: 2521[
+title: DEVELOPMENT OF A COMPUTER PROGRAM FOR SHIP MANEUVERABILITY
+score: 3]
+
+ID: 2188[
+title: Analytical Solution of the Heat Transfer in Heterogeneous Composite Conical Shells with Temperature Dependent Conduction Coefficients
+score: 3]
+
+ID: 2690[
+title: NUCLEAR MAGNETIC RESONANCE STUDY OF CHARGE TRANSFER COMPLEX FORMATION BETWEEN SILVER NITRATE AND BENZYLCYANIDE IN SOLVENT ETHYLENE GLYCOL
+score: 3]
+
+ID: 558[
+title: Strapdown Attitude Estimation Using IMU and Altimeter Integration for Maneuvering Vehicles
+score: 3]
+
+ID: 1442[
+title: Damping in Space Structure with the MERO Jointing System with Respect to the Degree of Tightness of Bolts
+score: 3]
+
+ID: 1972[
+title: A New Approach for Uncertainty Analysis of the Numerical Data Using Genetic Algorithm Based on Grid Refinement
+score: 3]
+
+ID: 2813[
+title: Accurate calculation of nodal vectors in isogeometric analysis of shell structures, using Greville points
+score: 3]
+
+ID: 1326[
+title: Performance Based Plastic Design of Steel Moment Frame and Comparing It with Force Based Design
+score: 3]
+
+ID: 1196[
+title: Experimental study of piano key side weir with oblique keys
+score: 3]
+
+ID: 2766[
+title: OPTIMIZATION OF NEURAL NETWORK USING GENETIC ALGORITHM IN ORDER TO PREDICT RESERVOIR PERMEABILITY
+score: 3]
+
+ID: 67[
+title: Calibration of Witczak and Modified Witczak Models for Prediction of Dynamic Modulus of In-Service Asphalt Layers
+score: 3]
+
+ID: 1251[
+title: Numerical Study of Lateral – Torsion Stability of Thin – wall Beams with Cut–out in Web
+score: 3]
+
+ID: 89[
+title: Active fault tolerant control based on adaptive back-stepping nonsingular fast integral terminal sliding mode approach
+score: 3]
+
+ID: 750[
+title: A Collision-Free Trajectory Planning of a hyper redundant Manipulator Using a Dual Genetic Algorithm
+score: 3]
+
+ID: 580[
+title: Pareto Optimal Design Of Decoupled Sliding Mode Control Based On A New Multi-Objective Particle Swarm Optimization Algorithm
+score: 3]
+
+ID: 364[
+title: An Intelligent Method for Crack Classification in Concrete Structures Based on Deep Neural Networks
+score: 3]
+
+ID: 2927[
+title: Investigating the effect of Automated Vehicles and Connected and Automated Vehicles on the capacity of freeways using microscopic simulation
+score: 3]
+
+ID: 2736[
+title: BIFUNCTIONAL CATALYSTS SYNTHESIS AND DETERMINATION OF KINETIC PARAMETERS FOR DIRECT CONVERSION OF SYN GAS TO DI-METHYL ETHER
+score: 3]
+
+ID: 2332[
+title: Performance Optimization of Multi-Effect Distillation-Thermal Vapor Compression Desalination Using Genetic Algorithm
+score: 3]
+
+ID: 1654[
+title: Finite element modeling of shape memory alloy stent insertion in the vessel with consideration of vessel damage
+score: 3]
+
+ID: 619[
+title: Performance Study of Untrusted Relay Network Utilizing Cooperative Jammer
+score: 3]
+
+ID: 2492[
+title: Shahrekord earthquake risk assessment by neuro-fuzzy way method using seismic evaluation of structures
+score: 2]
+
+ID: 2203[
+title: Tips on Application of Natural Ventilation in Prevalent Buildings in Iran
+score: 2]
+
+ID: 398[
+title: A Clustering Approach to Scientific Workflow Scheduling on the Cloud with Deadline and Cost Constraints
+score: 2]
+
+ID: 55[
+title: Latency Compensation in Multi Chaotic Systems Using the Extended OGY Control Method
+score: 2]
+
+ID: 577[
+title: Dynamic Analysis of Gravity Dams by Employing Efficient Fluid Hyper-Element
+score: 2]
+
+ID: 1851[
+title: Improving the Milling Machine Stiffness by Optimizing the Internal Stiffeners Layout and the Wall Thickness Distribution of Column
+score: 2]
+
+ID: 1693[
+title: Scale Effect Aspects for Correlation CPT Data in Foundation Analysis and Design
+score: 2]
+
+ID: 592[
+title: A Low Power Low Voltage Rail to Rail Constant gm Differential Amplifier with 150 dB CMRR and Enhanced Frequency Performance
+score: 2]
+
+ID: 203[
+title: Large deflection of Flexible Functionally Graded Beams with Geometric Non-linearity: Analytical Approach
+score: 2]
+
+ID: 1597[
+title: Solvent Shifting Approach for Droplet Generation in a Microfluidic Device
+score: 2]
+
+ID: 15[
+title: Investigating Performance of Aitken Accelerator in Dynamic Analysis by One-Dimensional Generalized
+score: 2]
+
+ID: 1281[
+title: The Missing Effects Of Yield strength And Arrangement Of Transverse Rebars On The Modeling Parameters Of RC Columns In Current Standards
+score: 2]
+
+ID: 2598[
+title: Assessment of heavy metals pollution in urban runoff (case study: north and east catchment of Tehran city)
+score: 2]
+
+ID: 1596[
+title: A HYBRID ALGORITHM FOR DISCRETE NONLINEAR OPTIMIZATION
+score: 2]
+
+ID: 2923[
+title: Detection of two simultaneous leakages in water distribution network using hybrid feedforward artificial neural networks
+score: 2]
+
+ID: 2168[
+title: Prediction of the Stress-Strain Behavior of MSW Materials Using Hyperbolic Model and Evolutionary Polynomial Regression (EPR)
+score: 2]
+
+ID: 1186[
+title: Laboratory Investigation of the Effect of Deep Soil Mixing Method on Engineering Properties of Soft Clay Stabilized by Slag and Lime
+score: 2]
+
+ID: 897[
+title: Effect of blowing on flow-induced noise reduction in a rod-airfoil
+score: 2]
+
+ID: 391[
+title: Use of Stochastic Turbulence Models in Jet Acoustics
+score: 2]
+
+ID: 162[
+title: Microstructure and Mechanical Properties of Inconel 738LC Joint by Wide Gap Brazing Using Inconel 718
+score: 2]
+
+ID: 40[
+title: An Efficient Scheme for PAPR Reduction of OFDM based on Selected Mapping without Side Information
+score: 2]
+
+ID: 1243[
+title: An ANOVA Based Analytical Dynamic Matrix Controller Tuning Procedure for FOPDT Models
+score: 2]
+
+ID: 2566[
+title: SEDIMENT LOADS PREDICTION USING MULTILAYER FEEDFORWARD NEURAL NETWORKS
+score: 2]
+
+ID: 1644[
+title: AN IMPROVED EQUIVALENT MAGNETIC CIRCUIT NETWORK METHOD FOR CONSIDERATION OF MOTIONAL EDDY CURRENTS IN A SOLID CONDUTOR
+score: 2]
+
+ID: 1395[
+title: Using Fuzzy Computation in Modelling Uncertainties in Kriging Estimation Method, Case Study: Estimation of Sodium Spatial Dispersion in Zanjan Aquifer
+score: 2]
+
+ID: 629[
+title: The effect of amount and several different types of mineral admixtures on the yield stress and plastic viscosity of self-consolidating concretes
+score: 2]
+
+ID: 2061[
+title: Identification of Cavitation Phenomenon in Centrifugal Pump by Artificial Immune Network Method
+score: 2]
+
+ID: 705[
+title: Damage Detection of Single Tapered Poles Using APSO Algorithm
+score: 2]
+
+ID: 409[
+title: Development of an Analytic Model for Flux Switching Motors
+score: 2]
+
+ID: 232[
+title: Solution of Radiative Transfer Equation in Two-Dimensional Media with Real Gas through Zone Method and Box Model
+score: 2]
+
+ID: 50[
+title: Centralized Clustering Method To Increase Accuracy In Ontology Matching Systems
+score: 2]
+
+ID: 1422[
+title: Optimization Of The Base Isolators Application Using Genetic Algorithm
+score: 1]
+
+ID: 41[
+title: A high resolution finite volume scheme with a voronoi mesh for dam break simulation
+score: 1]
+
+ID: 2484[
+title: Simulation, manufacturing and test of a transparent proton-exchange membrane fuel cell
+score: 1]
+
+ID: 1366[
+title: A FRAMEWORK FOR REPRESENTATION OF NEGOTIATION SCENARIOS
+score: 1]
+
+ID: 2910[
+title: A New Machine Learning Method for Ball Bearing Condition Monitoring
+score: 1]
+
+ID: 1667[
+title: Investigation of vehicle energy demand considering the modified tire power loss
+score: 1]
+
+ID: 1605[
+title: An Artificial Neural Network Approach for Modeling and Prediction of Energy Consumption in a Seawater Greenhouse
+score: 1]
+
+ID: 1743[
+title: A Novel Algorithm for Automatic Parallel Parking a Car Based On Continuous-Curvature Clothoid Path Planning
+score: 1]
+
+ID: 1573[
+title: Optimization of Clay Core Dimensions in Earth Dams Using Simulated Annealing
+score: 1]
+
+ID: 2575[
+title: Analysis of Regression-Based Models for Prediction of Depth Temperature of Asphalt Layers – A Review
+score: 1]
+
+ID: 274[
+title: Investigation of different geometric shapes of sills on the discharge coefficient of a vertical sluice gate
+score: 1]
+
+ID: 438[
+title: Supply Chain Management Improvement through Value Engineering Approach in the Construction Industry
+score: 1]
+
+ID: 950[
+title: Modeling Lateral Communication in Holonic Multi Agent Systems
+score: 1]
+
+ID: 1270[
+title: Comparison of Project Delivery Methods in Iran(Owner Attitude)
+score: 1]
+
+ID: 7[
+title: An Experimental Investigation on the Effect of Vertical Distance and Inclination Angle of S-Shaped Channel on Two-Phase Flow Patterns
+score: 1]
+
+ID: 45[
+title: Microwave Imaging Using SAR
+score: 1]
+
+ID: 244[
+title: A Robust Adaptive Observer-Based Time Varying Fault Estimation
+score: 1]
+
+ID: 1130[
+title: Robust Adaptive Backstepping Control of a Nonlinear System with Uncertainty, Disturbance and Unknown Time Delay
+score: 1]
+
+ID: 1591[
+title: MODELLING A TWO DIMENSIONAL RIVER INCORPORATING SEDIMENT FLOW
+score: 1]
+
+ID: 2349[
+title: MULTIUSER DETECTION OF DS/CDMA SIGNALS USING NEURAL NETWORKS
+score: 1]
+
+ID: 2132[
+title: An experimental study on one of the all steel Buckling Restrained Brace
+score: 1]
+
+ID: 545[
+title: Design and Simulation of a Modified 32-bit ROM-based Direct Digital Frequency Synthesizer on FPGA
+score: 1]
+
+ID: 1102[
+title: Secondary Compression Characteristics of Northern Parts of Iran Soils Based on (ca/cc) Concept
+score: 1]
+
+ID: 2905[
+title: Investigation of Seepage, uplift forces and hydraulic gradient in hydraulic structures with Different Configurations of Dual-Cutoff Walls
+score: 1]
+
+ID: 1958[
+title: Damage Detection of Cable-Stayed Bridges Using Frequency Domain Analysis and Clustering
+score: 1]
+
+ID: 2351[
+title: Physical Modelling of Oil Wells During Drilling Using Designed Triaxial Cell
+score: 1]
+
+ID: 1452[
+title: Synthesis and molecular structure of hexakis (N-Methylurea) titanium (III) tetrachlorozincate(II) monochloride and similar complexes of iodide salts
+score: 1]
+
+ID: 2873[
+title: the Graph Decision Model for Risk Allocation in Design-Build Contracts; Game Theory approach
+score: 1]
+
+ID: 2665[
+title: Stability analysis of predictive approachin networked control systems using theory of switching systems
+score: 1]
+
+ID: 781[
+title: Dynamic Analysis of Asynchronous Low-Velocity Impacts on Laminated Composite Plate
+score: 1]
+
+ID: 1334[
+title: Numerical Simulation of Transient Compressible Flow in Natural Gas long Transmission Pipelines Using a Suitable Parallel Algorithm
+score: 1]
+
+
+
+******************  2RN0Y2YAAAAJ *******************
+
+ID: 2725[
+title: A NEW OPTIMIZATION METHOD BY RING PROBABILISTIC LOGIC NEURAL NETWORKS
+score: 30]
+
+ID: 2745[
+title: A FUZZY GENETIC METHOD TO PREDICT AIR DEMAND DOWNSTREAM OF BOTTOM OUTLET GATES
+score: 30]
+
+ID: 1209[
+title: PATH DELAY FAULTS CATEGORIZATION IN ASYNCHRONOUS CIRCUITS
+score: 26]
+
+ID: 1857[
+title: Optimizing the Weight of 3D Steel structures by spectrum dynamic analysis and soft computing algorithm
+score: 23]
+
+ID: 1396[
+title: Grinding Circuit at Mouteh Gold Mine
+score: 17]
+
+ID: 1044[
+title: SIMULATION OF THE CARDIOVASCULAR SYSTEM USING EQUIVALENT ELECTRONIC CIRCUIT WITH ACTIVE ELEMENTS
+score: 15]
+
+ID: 1262[
+title: Algorithms for Computing Limit distributions of Oscillating Systems with Finite Capacity
+score: 11]
+
+ID: 2034[
+title: Designing an Adaptive Control Algorithm for Amirkabir’s Laboratory Attitude Simulator of a Spacecraft
+score: 8]
+
+ID: 871[
+title: A NOVEL FUZZY LOGIC CONTROLLER FOR A BOOST POWER FACTOR CORRECTOR
+score: 7]
+
+ID: 746[
+title: Nonlinear Modeling, Analysis and Design of an Active Antenna in S Frequency Band
+score: 7]
+
+ID: 398[
+title: A Clustering Approach to Scientific Workflow Scheduling on the Cloud with Deadline and Cost Constraints
+score: 6]
+
+ID: 1969[
+title: Developing a Hybrid Optimization Scheduling Model in Construction Projects Using Comparative Analysis of Existing Meta-heuristic Algorithms
+score: 6]
+
+ID: 2218[
+title: Investigation of the micromechanical behavior of ferritic-martensitic steel under complex loading
+score: 5]
+
+ID: 1647[
+title: OPTIMUM STRUCTURAL DESIGN OF SPILLWAY RADIAL GATE BY FINITE ELEMENT METHODS
+score: 5]
+
+ID: 604[
+title: Reducing the Power Consumption in Flash ADC Using 65nm CMOS Technology
+score: 5]
+
+ID: 1173[
+title: Site Layout Optimization and its Impact on the Cost of Construction Projects
+score: 5]
+
+ID: 1712[
+title: Overcoming some of the problems associated with the design of warp knitted fabrics by the use of a computer aided design
+score: 5]
+
+ID: 2819[
+title: A ROBUST STATISTICAL APPROACH FOR DETECTING OF SPEECH AND NON- SPEECH INTERVALS
+score: 5]
+
+ID: 1791[
+title: Effect of long-term aging on low-temperature cracking of asphalt mixtures using mechanical and thermodynamic methods
+score: 5]
+
+ID: 217[
+title: FPGA Implementation of a Hammerstein Based Digital Predistorter for Linearizing RF Power Amplifiers with Memory Effects
+score: 5]
+
+ID: 2300[
+title: Application of Optimized Neuro-Fuzzy Models for Estimation of Water Quality Index in Karun River
+score: 5]
+
+ID: 570[
+title: A Quantitative Evaluation of Maintainability of Software Architecture Styles
+score: 5]
+
+ID: 2623[
+title: A fuzzy linguistic hybrid method for selecting a construction project manager
+score: 5]
+
+ID: 368[
+title: Active Fault Tolerant Control of Wind Turbine Systems using Disturbance Observer-based Sliding Mode and Time Delay Estimation
+score: 5]
+
+ID: 834[
+title: Optimal Economic of Water Allocation Using EA and ICA Evolutionary Algorithms
+score: 5]
+
+ID: 2664[
+title: Experimental Study on Vibration Transfer from Shaking Table to the Surrounding Environment
+score: 5]
+
+ID: 1677[
+title: SIGN OF A NEURO-PSS FOR SYNCHRONOUS GENERATOR
+score: 4]
+
+ID: 1821[
+title: Dynamics simulation algorithms of industrial robots
+score: 4]
+
+ID: 786[
+title: A Novel Equivalent Circuit for Induction Motors under Voltage Fluctuation Conditions
+score: 4]
+
+ID: 1558[
+title: NONDISCIPLINARY SYNTHESIS IN MECHATRONICS ILIZING BOND GRAPH TECHNIQUES
+score: 4]
+
+ID: 1599[
+title: An Integer Programming Algorithm for Stope Layout Optimization
+score: 4]
+
+ID: 1734[
+title: Investigation and Optimization Flat Lapping Process Using Non-Dominated Sorting Genetic Algorithm II
+score: 4]
+
+ID: 2381[
+title: COMPUTER VISION AIDED FABRIC INSPECTION SYSTEM FOR ON-CIRCULARKNITTING MACHINE
+score: 4]
+
+ID: 2240[
+title: Low-Cost Damage Detection of Cable-Stayed Bridges Using Signal Processing and Machine Learning
+score: 4]
+
+ID: 429[
+title: Measurement of Strain by Digital Shearography with a New Algorithm of Phase Calculation
+score: 4]
+
+ID: 588[
+title: Genetic Optimizing of Hard Computing vs Soft Computing for MR Damper Modeling and Proposing an Invertible Pseudo Static Model
+score: 4]
+
+ID: 1547[
+title: An Efficient Approach to Discrete Multiple Different Facility Location Problem
+score: 4]
+
+ID: 412[
+title: Neuro-ACT Cognitive Architecture Applications in Modeling Driver’s Steering Behavior in Turns
+score: 4]
+
+ID: 1768[
+title: HUMAN RESOURCE PRODUCTIVITY MEASUREMENT AND A PROBLEM SOLVING ALGORITHM
+score: 4]
+
+ID: 399[
+title: A New Fairness Index and Novel Approach for QoS-Aware Resource Allocation in LTE Networks Based on Utility Functions
+score: 4]
+
+ID: 762[
+title: A New Job Scheduling in Data Grid Environment Based on Data and Computational Resource Availability
+score: 4]
+
+ID: 115[
+title: Spacecraft Fault Tolerant Attitude Control Design under Control Input Saturation and Uncertainty in Fault Information
+score: 4]
+
+ID: 2882[
+title: Energy Dissipation of Converged Ski-jump Buckets by using Dividing Wall
+score: 4]
+
+ID: 674[
+title: Investigating the Effect of Loading Frequency on the Dynamic Properties of SandTire Powder Mixture Using Shaking Table Tests
+score: 4]
+
+ID: 222[
+title: Robust Control of Encoderless Synchronous Reluctance Motor Drives Based on Adaptive Backstepping and Input-Output Feedback Linearization Techniques
+score: 3]
+
+ID: 56[
+title: Secure Collaborative Spectrum Sensing in the Presence of Primary User Emulation Attack in Cognitive Radio Networks
+score: 3]
+
+ID: 2415[
+title: Designing a New Intelligent Image Processing Algorithm for Traffic Sign Detection and Recognition Based on Fuzzy Logic
+score: 3]
+
+ID: 411[
+title: Developing Robust Project Scheduling Methods for Uncertain Parameters
+score: 3]
+
+ID: 2247[
+title: THE DEVELOPMENT OF A COMPUTER PROGRAM FOR CAM AND FOLLOWER DESIGN
+score: 3]
+
+ID: 2690[
+title: NUCLEAR MAGNETIC RESONANCE STUDY OF CHARGE TRANSFER COMPLEX FORMATION BETWEEN SILVER NITRATE AND BENZYLCYANIDE IN SOLVENT ETHYLENE GLYCOL
+score: 3]
+
+ID: 2813[
+title: Accurate calculation of nodal vectors in isogeometric analysis of shell structures, using Greville points
+score: 3]
+
+ID: 1596[
+title: A HYBRID ALGORITHM FOR DISCRETE NONLINEAR OPTIMIZATION
+score: 3]
+
+ID: 1128[
+title: Detecting Denial of Service Message Flooding Attacks in SIP based Services
+score: 3]
+
+ID: 1083[
+title: Impact of Using Knee Elements to Improve Cyclic Performance of Chevron & Diagonal Braced Steel Frames
+score: 3]
+
+ID: 89[
+title: Active fault tolerant control based on adaptive back-stepping nonsingular fast integral terminal sliding mode approach
+score: 3]
+
+ID: 2873[
+title: the Graph Decision Model for Risk Allocation in Design-Build Contracts; Game Theory approach
+score: 3]
+
+ID: 445[
+title: An Investigation of Fines and Coarse Contents in Granular Mixtures by Using Discrete Element Method
+score: 3]
+
+ID: 2492[
+title: Shahrekord earthquake risk assessment by neuro-fuzzy way method using seismic evaluation of structures
+score: 2]
+
+ID: 1210[
+title: APPLICATION OF JUZZY LOGIC CONTROLLERS IN TRAFFIC MANAGEMENT OF COMMUNICATION NETWORKS
+score: 2]
+
+ID: 55[
+title: Latency Compensation in Multi Chaotic Systems Using the Extended OGY Control Method
+score: 2]
+
+ID: 1851[
+title: Improving the Milling Machine Stiffness by Optimizing the Internal Stiffeners Layout and the Wall Thickness Distribution of Column
+score: 2]
+
+ID: 2669[
+title: SYMMETRIC CURVATURE IN LIFTING METRICS
+score: 2]
+
+ID: 2269[
+title: Evaluating Pavement Roughness Based on Vibration Analysis Due to Road Health Monitoring System
+score: 2]
+
+ID: 1597[
+title: Solvent Shifting Approach for Droplet Generation in a Microfluidic Device
+score: 2]
+
+ID: 1281[
+title: The Missing Effects Of Yield strength And Arrangement Of Transverse Rebars On The Modeling Parameters Of RC Columns In Current Standards
+score: 2]
+
+ID: 2168[
+title: Prediction of the Stress-Strain Behavior of MSW Materials Using Hyperbolic Model and Evolutionary Polynomial Regression (EPR)
+score: 2]
+
+ID: 155[
+title: Evaluating Election, Imperialist Competitive Algorithms and Artificial Neural Network Method in Investigating the Groundwater Level of Reshtkhar Plain
+score: 2]
+
+ID: 40[
+title: An Efficient Scheme for PAPR Reduction of OFDM based on Selected Mapping without Side Information
+score: 2]
+
+ID: 2246[
+title: EXPERIMENTAL & NUMERICAL SIMULATION THE EFFECT OF DISTRIBUTION PLATES IN A MOBILE ELECTROSTATIC PRECIPITATOR
+score: 2]
+
+ID: 2849[
+title: Experimental and Numerical Study on the Seismic Performance of MSE/Soil Nail Hybrid Walls
+score: 2]
+
+ID: 48[
+title: Robust Fuzzy Gain-Scheduled Control of the 3-Phase IPMSM
+score: 1]
+
+ID: 2765[
+title: SYNTHESIS AND APPLICATION OF NOVEL MONOAZO DISPERSE DYES BASED ON N-ESTER-1,8- NAPHTHALIMIDE ON POLYESTER
+score: 1]
+
+ID: 2484[
+title: Simulation, manufacturing and test of a transparent proton-exchange membrane fuel cell
+score: 1]
+
+ID: 199[
+title: A Fuzzy Based Approach for Rate Control in Wireless Multimedia Sensor Networks
+score: 1]
+
+ID: 1925[
+title: Delay Determination of Subway Construction Project by Fuzzy MCDM (Case Study, Karaj Subway)
+score: 1]
+
+ID: 1840[
+title: Computer based optimisation of underground mining area
+score: 1]
+
+ID: 2062[
+title: Performance Evaluation of Anchored Diaphragm Walls under Service Loads
+score: 1]
+
+ID: 45[
+title: Microwave Imaging Using SAR
+score: 1]
+
+ID: 1886[
+title: OPTIMAL TRAJECTORY OF MOBILE MANIPULATORS WITH MAXIMUM LOAD CARRYING CAPACITY
+score: 1]
+
+ID: 244[
+title: A Robust Adaptive Observer-Based Time Varying Fault Estimation
+score: 1]
+
+ID: 2940[
+title: Assessment and development of an optical technology for continuous suspended sediment measurement in aquatic environments
+score: 1]
+
+ID: 52[
+title: A Sub-Optimal Look-Up Table Based on Fuzzy System to Enhance the Reliability of Coriolis Mass Flow Meter
+score: 1]
+
+
+
+******************  LBqohDwAAAAJ *******************
+
+ID: 1122[
+title: Effects of AC Stray Current on Concrete Structures
+score: 18]
+
+ID: 562[
+title: Electromagnetic Field Due to Lightning Strikes to Mountainous Ground
+score: 15]
+
+ID: 110[
+title: Development of Low Profile Substrate Integrated Waveguide Horn Antenna with Improved Gain
+score: 15]
+
+ID: 2497[
+title: FINITE ELEMENT TECHNIQUE FOR CALCULATING THE AC LOSSES OF TRANSFORMER WINDINGS AT HIGH FREQUENCIES
+score: 10]
+
+ID: 1582[
+title: COMPUTATION OF CAPACITANCES FOR GAP DISCONTINUITIES AND INTERDIGITATED CAPACITORS IN COPLANAR WAVEGUIDE BY MOMENT METHOD
+score: 10]
+
+ID: 560[
+title: A Novel Flux-Based Protection Scheme for Power Transformers
+score: 9]
+
+ID: 2098[
+title: NOISE SUPPRESSION IN EDDY CURRENT C-SCAN IMAGES USING A NON-LINEAR ADAPTIVE MAXIMUM LIKELIHOOD FILTER
+score: 9]
+
+ID: 901[
+title: Filtering Power Divider/Combiner Based on Half Mode Substrate Integrated Waveguide (HMSIW) Technology for High Power Applications
+score: 9]
+
+ID: 2801[
+title: Computational fluid dynamics analysis of Effects of housing expansion angle, stroke volume and path length of the fiber bundles on function of the artificial lung
+score: 8]
+
+ID: 140[
+title: Performance-Based Seismic Response of Continues Buried Steel Pipelines Under Near-Field Ground Motion Effects
+score: 7]
+
+ID: 49[
+title: A Probabilistic Three-Phase Time Domain Electric Arc Furnace Model based on analytical method
+score: 7]
+
+ID: 93[
+title: Supervisory Control of a Hybrid AC/DC Micro-Grid with Load Shedding Based on the Bankruptcy Problem
+score: 5]
+
+ID: 643[
+title: Investigation of agglomeration and dispersion of reinforcement on the viscoelastic properties of CNT reinforced polymeric composites
+score: 5]
+
+ID: 1176[
+title: Study on the Influence of Spacing of the Nearby Corrosion Defects on Magnetic Flux Leakage Signals
+score: 5]
+
+ID: 1958[
+title: Damage Detection of Cable-Stayed Bridges Using Frequency Domain Analysis and Clustering
+score: 5]
+
+ID: 746[
+title: Nonlinear Modeling, Analysis and Design of an Active Antenna in S Frequency Band
+score: 5]
+
+ID: 2286[
+title: APPLICATION OF EXPERT SYSTEMS IN DAMAGE ASSESSMENT OF REINFORCED CONCRETE STRUCTURES
+score: 5]
+
+ID: 484[
+title: Analysis and Simulation of Surge Phenomena in the First Stage of Axial Compressor of GE-frame 6 Gas Turbine
+score: 5]
+
+ID: 2716[
+title: ELASTIC POST-BUCKLING STIFFNESS OF RECTANGULAR FRAMES USING PERTURBATION TECHNIQUE
+score: 5]
+
+ID: 1427[
+title: The Effects of Tunnel Excavation on the Seismic Response of Ground Surface Using Finite Difference Method
+score: 5]
+
+ID: 599[
+title: Exponential basis functions in solution of time –dependent heat equation in axially layered materials
+score: 5]
+
+ID: 1974[
+title: The Experimental Analyses of Grooved Surface and Magnetic Field Effects on γ-Fe2O3/water Nanofluid Pool Boiling
+score: 5]
+
+ID: 1242[
+title: Flexural Behavior of Cementitious Composites Reinforced by Synthetic Fibers
+score: 4]
+
+ID: 2605[
+title: FUZZY LOGIC BASED STATIC VAR COMPNSATORS FOR ENHANCING THE PERFORMANCE OF AC AND DC MOTOR LOADS
+score: 4]
+
+ID: 1303[
+title: DEVELOPMENT OF AN ANALYTICAL MODEL FOR BALLISTIC IMPACT OF LONG ROD PENETRATORS
+score: 4]
+
+ID: 1815[
+title: Application of Expert System in Sewer Network Management
+score: 4]
+
+ID: 1898[
+title: Fatigue crack growth analysis via Wiener degradation model with random effects
+score: 4]
+
+ID: 600[
+title: Seismic Performance Factors of Special Moment Resisting Steel Frames Subjected to Far- and Near-Field Ground Motions
+score: 4]
+
+ID: 45[
+title: Microwave Imaging Using SAR
+score: 4]
+
+ID: 2016[
+title: Energy and Exergy Analysis of Organic Rankine Cycle Fed by Electric Arc Furnace Waste Heat
+score: 4]
+
+ID: 2422[
+title: An investigating into the effect of various modeling parameters on the behavior of special steel moment frames
+score: 4]
+
+ID: 1917[
+title: Multiple Target Tracking With a 2-D Radar Using the JPDAF Algorithm and Combined Motion Model
+score: 4]
+
+ID: 777[
+title: The Development of Maximum Likelihood Estimation Approaches for Adaptive Estimation of Free Speed and Critical Density in Vehicle Freeways
+score: 4]
+
+ID: 544[
+title: Derivation of Green’s Function for the Interior Region of a Closed Cylinder
+score: 4]
+
+ID: 2092[
+title: A NEW APPROACH TO BROKEN ROTOR BAR DETECTION IN SQUIRREL CAGE INDUCTION MOTOR VIA MODEL-BASED PARAMETER ESTIMATION
+score: 4]
+
+ID: 410[
+title: Magnetic Saturation Impacts on Fault Analysis of Squirrel-Cage Induction Motors using Winding Function Approach
+score: 4]
+
+ID: 236[
+title: A New Compact Ultra-wideband Linear Antenna Array for Target Detection Applications
+score: 4]
+
+ID: 776[
+title: Analysis of Combined Conduction-Radiation Heat Transfer In Multilayer Insulations
+score: 3]
+
+ID: 1409[
+title: Improvement in the flexural properties of basalt fibers/epoxy-aluminum laminate composites using multi-walled carbon nanotubes
+score: 3]
+
+ID: 2380[
+title: AN EXPERIMENTAL STUDY OF TIME LAG FOR PRESSURE MEASUREMENT IN DIFFERENT TUBES
+score: 3]
+
+ID: 52[
+title: A Sub-Optimal Look-Up Table Based on Fuzzy System to Enhance the Reliability of Coriolis Mass Flow Meter
+score: 3]
+
+ID: 1758[
+title: Experimental and Numerical Investigation on the Reinforcement Cover to Concrete Surface Using Eddy Current
+score: 3]
+
+ID: 751[
+title: Voltage Coordination of FACTS Devices in Power Systems Using RL-Based Multi-Agent Systems
+score: 3]
+
+ID: 1088[
+title: Asymptotic Analysis of the Free Vibration of a Cantilever Beam with a Fatigue Crack
+score: 3]
+
+ID: 2200[
+title: INFLUENCE OF MEASURING SYSTEMS ON FAST TRANSIENT MODELING OF ZNO SURGE ARRESTERS
+score: 3]
+
+ID: 489[
+title: Determination of Crack Growth in St52 Structural Steel via Acoustic Emission Technique and Its Application in Steel Structures
+score: 3]
+
+ID: 2794[
+title: DYEING OF COTTON WITH DIRECT DYES USING MICROWAVE IRRADIATION
+score: 3]
+
+ID: 1105[
+title: Indoor Positioning and Pre-processing of RSS Measurements
+score: 3]
+
+ID: 277[
+title: The Development of Maximum Likelihood Estimation Approaches for Adaptive Estimation of Free Speed and Critical Density in Vehicle Freeways
+score: 3]
+
+ID: 1444[
+title: A TIME DOMAIN ANALYSIS OF A RECTANGULAR MICROSTRIP PATCH ANTENNA
+score: 3]
+
+ID: 735[
+title: Simulation of the Avaj earthquake 2002 by semi-empirical Green’s function
+score: 3]
+
+ID: 2439[
+title: Application of MQ-RBF method for solving seepage problems with a new algorithm for optimization of the shape parameter
+score: 3]
+
+ID: 749[
+title: Nanometric Finishing of Flat Surfaces Using Magnetic Field
+score: 3]
+
+ID: 242[
+title: Adaptive Neural Network Method for Consensus Tracking of High-Order Mimo Nonlinear Multi-Agent Systems
+score: 2]
+
+ID: 2919[
+title: Optimization of machining parameters in grinding of unidirectional carbon fiber reinforced composites by Response Surface Method
+score: 2]
+
+ID: 1965[
+title: Stress Measurement on Carbon Steel Specimen by Consideration of Magnetic-Barkhausen-Noise
+score: 2]
+
+ID: 1382[
+title: Fast initial alignment for inertial navigation system based on high order sliding mode observer and Kalman filter
+score: 2]
+
+ID: 2395[
+title: Investigation of Performance and Determination of Optimal Dimensions of Surface Runoff Collection Network Using SWMM Model
+score: 2]
+
+ID: 939[
+title: Type-2 Fuzzy Hybrid Expert System For Diagnosis Of Degenerative Disc Diseases
+score: 2]
+
+ID: 2376[
+title: Nonlinear Vibration Analysis of a Cantilever Beam with a Transverse Fatigue Crack
+score: 2]
+
+ID: 2671[
+title: ELECTROCHEMICAL PERFORMANCE OF GRAPHITE FELT/ CARBON-POLYMER COMPOSITE ELECTRODES (I): ELECTROCHEMICAL ACTIVITY AND STABILITY OF ELECTRODES
+score: 2]
+
+ID: 397[
+title: A New Guideline for the Allocation of Multipoles in the Multiple Multipole Method for Two Dimensional Scattering from Dielectrics
+score: 2]
+
+ID: 1801[
+title: Comparison of Artificial Neural Network Methods for Modeling of Turning of Polymer Matrix Composite
+score: 2]
+
+ID: 1682[
+title: COUPLED THERMOELASTICITY WITH SPECIAL REFERENT TO SHELLS
+score: 2]
+
+ID: 446[
+title: Adaptive Fusion of Inertial Navigation System and Tracking Radar Data
+score: 2]
+
+ID: 13[
+title: Adaptive Optimum Notch Filter for Periodic Noise Reduction in Digital Images
+score: 2]
+
+ID: 1445[
+title: TIME DOMAIN ANALYSIS OF LOGARITHMIC PERIODIC DIPOLE ARRAY
+score: 2]
+
+ID: 512[
+title: CALCULATION OF EM CHARACTERISTICS OF A CELLULAR PHONE HANDSET BY TIME-DOMAIN MOM
+score: 2]
+
+ID: 1909[
+title: Numerical investigation of the effect of thermophysical properties of nanofluid on fluid flow and heat transfer in a tube in presence of magnetic field
+score: 2]
+
+ID: 1497[
+title: Pavement cracks detection and classification using deep convolutional networks
+score: 2]
+
+ID: 535[
+title: Fault detection and isolation based on robust Kalman filter for discrete-time systems with stochastic and norm-bounded uncertainties
+score: 1]
+
+ID: 1145[
+title: The Effect of Heat Treatment on Fatigue and Tensile Properties of Doul-Phase Steel
+score: 1]
+
+ID: 610[
+title: A Peridynamic Study on Crack Growth in Plates with Two Anti-symmetric Cracks under Various Tensile Velocities
+score: 1]
+
+ID: 2277[
+title: Numerical Simulation of Three-Dimensional and Bi-Disperse Particle-Laden Turbidity Current in an Experimental Channel in the Presence of an Obstacle
+score: 1]
+
+ID: 2623[
+title: A fuzzy linguistic hybrid method for selecting a construction project manager
+score: 1]
+
+ID: 1708[
+title: Numerical and Experimental Investigation of Electromagnetic Inward Tube Forming in Coupled method
+score: 1]
+
+ID: 1406[
+title: Coordination of Production/ Order Policy for a Single Vendor Single Buyer chain with stochastic demand
+score: 1]
+
+ID: 682[
+title: Experimental Investigation of Fatigue Damage Development Using Microhardness and Chord Modulus Variation Methods in Stainless Steel 316L
+score: 1]
+
+ID: 1120[
+title: Experimental Investigation of Flow Around a 3D Square Cylinder Using Five-Hole Probe and Neural Network Method
+score: 1]
+
+ID: 2222[
+title: Using Artificial Neural Network surrogate models to reduce the calculation cost of leak detection in water distribution networks
+score: 1]
+
+ID: 1825[
+title: INSTABILITY ANALYSIS IN A POROUS LAYER SATURATED WITH OIL AND GAS
+score: 1]
+
+ID: 1810[
+title: A 3-stage Method for Selection of Ground Motion for Dynamic Time History Analysis
+score: 1]
+
+ID: 2224[
+title: Nonlinear analysis of hyperelastic plates using first-order shear deformation plate theory and a meshless method
+score: 1]
+
+ID: 2708[
+title: A METHOD FOR SOLVING AN INVERSE BIHARMONIC PROBLEM
+score: 1]
+
+ID: 1534[
+title: Convection Heat transfer Fe3O4/Water in a Square microchannel Under Uniform Heat Flux and Magnetic Field
+score: 1]
+
+ID: 2641[
+title: Sizing and Geometry Optimization of Truss Structures Using a Hybrid of Gravitational Search Algorithm and Cellular Automata
+score: 1]
+
+
+
+******************  ksqVjWQAAAAJ *******************
+
+ID: 373[
+title: Suggested New Voltage and Frequency Control Framework for Autonomous Operation of Microgrids
+score: 50]
+
+ID: 763[
+title: Analysis of Reliability Indices in Next Generation Microgrids Under Uncertainties of Load and Renewable Power Production
+score: 38]
+
+ID: 1551[
+title: A Stochastic Programming Model for Power Generation Expansion Planning in Iran
+score: 38]
+
+ID: 375[
+title: Magneto Hydrodynamic Generators
+score: 34]
+
+ID: 1346[
+title: Investigation of Temperature Distribution During Dynamic Stress Test on the Surface of Lithium-ion Battery used in an Electric Hybrid Vehicle
+score: 30]
+
+ID: 2321[
+title: Modeling and analysis of a combined power generation system performance equipped with three electrical energy generators
+score: 30]
+
+ID: 2431[
+title: Thermodynamic Analysis of Power Generation System Based on Solid Oxide Fuel Cell With External Reforming
+score: 28]
+
+ID: 344[
+title: A NEW METHOD FOR OPTIMAL PLACEMENT OF STATCOM USING GENETIC ALGORITHMS AND CONTINUATION POWER FLOW
+score: 27]
+
+ID: 1296[
+title: Optimum power transmission line towers
+score: 25]
+
+ID: 1079[
+title: Eigenvalue calculator for Islanded Inverter-Based Microgrids
+score: 23]
+
+ID: 415[
+title: A Novel Reconfiguration Mixed with Distributed Generation Planning via Considering Voltage Stability Margin
+score: 22]
+
+ID: 77[
+title: Experimental study on effective parameters on vertical axis wind turbine performance
+score: 22]
+
+ID: 560[
+title: A Novel Flux-Based Protection Scheme for Power Transformers
+score: 22]
+
+ID: 928[
+title: The Impact of Superconducting Fault Current Limiter Locations on Voltage Sag in Power Distribution System
+score: 21]
+
+ID: 753[
+title: Resource Scheduling in a Smart Grid with Renewable Energy Resources and Plug-In Vehicles by MINLP Method
+score: 21]
+
+ID: 786[
+title: A Novel Equivalent Circuit for Induction Motors under Voltage Fluctuation Conditions
+score: 20]
+
+ID: 502[
+title: Optimization of the Turbines Locating in the Wind Farm
+score: 18]
+
+ID: 2058[
+title: Evaluating the Economic and Environmental Impacts of Smart Management Systems for Cooling and Heating Systems in Building: Case study of Office Building in Tehran
+score: 17]
+
+ID: 2605[
+title: FUZZY LOGIC BASED STATIC VAR COMPNSATORS FOR ENHANCING THE PERFORMANCE OF AC AND DC MOTOR LOADS
+score: 17]
+
+ID: 93[
+title: Supervisory Control of a Hybrid AC/DC Micro-Grid with Load Shedding Based on the Bankruptcy Problem
+score: 16]
+
+ID: 2583[
+title: A NOVEL SENSORLESS FUZZY CONTROLLER WITH APPLICATION TO STATIC VAR COMPENSATORS IN INDUSTRIAL POWER SYSTEMS
+score: 16]
+
+ID: 2004[
+title: Statistical Analysis of Wind Force
+score: 15]
+
+ID: 1710[
+title: Digital computer studies of trapped charge voltage formation and its effect on autoreclosing in EHV transmission lines
+score: 14]
+
+ID: 922[
+title: Decentralized Frequency Restoration in Islanded Converter Base Microgrid
+score: 13]
+
+ID: 410[
+title: Magnetic Saturation Impacts on Fault Analysis of Squirrel-Cage Induction Motors using Winding Function Approach
+score: 13]
+
+ID: 1866[
+title: Experimental and Numerical Investigation of Width Reduction Effect on the Output Power of Piezoelectric Energy Harvester Beam
+score: 13]
+
+ID: 582[
+title: A Novel Intelligent Energy Management Strategy Based on Combination of Multi Methods for a Hybrid Electric Vehicle
+score: 13]
+
+ID: 185[
+title: Carbon Dioxide Minimization in Large-Scale Pavement Network Maintenance Planning
+score: 12]
+
+ID: 1581[
+title: ررسی انصال کوتاه در سیستم های AC دارای خطوط انتقال HVDC
+score: 12]
+
+ID: 240[
+title: Suppressing Vibration In A Plate Using Particle Swarm Optimization
+score: 12]
+
+ID: 399[
+title: A New Fairness Index and Novel Approach for QoS-Aware Resource Allocation in LTE Networks Based on Utility Functions
+score: 11]
+
+ID: 33[
+title: Active Filter Control Method Based on Direct Power Control for Compensating Reactive Powers due to Unbalanced Voltages and Nonlinear Loads
+score: 11]
+
+ID: 1540[
+title: Digital computer studies of grounding resistor effects trapped charge voltage reduction in EHV transmission lines
+score: 11]
+
+ID: 871[
+title: A NOVEL FUZZY LOGIC CONTROLLER FOR A BOOST POWER FACTOR CORRECTOR
+score: 11]
+
+ID: 1398[
+title: Statistical assessment of impact resistance of Reactive Powder Concrete and Steel Fiber Reinforced Reactive Powder Concrete
+score: 10]
+
+ID: 2041[
+title: MODELING AND ADAPTIVE CONTROL OF A PERMANENT MAGNET DC MOTOR WITH NONLINEAR LOAD USING FEEDBACK LINEARIZATIO
+score: 10]
+
+ID: 751[
+title: Voltage Coordination of FACTS Devices in Power Systems Using RL-Based Multi-Agent Systems
+score: 10]
+
+ID: 1132[
+title: Relationship Between Damage Index and Performance Levels of RC Frames
+score: 10]
+
+ID: 2664[
+title: Experimental Study on Vibration Transfer from Shaking Table to the Surrounding Environment
+score: 10]
+
+ID: 81[
+title: Torque minimization of 2-DOF parallel robot using counterweights and trajectory planning
+score: 9]
+
+ID: 1667[
+title: Investigation of vehicle energy demand considering the modified tire power loss
+score: 9]
+
+ID: 2596[
+title: Investigation of Some Performance Indices in Design of Water Distribution Network Based on Hydraulic and Mechanical Reliability Criteria
+score: 9]
+
+ID: 1528[
+title: Control of droplet size in a two-phase microchannel using PID controller: A novel experimental study
+score: 9]
+
+ID: 561[
+title: Game-Based Cryptanalysis of a Lightweight CRC-Based Authentication Protocol for EPC Tags
+score: 9]
+
+ID: 1649[
+title: Continuous Wavelet and Fourier Transform Methods for the Evaluation of the Properties of Critical Excitation
+score: 9]
+
+ID: 549[
+title: Extension of Higher Order Derivatives of Lyapunov Functions in Stability Analysis of Nonlinear Systems
+score: 8]
+
+ID: 2544[
+title: A new electrical power and cooling cogeneration cycle based on a solid oxide fuel cell
+score: 8]
+
+ID: 2452[
+title: Design of a Hybrid Adaptive Neuro-Fuzzy Inference System Proportional–Integral– Derivative Controller for Vibration Mitigation of a Structure against Earthquake
+score: 8]
+
+ID: 171[
+title: EFFECTS OF LOAD HARMONICS VARIATIONS ON PERFORMANCE OF SHUNT ACTIVE FILTERS
+score: 8]
+
+ID: 1017[
+title: Design of a Nonlinear Controller on Quadrotor Drone Using Combined Method of Gradient Particle Swarm Optimization
+score: 8]
+
+ID: 2274[
+title: Proposed Damage Index for Seismic Evaluation of RC Bridge Shear keys
+score: 8]
+
+ID: 695[
+title: INTRODUCTION TO AN ITERATIVE WEIGHTED MEAN SMOOTHING FILTER BASED ON A SIMPLE FUZZY RULE
+score: 8]
+
+ID: 966[
+title: A Stock Market Filtering Model Based on Minimum Spanning Tree in Financial Networks
+score: 8]
+
+ID: 1579[
+title: POWER SYSTEM STATIC-STATE ESTIMATION WITH EQUALITY CONSTRAINTS
+score: 7]
+
+ID: 2231[
+title: calculation of Functional Costs Reduction in Economic Evaluation of Roads Rehalibitation(Case Study: Fasa-Zahedshahr Main Road)
+score: 7]
+
+ID: 2497[
+title: FINITE ELEMENT TECHNIQUE FOR CALCULATING THE AC LOSSES OF TRANSFORMER WINDINGS AT HIGH FREQUENCIES
+score: 7]
+
+ID: 1138[
+title: Techno-Economic Feasibility of Energy Supply Systems from Renewable Sources of Solar and Biomass in Rural Areas Located In Cold and Dry Climate
+score: 7]
+
+ID: 44[
+title: Optimal Design of Single-Phase Induction Motor Using MPSO and FEM
+score: 7]
+
+ID: 674[
+title: Investigating the Effect of Loading Frequency on the Dynamic Properties of SandTire Powder Mixture Using Shaking Table Tests
+score: 7]
+
+ID: 2587[
+title: OPTIMAL DSIGN AND ROBUSTIFICATION OF FUZZY LOGIC CONTROLLERS FOR ROBOTIC MANIPULATORS USING GENETIC ALGORITHMS
+score: 6]
+
+ID: 1972[
+title: A New Approach for Uncertainty Analysis of the Numerical Data Using Genetic Algorithm Based on Grid Refinement
+score: 6]
+
+ID: 2873[
+title: the Graph Decision Model for Risk Allocation in Design-Build Contracts; Game Theory approach
+score: 6]
+
+ID: 340[
+title: DECOUPLED, REDUCED ORDER MODEL FOR DOUBLE OUTPUT INDUCTION GENERATOR USING INTEGRAL MANIFOLDS AND ITERATIVE SEPERATION THEORY
+score: 6]
+
+ID: 1571[
+title: Simulation and Optimization of Rankine Power Generation Cycle Purposing the Efficiency of Liquefied Natural Gas Cold Exergy
+score: 6]
+
+ID: 206[
+title: Analyzing and Forecasting Railway Passenger Demand with Time Series Algorithm
+score: 6]
+
+ID: 2352[
+title: Prioritizing Risks and Proposing a Risk Management Model in Wind Farms Developments According to Project Management Standard
+score: 6]
+
+ID: 1137[
+title: A study of modeling between surface roughness and work index for Barite, pyrite and quartz
+score: 6]
+
+ID: 608[
+title:  Structure Learning in Bayesian Networks Using Asexual Reproduction Optimization
+score: 5]
+
+ID: 1775[
+title: Characterization of Ice and Concurrent Wind for Loading of Transmission Line Structures in Iran
+score: 5]
+
+ID: 411[
+title: Developing Robust Project Scheduling Methods for Uncertain Parameters
+score: 5]
+
+ID: 2515[
+title: SLIDING MODE CONTROL FOR DETERMINING MAXIMUM LOAD OF ELASTIC JOINT ROBOTS
+score: 5]
+
+ID: 343[
+title: LOAD ESTIMATION OF DISTRIBUTION NETWORKS USING INVERSE PCA
+score: 5]
+
+ID: 2365[
+title: Performance Investigation of a Single Effect (LiBr-H2O) Absorption Cooling System connected to Photovoltaic Thermal Collectors
+score: 5]
+
+ID: 49[
+title: A Probabilistic Three-Phase Time Domain Electric Arc Furnace Model based on analytical method
+score: 5]
+
+ID: 1976[
+title: A Review of Studies on the Motion of Particles Under the Influence of Acoustic Waves in Microfluidic Systems
+score: 5]
+
+ID: 1805[
+title: Time-Invariant State Feedback Control Laws for a Special Form of Underactuated Nonlinear Systems Using Linear State Bisection
+score: 5]
+
+ID: 150[
+title: Stability and Free Vibration Analyses of Non-prismatic Columns using the Combination of Power Series Expansions and Galerkin’s Method
+score: 5]
+
+ID: 1095[
+title: Numerical Computation Of Multi-Component Two-Phase Flow in Cathode Of PEM Fuel Cells
+score: 5]
+
+ID: 2401[
+title: Presentation a New Method in Mathematical Modeling of pollutant Transport in Rivers with Storage Zones
+score: 5]
+
+ID: 692[
+title: ELECTRICAL AND THERMAL ANALYSIS OF NI-CD BATTERIES
+score: 5]
+
+ID: 131[
+title: Stability Anaysis of Real-time Hybrid Simulation for a Multi-story Structure Considering Time-delay of Hydrolic Actuator
+score: 5]
+
+ID: 1608[
+title: Detection of Damage in Simply-Supported Plates by Discrete Wavelet Transform of Reconstructed Modal Data
+score: 5]
+
+ID: 1107[
+title: Analysis of the Frequency Effects on Design and Back-Iron Characteristics of Double-Layer Secondary Single-Sided Linear Induction Motors
+score: 5]
+
+ID: 1390[
+title: Piezoelectric Energy Harvesting Using a Porous Beam Under Fluid-Induced Vibrations
+score: 5]
+
+ID: 853[
+title: A Novel Biomass-Driven Cogeneration System for Zero-Energy Buildings
+score: 5]
+
+ID: 2521[
+title: DEVELOPMENT OF A COMPUTER PROGRAM FOR SHIP MANEUVERABILITY
+score: 5]
+
+ID: 378[
+title: Genetic and Memetic Algorithms for Sequencing a New JIT Mixed-Model Assembly Line
+score: 5]
+
+ID: 1065[
+title: Wind simulation in a complex terrain by numerical weather prediction method using large eddy simulation
+score: 5]
+
+ID: 1822[
+title: Slope Stability Optimization with Non-circular Slip Surface and using Firefly Algorithm, Simulated Annealing and Imperialistic Competitive Algorithm
+score: 5]
+
+ID: 552[
+title: Cross-layer Packet-dependant OFDM Scheduling Based on Proportional Fairness
+score: 5]
+
+ID: 1252[
+title: Future trends in optical fiber communications
+score: 5]
+
+ID: 1488[
+title: Identifying and Ranking Risks using Simple Additive Weighting method and responding to the most critical risk (Case Study: Mashhad Railway)
+score: 5]
+
+ID: 2092[
+title: A NEW APPROACH TO BROKEN ROTOR BAR DETECTION IN SQUIRREL CAGE INDUCTION MOTOR VIA MODEL-BASED PARAMETER ESTIMATION
+score: 5]
+
+ID: 1518[
+title: Optimal Design and Performance Assessment of Viscous Dampers in Steel Frames Based on Life Cycle Cost
+score: 4]
+
+ID: 2350[
+title: Horizontal and Vertical Vibration Control of The Power Transmission Tower Cable Using Optimal TMDs
+score: 4]
+
+ID: 562[
+title: Electromagnetic Field Due to Lightning Strikes to Mountainous Ground
+score: 4]
+
+ID: 503[
+title: Looseness Detection and Assessment of Flange Type Joints Using Vibro-Acoustic Modulation Method
+score: 4]
+
+ID: 227[
+title: Using Context-based Statistical Models to Promote the Quality of Voice Conversion Systems
+score: 4]
+
+ID: 580[
+title: Pareto Optimal Design Of Decoupled Sliding Mode Control Based On A New Multi-Objective Particle Swarm Optimization Algorithm
+score: 4]
+
+ID: 2226[
+title: ON THE DETERMINANT AND EIGENVALUES OF THE AUTOCORRELATION MATRICES
+score: 4]
+
+ID: 1647[
+title: OPTIMUM STRUCTURAL DESIGN OF SPILLWAY RADIAL GATE BY FINITE ELEMENT METHODS
+score: 4]
+
+ID: 2553[
+title: Performance Assessment of a Humidification-Dehumidification Desalination Unit Connected to Photovoltaic Thermal Collectors
+score: 4]
+
+ID: 635[
+title: Analysis of Corona Wind Effect on Mass Transfer and Energy Consumption in Drying of Moist Object
+score: 4]
+
+ID: 543[
+title: Markovian Delay Prediction-Based Control of Networked Systems
+score: 4]
+
+ID: 794[
+title: Design, Modeling and Control of a Hybrid Climbing Robot in Manipulation Mode Using Feedback Linearization Control Method
+score: 4]
+
+ID: 759[
+title: Reliability Index in ABA Design Code
+score: 4]
+
+ID: 2665[
+title: Stability analysis of predictive approachin networked control systems using theory of switching systems
+score: 4]
+
+ID: 2743[
+title: SIMULATION OF A DEPLETED GAS CONDENSATE RESERVOIR FOR STORAGE OF NATURAL GAS IN IRAN
+score: 4]
+
+ID: 259[
+title: Finding Fuzzy Shortest Path by Integrating historical and Real-time Traffic Data
+score: 4]
+
+ID: 2063[
+title: Cooperative Coevolution Fuzzy Control of MR Damper for Damage Reduction of Structures
+score: 4]
+
+ID: 268[
+title: State of Charge Estimation for Series-Connected Lithium Battery Pack Using Extended Kalman Filter
+score: 4]
+
+ID: 414[
+title: Experimental Investigation on the Performance of Hybrid Thermal Management System Based on Water Cooling and Phase Change Material for a Lithium Battery Module of an Electric Vehicle
+score: 4]
+
+ID: 1389[
+title: Experimental and numerical study of energy harvesting from sloshing of a liquid and its performance on shaper machine
+score: 4]
+
+ID: 2488[
+title: Numerical Investigation of Integrated Biomass Gasification and Planar Solid Oxide Fuel Cell
+score: 4]
+
+ID: 85[
+title: Assessing short-term storage effects on hydrostatic wind turbine in presence of turbulent wind
+score: 4]
+
+ID: 1944[
+title: The Estimation Mode I Fracture Toughness of Rocks using Brittleness Index
+score: 4]
+
+ID: 752[
+title: Vertical expanding of landfill with considering its component
+score: 4]
+
+ID: 445[
+title: An Investigation of Fines and Coarse Contents in Granular Mixtures by Using Discrete Element Method
+score: 4]
+
+ID: 2247[
+title: THE DEVELOPMENT OF A COMPUTER PROGRAM FOR CAM AND FOLLOWER DESIGN
+score: 4]
+
+ID: 834[
+title: Optimal Economic of Water Allocation Using EA and ICA Evolutionary Algorithms
+score: 4]
+
+ID: 355[
+title: Effects of air injection at rotor blade row tip region of an axial compressor on its performance under inlet distortion conditions
+score: 4]
+
+ID: 300[
+title: Effect of Near-Fault Earthquakes on the Sloshing Behavior of Concrete Rectangular Liquid Storage Tanks
+score: 4]
+
+ID: 1100[
+title: Adaptive Simplified Model Predictive Control with Tuning Considerations
+score: 4]
+
+ID: 496[
+title: The Thermodynamic Analysis of New Combined Cycle Using Sabalan Geothermal Wells and Liquefied Natural Gas Cold EnergyThe Thermodynamic Analysis of New Combined Cycle Using Sabalan Geothermal Wells and Liquefied Natural Gas Cold Energy
+score: 4]
+
+ID: 762[
+title: A New Job Scheduling in Data Grid Environment Based on Data and Computational Resource Availability
+score: 4]
+
+ID: 2707[
+title: OPTIMAL SAMPLING DESIGN FOR MODEL CALIBRATION USING GENETIC ALGORITHM: A CASE STUDY
+score: 3]
+
+ID: 1214[
+title: Decentralized Control of Tall Shear Building Structures against the sensor faults under the uncertain earthquake excitatins
+score: 3]
+
+ID: 71[
+title: Influence evaluation of key mix design parameters of reactive powder concrete on compressive strength
+score: 3]
+
+ID: 397[
+title: A New Guideline for the Allocation of Multipoles in the Multiple Multipole Method for Two Dimensional Scattering from Dielectrics
+score: 3]
+
+ID: 1967[
+title: Investigating Mechanism of Collector Concentration on the Selective Separation of Gallium from Zinc Using Ion Flotation
+score: 3]
+
+ID: 583[
+title: An Unknown Input Observer for Fault Detection Based on Sliding Mode Observer in Electrical Steering Assist Systems
+score: 3]
+
+ID: 1596[
+title: A HYBRID ALGORITHM FOR DISCRETE NONLINEAR OPTIMIZATION
+score: 3]
+
+ID: 970[
+title: Unmanned Aerial Vehicle Formation Flying Path Plan by Combined Algorithm of Potential and Lyapunov
+score: 3]
+
+ID: 619[
+title: Performance Study of Untrusted Relay Network Utilizing Cooperative Jammer
+score: 3]
+
+ID: 199[
+title: A Fuzzy Based Approach for Rate Control in Wireless Multimedia Sensor Networks
+score: 3]
+
+ID: 1931[
+title: Thermal Analysis of a Solar Wall Equipped with Photovoltaic Cells and Phase-Change Materials
+score: 3]
+
+ID: 108[
+title: Experimental Investigation of Heat Transfer Enhancement by Acoustic Streaming in a Closed Cylindrical Enclosure
+score: 3]
+
+ID: 2228[
+title: Fractional order adaptive fuzzy terminal sliding mode controller design for a knee joint orthosis
+score: 3]
+
+ID: 1565[
+title: ANALYSIS OF THE EFFECTS OF FILTERS UNDER HYDRAULIC STRACTURES & DAMS
+score: 3]
+
+ID: 2923[
+title: Detection of two simultaneous leakages in water distribution network using hybrid feedforward artificial neural networks
+score: 3]
+
+ID: 241[
+title: Pole Assignment Of Linear Discrete-Time Periodic Systems In Specified Discs Through State Feedback
+score: 3]
+
+ID: 1078[
+title: Water Management in the Cathode Side of a PEM Fuel Cell
+score: 3]
+
+ID: 1347[
+title: Spectral analysis of structures using wavelet theory and concept of time of strong ground motion
+score: 3]
+
+ID: 511[
+title: EVALUATING OPTIMUM ARRESTERS LOCATIONS IN HV AND EHV NETWORKS USING SIMULATION OPTIMIZATION TO SUPPRESS SWITCHING SURGE OVERVOLTAGES
+score: 3]
+
+ID: 1319[
+title: Parametric Analysis and Optimization of a Trigeneration System Based on the Tubular Solid Oxide Fuel Cell
+score: 3]
+
+ID: 1959[
+title: Generalized Predictive Filter for Discrete-Time Linear Systems
+score: 3]
+
+ID: 120[
+title: Synthesis of Optimal Heat-Integrated Distillation Columns Sequence with Mathematical Programming method based on Superstructure Optimization
+score: 3]
+
+ID: 773[
+title: On The Simulation of Partial Differential Equations Using the Hybrid of Fourier Transform and Homotopy Perturbation Method
+score: 3]
+
+ID: 180[
+title: Investigation of the effect of free-wind velocity on the performance of small-scale vertical axis wind turbine
+score: 3]
+
+ID: 1854[
+title: Seismic Assessment of Steel Frame Bridges and Comparison with Damage Indices
+score: 3]
+
+ID: 817[
+title: Simulation of Hydrodynamic Behavior of a Conductive Drop Under an Electric Field
+score: 3]
+
+ID: 645[
+title: Reliability-based Evaluation of Beams Designed in Accordance with Iranian Design Code
+score: 3]
+
+ID: 302[
+title: Developing the plastic analysis theory for braced frames and its optimization using genetic algorithm to predict the collapse of steel braced frames
+score: 2]
+
+ID: 2148[
+title: Energy and Exergy Analysis of a Two-Stage Thermoelectric Used for Heating and Cooling
+score: 2]
+
+ID: 535[
+title: Fault detection and isolation based on robust Kalman filter for discrete-time systems with stochastic and norm-bounded uncertainties
+score: 2]
+
+ID: 2222[
+title: Using Artificial Neural Network surrogate models to reduce the calculation cost of leak detection in water distribution networks
+score: 2]
+
+ID: 189[
+title: Multiscale simulation of flow in fractured porous media using unstructured grids
+score: 2]
+
+ID: 1257[
+title: Plugging of Metallic Plates under Normal Impact of Deformable Projectiles
+score: 2]
+
+ID: 86[
+title: The Effect of Capacity Uncertainty on the Seismic Hazard Demand Curve Estimation of Steel Moment Resisting Frames
+score: 2]
+
+ID: 1217[
+title: Power Improvement of a Commercial Large Scale Vertical-Axis Wind Turbine Using Plasma Actuators
+score: 2]
+
+ID: 261[
+title: An efficient method to control the amplitude of the limit cycle in satellite attitude control system
+score: 2]
+
+ID: 2581[
+title: ON-LINE DYNAMIC SCURITY ASSESSMENT IN ELECTRIC POWER SYSTEMS USING ARFIFICIAL NEURALL NETWORKS
+score: 2]
+
+ID: 574[
+title: Simulation and Test of PV/T Air Systems with Natural Air Flow Operation
+score: 2]
+
+ID: 1105[
+title: Indoor Positioning and Pre-processing of RSS Measurements
+score: 2]
+
+ID: 1462[
+title: Investigation of initiation and evolution of delamination in glass/epoxy laminated composites using acoustic emission method
+score: 2]
+
+ID: 1853[
+title: Determining Impending Slip of Slop and Optimized Embankment Operation Volume of Earth Dams Using a Combination of Neural Networks and Genetic Algorithms (GA)
+score: 2]
+
+ID: 214[
+title: Power Quality Improvement in Traction Power Supply Networks
+score: 2]
+
+ID: 584[
+title: A parametric investigation of two phase flow in the cathode side of polymer electrolyte membrane fuel cell
+score: 2]
+
+ID: 1376[
+title: Theoretical comparison of thermal and electrical performance of different models of sheet and tube type solar photovoltaic - thermal water collector
+score: 2]
+
+ID: 315[
+title: The Study of the Effect of Floating Platform Rotational Disturbance on theAerodynamic Performance of Offshore Wind Turbine in the Presence of Pitch Control System
+score: 2]
+
+ID: 1392[
+title: Accurate and faster than real-time simulation of indoor airflow by using fast fluid dynamics
+score: 2]
+
+ID: 2643[
+title: Using Genetic Algorithm for Design Length of Reinforcers in Slope Reinforced
+score: 2]
+
+ID: 2595[
+title: Dynamic Analysis of Earth Dams under De-Noised Earthquake Records
+score: 2]
+
+ID: 1256[
+title: Design of a Fuzzy Controller Chip with New Structure, Supporting Rational-Powered Membership Functions
+score: 2]
+
+ID: 2219[
+title: Investigation on the effect of addition of nano-titanium oxide particles to phase change material in a hybrid system for battery cooling under constant heat flux
+score: 2]
+
+ID: 2291[
+title: TIME- OPTIMAL SWITCHING CONTROL COMPUTATION OF NONLINEAR SYSTEMS USING LGI METHOD
+score: 2]
+
+ID: 2871[
+title: Seismic behavior of drilled flange connections with inclined drilling pattern
+score: 2]
+
+ID: 1979[
+title: Experimental evaluation of substitution various content of zeolite with cement on improving the mechanical and durability of concrete at high temperatures
+score: 2]
+
+ID: 588[
+title: Genetic Optimizing of Hard Computing vs Soft Computing for MR Damper Modeling and Proposing an Invertible Pseudo Static Model
+score: 2]
+
+ID: 2849[
+title: Experimental and Numerical Study on the Seismic Performance of MSE/Soil Nail Hybrid Walls
+score: 2]
+
+ID: 53[
+title: SFLA Based Gene Selection Approach for Improving Cancer Classification Accuracy
+score: 2]
+
+ID: 432[
+title: Simulation of Singular Fourth- Order Partial Differential Equations Using the Fourier Transform Combined With Variational Iteration Method
+score: 2]
+
+ID: 2922[
+title: Out-of-plane vibration mitigation of wind turbine blade using highly efficient nonlinear energy sink
+score: 2]
+
+ID: 632[
+title: Optimization of Hyperelastic Constitutive Model Coefficients for Soft Tissue by Imperialistic Competitive Algorithm Based on Experimental Data
+score: 2]
+
+ID: 2400[
+title: Numerical Simulation of salt-gradient Solar Pond Using Solar Radiation Intensity Function with Wall Shading Effect
+score: 2]
+
+ID: 736[
+title: Analysis and Design of High Gain, and Low Power CMOS Distributed Amplifier Utilizing a Novel Gain-cell Based on Combining Inductively Peaking and Regulated Cascode Concepts
+score: 2]
+
+ID: 1000[
+title: Project Risk Analysis Using an Integrated Probabilistic Beta-S Model and Multi-Parameter Copula Function
+score: 2]
+
+ID: 2423[
+title: TIP DISPLACEMENT VARIANCE OF MANIPULATOR TO SIMULTANEOUS HORIZONTAL AND VERTICAL STOCHASTIC BASE EXCITATIONS
+score: 2]
+
+ID: 1012[
+title: Three Dimensional Numerical Simulation of a Drop and Drop-to-Wall Interaction under Uniform Electric Field
+score: 2]
+
+ID: 222[
+title: Robust Control of Encoderless Synchronous Reluctance Motor Drives Based on Adaptive Backstepping and Input-Output Feedback Linearization Techniques
+score: 2]
+
+ID: 360[
+title: Time of Day Model, Different Approach to Identify Effective Factors in the Mode Choice, Evidence from Mashhad
+score: 2]
+
+ID: 2383[
+title: THE ECONOMIC LOT AND DELIVERY SCHEDULING PROBLEM IN FLEXIBLE JOB SHOPS
+score: 2]
+
+ID: 1698[
+title: Design of Optimal Fuzzy Controllers for Semi Active Vibration Suppression of MultiFloor Buildings Based on a Distributed Parameter Model and Magneto Rheological Dampers
+score: 1]
+
+ID: 1198[
+title: RR198 and RG19 Dye Removal by using PES membrane modified with graphene oxide nanofillers
+score: 1]
+
+ID: 792[
+title: Robust Model- Based Fault Detection and Isolation for V47/660kW Wind Turbine
+score: 1]
+
+ID: 814[
+title: Optimization of piezoelectric fibers in FG panel with PFRC layers using genetic algorithms
+score: 1]
+
+ID: 335[
+title: Aerodynamic Performance Investigation of a Vertical Axis Wind Turbine Instead of Conventional Ram Air Turbines of Airplane
+score: 1]
+
+ID: 2641[
+title: Sizing and Geometry Optimization of Truss Structures Using a Hybrid of Gravitational Search Algorithm and Cellular Automata
+score: 1]
+
+ID: 2463[
+title: A NEW FUZZY METHOD FOR TRIP DISTRIBUTION FORECASTING IN MULTI COMMODITY TRANSPORTATION NETWORKS
+score: 1]
+
+ID: 587[
+title: Peaking Attenuation in High-Gain Observers Using Adaptive Saturation: Application to a Ball and Wheel System
+score: 1]
+
+ID: 256[
+title: Experimental Study of the Downstream Flow of a Cylinder with Three Different Cross Sections by Hot Wire Anemometry
+score: 1]
+
+ID: 359[
+title: Stability analysis and snap-through evaluation of the cable-driven continuum robots
+score: 1]
+
+ID: 950[
+title: Modeling Lateral Communication in Holonic Multi Agent Systems
+score: 1]
+
+ID: 437[
+title: An Adaptive Congestion Alleviating Protocol for Healthcare Applications in Wireless Body Sensor Networks: Learning Automata Approach
+score: 1]
+
+ID: 765[
+title: Experimental Investigation of a solar system to produce fresh water from waste heat of photovoltaic module using Heat pipes
+score: 1]
+
+ID: 1396[
+title: Grinding Circuit at Mouteh Gold Mine
+score: 1]
+
+ID: 915[
+title: A Novel Active Filter for Mitigation of EMI and Other Adverse Effects of PWM Inverter-Fed AC Motor
+score: 1]
+
+ID: 403[
+title: Large Deformation Characterization of Mouse Oocyte Cell Under Needle Injection Experiment
+score: 1]
+
+ID: 2725[
+title: A NEW OPTIMIZATION METHOD BY RING PROBABILISTIC LOGIC NEURAL NETWORKS
+score: 1]
+
+ID: 2481[
+title: Ranking Iranian provinces in terms of the environmental performance of industries with a developed decision-making approach
+score: 1]
+
+ID: 1969[
+title: Developing a Hybrid Optimization Scheduling Model in Construction Projects Using Comparative Analysis of Existing Meta-heuristic Algorithms
+score: 1]
+
+ID: 2549[
+title: A NUMERICAL METHOD FOR THE EIGENVALUES OF NON-SELF – ADJOINT BOUNDARY VALUE PROBLEMS
+score: 1]
+
+ID: 1123[
+title: Digital Control of Nonlinear Control Systems using a PIM Based Fuzzy Method
+score: 1]
+
+ID: 2930[
+title: Energy, Exergy and Thermoeconomic Analysis of the Novel Combined Cycle of Solid Oxide Fuel Cell (SOFC) and Biogas Steam Reforming (BSR) for Cogeneration Power and Hydrogen
+score: 1]
+
+ID: 52[
+title: A Sub-Optimal Look-Up Table Based on Fuzzy System to Enhance the Reliability of Coriolis Mass Flow Meter
+score: 1]
+
+ID: 506[
+title: Rapid and optimal design of a tail-sitter VTOL ducted fan using a neural network and PSO algorithm
+score: 1]
+
+ID: 1958[
+title: Damage Detection of Cable-Stayed Bridges Using Frequency Domain Analysis and Clustering
+score: 1]
+
+ID: 1199[
+title: Investigation on the Effect of Pressure and Radius of Contact Surface Curvature on the Friction Coefficient in Contact Surfaces of Interference Fit Joints
+score: 1]
+
+ID: 681[
+title: Performance Analysis of a Building Heating System using Underground Source Heat Pump and Photovoltaic Thermal Collector
+score: 1]
+
+ID: 347[
+title: Topology Evaluation of Tehran metro network utilizing a mixed index for metro networks ranking
+score: 1]
+
+ID: 88[
+title: Improving the power coefficient of the Darrieus vertical axis wind turbine with the aid of morphing airfoils
+score: 1]
+
+ID: 183[
+title: Control of quadrotor by using state-dependent Riccati equation method and analyzing its dynamic performance under wind field
+score: 1]
+
+ID: 1928[
+title: Stability Analyses and Dynamic Response of Fluid Conveyed Thin-Walled Piezoelectric Cylinder Under Harmonic Excitation
+score: 1]
+
+ID: 2162[
+title: Effect of arch height on wind load in shape dome structure
+score: 1]
+
+ID: 729[
+title: Vehicle Stabilization via a Self-Tuning Optimal Controller
+score: 1]
+
+ID: 48[
+title: Robust Fuzzy Gain-Scheduled Control of the 3-Phase IPMSM
+score: 1]
+
+ID: 64[
+title: A MODIFIED ANALYTICAL APPROACH IN MODELLING AND DESIGN OF AXIAL-FLUX PERMANENT MAGNET MACHINES
+score: 1]
+
+ID: 1406[
+title: Coordination of Production/ Order Policy for a Single Vendor Single Buyer chain with stochastic demand
+score: 1]
+
+
+
+******************  EA0uE3kAAAAJ *******************
+
+ID: 217[
+title: FPGA Implementation of a Hammerstein Based Digital Predistorter for Linearizing RF Power Amplifiers with Memory Effects
+score: 55]
+
+ID: 469[
+title: A Hybrid Meta-heuristic Algorithm for the Vehicle Routing Problem with Simultaneous Delivery and Pick-up
+score: 38]
+
+ID: 957[
+title: Development of an Efficient Hybrid Method for Motif Discovery in DNA Sequences
+score: 33]
+
+ID: 437[
+title: An Adaptive Congestion Alleviating Protocol for Healthcare Applications in Wireless Body Sensor Networks: Learning Automata Approach
+score: 29]
+
+ID: 1209[
+title: PATH DELAY FAULTS CATEGORIZATION IN ASYNCHRONOUS CIRCUITS
+score: 24]
+
+ID: 1647[
+title: OPTIMUM STRUCTURAL DESIGN OF SPILLWAY RADIAL GATE BY FINITE ELEMENT METHODS
+score: 24]
+
+ID: 1702[
+title: A deadlock free routing algorithm for a modular type packet switching system
+score: 22]
+
+ID: 2725[
+title: A NEW OPTIMIZATION METHOD BY RING PROBABILISTIC LOGIC NEURAL NETWORKS
+score: 20]
+
+ID: 344[
+title: A NEW METHOD FOR OPTIMAL PLACEMENT OF STATCOM USING GENETIC ALGORITHMS AND CONTINUATION POWER FLOW
+score: 18]
+
+ID: 74[
+title: Design, Fabrication and Experimental Study of Spiral Microchannel Particle Separator on Centrifugal Microfluidic Platforms
+score: 17]
+
+ID: 102[
+title: Effect of Start of Injection Timing on Waste Heat Recovery Capacity in a Reactivity Controlled Compression Ignition Engine
+score: 15]
+
+ID: 604[
+title: Reducing the Power Consumption in Flash ADC Using 65nm CMOS Technology
+score: 14]
+
+ID: 2745[
+title: A FUZZY GENETIC METHOD TO PREDICT AIR DEMAND DOWNSTREAM OF BOTTOM OUTLET GATES
+score: 14]
+
+ID: 2209[
+title: Fabrication and characterization of a flexible nanogenerator using reverse electrowetting concept
+score: 14]
+
+ID: 338[
+title: A Mushy State Simulated Annealing
+score: 14]
+
+ID: 1551[
+title: A Stochastic Programming Model for Power Generation Expansion Planning in Iran
+score: 14]
+
+ID: 1246[
+title: A Mushy State Simulated Annealing
+score: 13]
+
+ID: 2036[
+title: Optimal Trajectory Planning of a Quadrotor Based on Minimum Effort
+score: 12]
+
+ID: 2802[
+title: THE DEA PROCESS TO THE PLANNING OF WELL-DRILLING OPERATIONS
+score: 12]
+
+ID: 824[
+title: Investigate of Hydrodynamic and Mass Transfer in the Spacer-Filled Channel of Reverse Osmosis Module
+score: 11]
+
+ID: 2032[
+title: Experimental Investigation of Discharge Coefficient in Tainter (Radial) Gate with Sill in Free Flow Conditions
+score: 11]
+
+ID: 164[
+title: Cooperative path planning for leader – follower formation of Multi UAV based on the minimum energy consumption for load transportation
+score: 11]
+
+ID: 2671[
+title: ELECTROCHEMICAL PERFORMANCE OF GRAPHITE FELT/ CARBON-POLYMER COMPOSITE ELECTRODES (I): ELECTROCHEMICAL ACTIVITY AND STABILITY OF ELECTRODES
+score: 10]
+
+ID: 871[
+title: A NOVEL FUZZY LOGIC CONTROLLER FOR A BOOST POWER FACTOR CORRECTOR
+score: 10]
+
+ID: 1396[
+title: Grinding Circuit at Mouteh Gold Mine
+score: 10]
+
+ID: 2775[
+title: MULTIPLIERS WITH CLOSED RANGE ON WEIGHTED GROUP ALGEBRAS
+score: 9]
+
+ID: 528[
+title: Numerical Analysis of Mechamical Micropump Using Membrane-based Check-Valves for Microfluidic Applications
+score: 9]
+
+ID: 1256[
+title: Design of a Fuzzy Controller Chip with New Structure, Supporting Rational-Powered Membership Functions
+score: 8]
+
+ID: 276[
+title: Multipath Node-Disjoint Routing with Backup List Based on the AODV Protocol
+score: 8]
+
+ID: 2664[
+title: Experimental Study on Vibration Transfer from Shaking Table to the Surrounding Environment
+score: 8]
+
+ID: 1044[
+title: SIMULATION OF THE CARDIOVASCULAR SYSTEM USING EQUIVALENT ELECTRONIC CIRCUIT WITH ACTIVE ELEMENTS
+score: 8]
+
+ID: 34[
+title: Thermodynamic Analysis Of Variation Of Opening Angles Of Continuous Variable Valve Timing System
+score: 8]
+
+ID: 2077[
+title: Optimization of a Hybrid Multi-effect Desalination with Thermal Vapor Compression and Reverse Osmosis Desalination System Integrated to A Gas Turbine Cycle
+score: 7]
+
+ID: 411[
+title: Developing Robust Project Scheduling Methods for Uncertain Parameters
+score: 7]
+
+ID: 1210[
+title: APPLICATION OF JUZZY LOGIC CONTROLLERS IN TRAFFIC MANAGEMENT OF COMMUNICATION NETWORKS
+score: 7]
+
+ID: 2707[
+title: OPTIMAL SAMPLING DESIGN FOR MODEL CALIBRATION USING GENETIC ALGORITHM: A CASE STUDY
+score: 7]
+
+ID: 2541[
+title: Application of Lime and Nano Lime in Control of Failure in Side Slope of Earth Channel
+score: 7]
+
+ID: 52[
+title: A Sub-Optimal Look-Up Table Based on Fuzzy System to Enhance the Reliability of Coriolis Mass Flow Meter
+score: 7]
+
+ID: 2927[
+title: Investigating the effect of Automated Vehicles and Connected and Automated Vehicles on the capacity of freeways using microscopic simulation
+score: 7]
+
+ID: 736[
+title: Analysis and Design of High Gain, and Low Power CMOS Distributed Amplifier Utilizing a Novel Gain-cell Based on Combining Inductively Peaking and Regulated Cascode Concepts
+score: 6]
+
+ID: 2078[
+title: Design of a Pelton Turbine Installed on Centrifugal Pump in Reverse Osmosis System for Energy Recovery
+score: 6]
+
+ID: 2288[
+title: حل مساله پوشش مجموعه با استفاده از الگوریتم SIMULATED ANNEALING
+score: 6]
+
+ID: 115[
+title: Spacecraft Fault Tolerant Attitude Control Design under Control Input Saturation and Uncertainty in Fault Information
+score: 6]
+
+ID: 2712[
+title: INVESTIGATION THE PHYSICAL PROPERTIES OF RUBBER CONCRETE
+score: 6]
+
+ID: 2819[
+title: A ROBUST STATISTICAL APPROACH FOR DETECTING OF SPEECH AND NON- SPEECH INTERVALS
+score: 5]
+
+ID: 244[
+title: A Robust Adaptive Observer-Based Time Varying Fault Estimation
+score: 5]
+
+ID: 2665[
+title: Stability analysis of predictive approachin networked control systems using theory of switching systems
+score: 5]
+
+ID: 717[
+title: Design and simulation of a biosensor based on a microelectromechanical resonator array
+score: 5]
+
+ID: 751[
+title: Voltage Coordination of FACTS Devices in Power Systems Using RL-Based Multi-Agent Systems
+score: 5]
+
+ID: 11[
+title: A Hierarchical SLAM/GPS/INS Sensor Fusion with WLFP for Flying Robo-SAR's Navigation
+score: 5]
+
+ID: 737[
+title: The Transient Behavior of LC and Ring Oscillators under External Frequency Injection
+score: 5]
+
+ID: 2004[
+title: Statistical Analysis of Wind Force
+score: 5]
+
+ID: 2415[
+title: Designing a New Intelligent Image Processing Algorithm for Traffic Sign Detection and Recognition Based on Fuzzy Logic
+score: 5]
+
+ID: 1173[
+title: Site Layout Optimization and its Impact on the Cost of Construction Projects
+score: 5]
+
+ID: 2594[
+title: An experimental investigation of ring footings resting on granular material subject to combined V-H-M loading
+score: 5]
+
+ID: 2561[
+title: Impacts of Social Robots in Education and Rehabilitation of Children with Autism in Iran
+score: 5]
+
+ID: 1435[
+title: Copper Extraction From Aqueous Solution By Organic Solvents Of TBP And D2EHPA In Buffer Solution
+score: 5]
+
+ID: 779[
+title: Fully Distributed Modeling, Analysis and Simulation of an Improved Non-Uniform Traveling Wave Structure
+score: 5]
+
+ID: 435[
+title: High-performance three-dimensional maneuvers control in the area of spacecraft
+score: 5]
+
+ID: 2483[
+title: Effect of microstructure features on the mechanical properties of spheroidized steel by crystal plasticity method.
+score: 5]
+
+ID: 40[
+title: An Efficient Scheme for PAPR Reduction of OFDM based on Selected Mapping without Side Information
+score: 5]
+
+ID: 2669[
+title: SYMMETRIC CURVATURE IN LIFTING METRICS
+score: 5]
+
+ID: 1573[
+title: Optimization of Clay Core Dimensions in Earth Dams Using Simulated Annealing
+score: 4]
+
+ID: 2240[
+title: Low-Cost Damage Detection of Cable-Stayed Bridges Using Signal Processing and Machine Learning
+score: 4]
+
+ID: 368[
+title: Active Fault Tolerant Control of Wind Turbine Systems using Disturbance Observer-based Sliding Mode and Time Delay Estimation
+score: 4]
+
+ID: 543[
+title: Markovian Delay Prediction-Based Control of Networked Systems
+score: 4]
+
+ID: 2718[
+title: Thermal stress analysis of the carbon nanotube reinforced composite cylindrical shells
+score: 4]
+
+ID: 570[
+title: A Quantitative Evaluation of Maintainability of Software Architecture Styles
+score: 4]
+
+ID: 412[
+title: Neuro-ACT Cognitive Architecture Applications in Modeling Driver’s Steering Behavior in Turns
+score: 4]
+
+ID: 2364[
+title: Design and Implementation a Constrained Adaptive Estimation Algorithm for Lowcost Integrated Navigation System in Urban Area
+score: 4]
+
+ID: 2226[
+title: ON THE DETERMINANT AND EIGENVALUES OF THE AUTOCORRELATION MATRICES
+score: 4]
+
+ID: 1591[
+title: MODELLING A TWO DIMENSIONAL RIVER INCORPORATING SEDIMENT FLOW
+score: 4]
+
+ID: 1599[
+title: An Integer Programming Algorithm for Stope Layout Optimization
+score: 4]
+
+ID: 2327[
+title: A NEW STATISTICAL TEST BASED ON LINEAR COMPLEXITY PROFILE (LCP)
+score: 4]
+
+ID: 786[
+title: A Novel Equivalent Circuit for Induction Motors under Voltage Fluctuation Conditions
+score: 4]
+
+ID: 1132[
+title: Relationship Between Damage Index and Performance Levels of RC Frames
+score: 4]
+
+ID: 674[
+title: Investigating the Effect of Loading Frequency on the Dynamic Properties of SandTire Powder Mixture Using Shaking Table Tests
+score: 4]
+
+ID: 2466[
+title: Path Design and Control of a Moving Social Robot in an Environment with Moving Obstacles in Order to Reach a Moving Target through Fuzzy Control
+score: 4]
+
+ID: 1375[
+title: Analytical Review of Risk Triggers in the Design Phase of D&B Contracts
+score: 4]
+
+ID: 232[
+title: Solution of Radiative Transfer Equation in Two-Dimensional Media with Real Gas through Zone Method and Box Model
+score: 4]
+
+ID: 2932[
+title: Investigation of electro-osmotic micro-pumps using electrical field gradient and asymmetric micro-electrodes: numerical modeling and experimental validation
+score: 4]
+
+ID: 1582[
+title: COMPUTATION OF CAPACITANCES FOR GAP DISCONTINUITIES AND INTERDIGITATED CAPACITORS IN COPLANAR WAVEGUIDE BY MOMENT METHOD
+score: 4]
+
+ID: 1056[
+title: Three-dimensional Numerical Study of the Effect of Convex Corners on the Displacements Induced by Excavation for Soil-Nailed Walls
+score: 4]
+
+ID: 1502[
+title: FINSLER METRICS OF GENERALIZED ISOTROPIC MEAN BERWALD CURVATURE
+score: 4]
+
+ID: 1822[
+title: Slope Stability Optimization with Non-circular Slip Surface and using Firefly Algorithm, Simulated Annealing and Imperialistic Competitive Algorithm
+score: 3]
+
+ID: 1969[
+title: Developing a Hybrid Optimization Scheduling Model in Construction Projects Using Comparative Analysis of Existing Meta-heuristic Algorithms
+score: 3]
+
+ID: 2484[
+title: Simulation, manufacturing and test of a transparent proton-exchange membrane fuel cell
+score: 3]
+
+ID: 2316[
+title: Variable distance interdigitated electrodes design to improve the performance of cantilever piezoelectric thin films nanogenerators
+score: 3]
+
+ID: 1262[
+title: Algorithms for Computing Limit distributions of Oscillating Systems with Finite Capacity
+score: 3]
+
+ID: 89[
+title: Active fault tolerant control based on adaptive back-stepping nonsingular fast integral terminal sliding mode approach
+score: 3]
+
+ID: 433[
+title: Fault Diagnosis Based on Model and Dynamic Behavior of Vehicle Suspension System
+score: 3]
+
+ID: 153[
+title: A Coupled Thermal Model for Refrigeration Cycle and Cabin of the First Produced Vehicle Based on the National Vehicle Platform
+score: 3]
+
+ID: 1644[
+title: AN IMPROVED EQUIVALENT MAGNETIC CIRCUIT NETWORK METHOD FOR CONSIDERATION OF MOTIONAL EDDY CURRENTS IN A SOLID CONDUTOR
+score: 3]
+
+ID: 493[
+title: Prediction models for estimation of exit hydraulic gradient and uplift pressure under the influence of downstream filter
+score: 3]
+
+ID: 801[
+title: Performance Enhancement of GPS/INS Integrated Navigation System Using Wavelet Based De-noising method
+score: 3]
+
+ID: 1326[
+title: Performance Based Plastic Design of Steel Moment Frame and Comparing It with Force Based Design
+score: 3]
+
+ID: 2080[
+title: Experimental Investigation and Visualization of Flow Boiling Heat Transfer in a Vertical Tube Containing Metal Porous Medium
+score: 3]
+
+ID: 890[
+title: Denoising vibration signals of rotating machines using probability density function, similarity measure and improved thresholding function
+score: 3]
+
+ID: 1624[
+title: Bending and Free Vibration Analysis of Functionally Graded Nano-plate Using Trigonometric Higher-Order Plate Theory
+score: 3]
+
+ID: 184[
+title: Time-Cost-Quality Optimization using an Invasive Weed Algorithm with Activity Preemption in Construction Projects
+score: 3]
+
+ID: 1334[
+title: Numerical Simulation of Transient Compressible Flow in Natural Gas long Transmission Pipelines Using a Suitable Parallel Algorithm
+score: 3]
+
+ID: 1851[
+title: Improving the Milling Machine Stiffness by Optimizing the Internal Stiffeners Layout and the Wall Thickness Distribution of Column
+score: 3]
+
+ID: 376[
+title: Optical Chirality Enhancement in Twisted Arrays of Plasmonic Nano-rods
+score: 3]
+
+ID: 746[
+title: Nonlinear Modeling, Analysis and Design of an Active Antenna in S Frequency Band
+score: 3]
+
+ID: 750[
+title: A Collision-Free Trajectory Planning of a hyper redundant Manipulator Using a Dual Genetic Algorithm
+score: 3]
+
+ID: 2897[
+title: Evaluation of Seismic fragility of infilled frames subject to mainshock/aftershock sequences
+score: 3]
+
+ID: 445[
+title: An Investigation of Fines and Coarse Contents in Granular Mixtures by Using Discrete Element Method
+score: 3]
+
+ID: 1386[
+title: Assessment of social impacts of water demand management policies on wastewater system by using SLCA method
+score: 3]
+
+ID: 2094[
+title: LARGE SHEAR BOX TESTS ON TWO GEOGRID REINF ORCED SOILS
+score: 3]
+
+ID: 2248[
+title: Numerical Simulation of Tip Leakage Flow Structure in the Transonic Axial Compressor in Different Performance Conditions
+score: 3]
+
+ID: 724[
+title: Rain Attenuation Prediction at Ku Band Using Satellite Signal Beacon Measurement in Iran
+score: 3]
+
+ID: 1536[
+title: Study On Compressive Strength Of Microjet Grouting Columns By Physical Model
+score: 3]
+
+ID: 2410[
+title: Computation algorithms of feasible sets and robust feasible sets for constrained linear time-invariant systems parametrized with orthonormal functions
+score: 3]
+
+ID: 830[
+title: Computational Analysis of Unsteady Tip Leakage Flow in an Isolated Axial Compressor Rotor Blade Row
+score: 3]
+
+ID: 2256[
+title: Experimental Study of Cryogenic Cooling Effect on Tool Wear and Power Consumption During Turning of AISI304
+score: 3]
+
+ID: 2552[
+title: Thermodynamic and Thermo-Economic Analysis of the Absorption Heat Transformer, Organic Rankine Cycle, and Reverse Osmosis Desalination Combined System
+score: 2]
+
+ID: 2269[
+title: Evaluating Pavement Roughness Based on Vibration Analysis Due to Road Health Monitoring System
+score: 2]
+
+ID: 592[
+title: A Low Power Low Voltage Rail to Rail Constant gm Differential Amplifier with 150 dB CMRR and Enhanced Frequency Performance
+score: 2]
+
+ID: 1667[
+title: Investigation of vehicle energy demand considering the modified tire power loss
+score: 2]
+
+ID: 1323[
+title: Damage detection in dolphin platform of a wharf by finite element model updating
+score: 2]
+
+ID: 1795[
+title: Investigation on Mechanical Properties of Polyoxymethylene Reinforced by Carbon Nanotube Using Molecular Dynamics
+score: 2]
+
+ID: 1959[
+title: Generalized Predictive Filter for Discrete-Time Linear Systems
+score: 2]
+
+ID: 351[
+title: Attitude Stabilization of Quadrotor Using Adaptive Fuzzy Proportional Integral Derivative Controller
+score: 2]
+
+ID: 881[
+title: Control of the Amount of Oncolytic Virus Injection by Considering Time Delay
+score: 2]
+
+ID: 446[
+title: Adaptive Fusion of Inertial Navigation System and Tracking Radar Data
+score: 2]
+
+ID: 385[
+title: Automatic Discovery of Technology Networks for Industrial-Scale R&D IT Projects via Data Mining
+score: 2]
+
+ID: 415[
+title: A Novel Reconfiguration Mixed with Distributed Generation Planning via Considering Voltage Stability Margin
+score: 2]
+
+ID: 278[
+title: HMAC-Based Authentication Protocol: Attacks and Improvements
+score: 2]
+
+ID: 2511[
+title: Vibration Analysis of Cable-Driven Parallel Robots to Define Critical Speeds
+score: 2]
+
+ID: 1836[
+title: Sensitivity Analysis of Un-lined Underground Spaces under Dynamic Loading using Numerical Methods
+score: 2]
+
+ID: 836[
+title: The Effect of Belt Truss Level on the Performance of Steel High-Rise Buildings Subject to Near Field earthquake
+score: 2]
+
+ID: 2849[
+title: Experimental and Numerical Study on the Seismic Performance of MSE/Soil Nail Hybrid Walls
+score: 2]
+
+ID: 428[
+title: An Experimental Study on the Flashback in a Porous Media
+score: 2]
+
+ID: 1553[
+title: FINITE ELEMENT ANALYSIS OF CYLINDRICAL SHELLS WITH LARGE HOLES
+score: 2]
+
+ID: 1721[
+title: Transient Numerical Analysis of a Tandem Compressor Stage
+score: 2]
+
+ID: 1400[
+title: Design and Development of a New Physical Model of Strip Footings on Reinforced Soil Media under Cyclic Loadings
+score: 2]
+
+ID: 1518[
+title: Optimal Design and Performance Assessment of Viscous Dampers in Steel Frames Based on Life Cycle Cost
+score: 2]
+
+ID: 399[
+title: A New Fairness Index and Novel Approach for QoS-Aware Resource Allocation in LTE Networks Based on Utility Functions
+score: 1]
+
+ID: 762[
+title: A New Job Scheduling in Data Grid Environment Based on Data and Computational Resource Availability
+score: 1]
+
+ID: 199[
+title: A Fuzzy Based Approach for Rate Control in Wireless Multimedia Sensor Networks
+score: 1]
+
+ID: 1437[
+title: Natural Frequency Analysis of Rotating Thin-Walled Beams with Embedded Shape Memory Alloy Wires Subjected to Uniform Temperature Field
+score: 1]
+
+ID: 1743[
+title: A Novel Algorithm for Automatic Parallel Parking a Car Based On Continuous-Curvature Clothoid Path Planning
+score: 1]
+
+ID: 315[
+title: The Study of the Effect of Floating Platform Rotational Disturbance on theAerodynamic Performance of Offshore Wind Turbine in the Presence of Pitch Control System
+score: 1]
+
+ID: 1011[
+title: Free Vibration of Carbon Nanotube and Boron Nitride Nanotube Double-bonded Modified Couple Stress Theory Timoshenko Micro Beams Under Various Physical Fields
+score: 1]
+
+ID: 2575[
+title: Analysis of Regression-Based Models for Prediction of Depth Temperature of Asphalt Layers – A Review
+score: 1]
+
+ID: 1824[
+title: COMPUTER INTRUSION DETECTION AND INCOMPLETE INFORMATION
+score: 1]
+
+ID: 1925[
+title: Delay Determination of Subway Construction Project by Fuzzy MCDM (Case Study, Karaj Subway)
+score: 1]
+
+ID: 2670[
+title: CURING OF HIGH STRENGTH CONCRETE USING LIGHTWEIGHT AGGREGATES
+score: 1]
+
+ID: 1596[
+title: A HYBRID ALGORITHM FOR DISCRETE NONLINEAR OPTIMIZATION
+score: 1]
+
+ID: 1768[
+title: HUMAN RESOURCE PRODUCTIVITY MEASUREMENT AND A PROBLEM SOLVING ALGORITHM
+score: 1]
+
+ID: 703[
+title: Developing a Decision Tree Data Mining Method for detecting the Effective Parameters for Determining the Power of Flood Destruction
+score: 1]
+
+ID: 619[
+title: Performance Study of Untrusted Relay Network Utilizing Cooperative Jammer
+score: 1]
+
+ID: 532[
+title: Actuators redundancy resolution scheme with computational time reduction purpose for parallel cable robots with considering the rupture limits of the cables
+score: 1]
+
+ID: 657[
+title: EXPONENTIALLY METRIC ON FUNCTION SPACES
+score: 1]
+
+ID: 398[
+title: A Clustering Approach to Scientific Workflow Scheduling on the Cloud with Deadline and Cost Constraints
+score: 1]
+
+ID: 2912[
+title: Crystal Plasticity Finite Element Study of Necking Behavior of Aluminum Alloy Sheet Subject to Thickness-Stress
+score: 1]
+
+ID: 784[
+title: The Effects of Using Porosity Profiles on Performance and Emission of Pollutants in the Porous Media Burners
+score: 1]
+
+ID: 603[
+title: Study of Cyclic Behavior of Moment Connection of Beam to Built-up Box Column with Welded Flange Plates and Vertical Rib Plates
+score: 1]
+
+ID: 460[
+title: Turbulent Structures in the Wake of a Wind Turbine Using Large Eddy Simulation
+score: 1]
+
+ID: 2006[
+title: Assessment of Mechanical Properties of Environmentally Friendly Concrete with Emphasis on Selection of Optimal Mix Designs in Terms of Resistance and Economy
+score: 1]
+
+ID: 538[
+title: Stability analysis of shear-thinning flow in narrow gap Taylor–Couette axial flow
+score: 1]
+
+ID: 781[
+title: Dynamic Analysis of Asynchronous Low-Velocity Impacts on Laminated Composite Plate
+score: 1]
+
+ID: 1252[
+title: Future trends in optical fiber communications
+score: 1]
+
+ID: 1914[
+title: Three-dimensional surface capture from the back anatomy to quantify three-dimensional vertebral column curvatures without using anatomical markers
+score: 1]
+
+ID: 2055[
+title: Environmental Sustainability assessment of Industrial Construction Technologies (Case study: In-Situ and Precast Concrete Construction Methods)
+score: 1]
+
+
+
+******************  mvx4PvgAAAAJ *******************
+
+ID: 2204[
+title: Planar Object Manipulation with Multi Fingers Robot Located on a Moving Hand Under Rolling Grasp Constrains
+score: 11]
+
+ID: 635[
+title: Analysis of Corona Wind Effect on Mass Transfer and Energy Consumption in Drying of Moist Object
+score: 10]
+
+ID: 2785[
+title: A SCANNER BASED NEURO-FUZZY TECHNIQUE FOR COLOR EVALUATION OF TEXTILE FABRICS
+score: 9]
+
+ID: 2832[
+title: Estimation of copper titration or calibration from flotation floor using machine image analysis and vision
+score: 7]
+
+ID: 1230[
+title: The Effect of Fatigue on Safety Attitude, Hazard Recognition and Safety Risk Perception among Construction Workers
+score: 7]
+
+ID: 719[
+title: Modeling of the pilot's depth perception algorithm to avoid collisions with obstacles for commercial aircraft landing
+score: 7]
+
+ID: 748[
+title: IIR System Identification Using Improved Harmony Search Algorithm with Chaos
+score: 7]
+
+ID: 958[
+title: Extended Multiple Impedance Control of a Space Robot with Flexible Members
+score: 6]
+
+ID: 1019[
+title: Damage Detection of Structures using Transfer Function and its Singular Values
+score: 6]
+
+ID: 208[
+title: Fluid Flow Modeling in Single Fracture Using Cellular Automata Method
+score: 5]
+
+ID: 2920[
+title: Experimental Extraction of Young's modulus of MCF-7 Breast Cancer Cell Using Spherical Contact Models
+score: 5]
+
+ID: 1245[
+title: Effects of Influence Parameters on Color Formation in Glucose Syrups during Storage
+score: 5]
+
+ID: 343[
+title: LOAD ESTIMATION OF DISTRIBUTION NETWORKS USING INVERSE PCA
+score: 5]
+
+ID: 1959[
+title: Generalized Predictive Filter for Discrete-Time Linear Systems
+score: 5]
+
+ID: 1301[
+title: Computation of Discretization Error Using the Rule of Gradient Recovery and Adaptive Refinement of Elements
+score: 5]
+
+ID: 1917[
+title: Multiple Target Tracking With a 2-D Radar Using the JPDAF Algorithm and Combined Motion Model
+score: 5]
+
+ID: 714[
+title: Presenting a New Method to improve seasonal Monitoring of Karun River Water Surface Temperature using Landsat-8 Satellite images
+score: 5]
+
+ID: 922[
+title: Decentralized Frequency Restoration in Islanded Converter Base Microgrid
+score: 5]
+
+ID: 2641[
+title: Sizing and Geometry Optimization of Truss Structures Using a Hybrid of Gravitational Search Algorithm and Cellular Automata
+score: 4]
+
+ID: 1497[
+title: Pavement cracks detection and classification using deep convolutional networks
+score: 4]
+
+ID: 2766[
+title: OPTIMIZATION OF NEURAL NETWORK USING GENETIC ALGORITHM IN ORDER TO PREDICT RESERVOIR PERMEABILITY
+score: 4]
+
+ID: 510[
+title: ROBUST REGULATION OF A CLASS OF NONLINEAR SYSTEMS USING SINGULAR PERTURBATION APPROACH
+score: 4]
+
+ID: 1572[
+title: Analysis of Residual Material and Machining Error on Straight and Corner Curved Paths in Roughing of WEDM
+score: 4]
+
+ID: 2887[
+title: Probabilistic description of coarse particle motion above threshold by particle tracking velocimetry method in an experimental study
+score: 4]
+
+ID: 2441[
+title: The continuous water temperature monitoring by using Acoustic Tomography Technology
+score: 4]
+
+ID: 2018[
+title: Increasing the Sensitivity of SiO2/Al Micro Cantilever Infrared Detector Based on Micro Electromechanical Systems Technology by Optimizing of Dimensions
+score: 4]
+
+ID: 437[
+title: An Adaptive Congestion Alleviating Protocol for Healthcare Applications in Wireless Body Sensor Networks: Learning Automata Approach
+score: 3]
+
+ID: 13[
+title: Adaptive Optimum Notch Filter for Periodic Noise Reduction in Digital Images
+score: 3]
+
+ID: 2780[
+title: Modified Variable Structure Estimation and Control for Constrained Landing on Mars
+score: 3]
+
+ID: 1109[
+title: Investigation of Macro- Geometric and Micro- Geometric Modification on the Static Transmission Error and Load Sharing Factor of Helical Gears
+score: 3]
+
+ID: 650[
+title: Production of Artificial Stone from Dimension Stone Waste
+score: 3]
+
+ID: 2778[
+title: A FAST AND SOFT VOICE ACTIVITY DETECTOR USING GARCH MODEL AND MARKOV MODEL CHAIN
+score: 3]
+
+ID: 637[
+title: Analytical Solution of Heat Transfer in LaserIrradiated Skin Tissue with Surface Heat Convection Using Dual Phase Lag Model
+score: 2]
+
+ID: 707[
+title: Image-based numerical model for drug delivery to solid tumors
+score: 2]
+
+ID: 2241[
+title: AN EFFICIENT METHOD FOR DAM-RESERVIOR SEISMIC INTERACTION ANALYSIS
+score: 2]
+
+ID: 2695[
+title: THE DESIGN AND IMPLEMENTATION OF A NOVELL METHOD FOR AUTMOATIC 3D OBJECT EXTRACTION IN COMPUTER VISION
+score: 2]
+
+ID: 2910[
+title: A New Machine Learning Method for Ball Bearing Condition Monitoring
+score: 2]
+
+ID: 493[
+title: Prediction models for estimation of exit hydraulic gradient and uplift pressure under the influence of downstream filter
+score: 2]
+
+ID: 2943[
+title: Robust and adaptive control of an exoskeleton robot for tracking modified desired trajectory based on zero momentum point stability theory
+score: 2]
+
+ID: 9[
+title: Spatial Elasticity Tensor in Eulerian Rate Type Constitutive Equations
+score: 2]
+
+ID: 911[
+title: Fast SFFS-Based Algorithm for Feature Selection in Biomedical Datasets
+score: 2]
+
+ID: 870[
+title: APPLICATION OF TACTILE SENSING IN DETERMINING CHARACTERISTICS OF BIOLOGICAL TISSUES
+score: 2]
+
+ID: 2415[
+title: Designing a New Intelligent Image Processing Algorithm for Traffic Sign Detection and Recognition Based on Fuzzy Logic
+score: 2]
+
+ID: 1801[
+title: Comparison of Artificial Neural Network Methods for Modeling of Turning of Polymer Matrix Composite
+score: 1]
+
+ID: 2363[
+title: Presentation of a new surface drainage assessment method based on image processing
+score: 1]
+
+ID: 2286[
+title: APPLICATION OF EXPERT SYSTEMS IN DAMAGE ASSESSMENT OF REINFORCED CONCRETE STRUCTURES
+score: 1]
+
+ID: 2448[
+title: Numerical Investigation of a Pulse-Jet Filter Cleaning System Performance
+score: 1]
+
+ID: 89[
+title: Active fault tolerant control based on adaptive back-stepping nonsingular fast integral terminal sliding mode approach
+score: 1]
+
+ID: 288[
+title: Optimal Urban Flood Management Using Spatial Multi Criteria Decision Making Approach
+score: 1]
+
+ID: 372[
+title: Simulation of Position Based Visual Control and Performance Tests of 6R Robot
+score: 1]
+
+ID: 1591[
+title: MODELLING A TWO DIMENSIONAL RIVER INCORPORATING SEDIMENT FLOW
+score: 1]
+
+
+
+******************  RV_QfCsAAAAJ *******************
+
+ID: 2725[
+title: A NEW OPTIMIZATION METHOD BY RING PROBABILISTIC LOGIC NEURAL NETWORKS
+score: 39]
+
+ID: 469[
+title: A Hybrid Meta-heuristic Algorithm for the Vehicle Routing Problem with Simultaneous Delivery and Pick-up
+score: 22]
+
+ID: 1209[
+title: PATH DELAY FAULTS CATEGORIZATION IN ASYNCHRONOUS CIRCUITS
+score: 20]
+
+ID: 1044[
+title: SIMULATION OF THE CARDIOVASCULAR SYSTEM USING EQUIVALENT ELECTRONIC CIRCUIT WITH ACTIVE ELEMENTS
+score: 19]
+
+ID: 1396[
+title: Grinding Circuit at Mouteh Gold Mine
+score: 18]
+
+ID: 1702[
+title: A deadlock free routing algorithm for a modular type packet switching system
+score: 17]
+
+ID: 437[
+title: An Adaptive Congestion Alleviating Protocol for Healthcare Applications in Wireless Body Sensor Networks: Learning Automata Approach
+score: 15]
+
+ID: 1210[
+title: APPLICATION OF JUZZY LOGIC CONTROLLERS IN TRAFFIC MANAGEMENT OF COMMUNICATION NETWORKS
+score: 12]
+
+ID: 344[
+title: A NEW METHOD FOR OPTIMAL PLACEMENT OF STATCOM USING GENETIC ALGORITHMS AND CONTINUATION POWER FLOW
+score: 11]
+
+ID: 1558[
+title: NONDISCIPLINARY SYNTHESIS IN MECHATRONICS ILIZING BOND GRAPH TECHNIQUES
+score: 11]
+
+ID: 871[
+title: A NOVEL FUZZY LOGIC CONTROLLER FOR A BOOST POWER FACTOR CORRECTOR
+score: 10]
+
+ID: 786[
+title: A Novel Equivalent Circuit for Induction Motors under Voltage Fluctuation Conditions
+score: 10]
+
+ID: 52[
+title: A Sub-Optimal Look-Up Table Based on Fuzzy System to Enhance the Reliability of Coriolis Mass Flow Meter
+score: 9]
+
+ID: 2707[
+title: OPTIMAL SAMPLING DESIGN FOR MODEL CALIBRATION USING GENETIC ALGORITHM: A CASE STUDY
+score: 9]
+
+ID: 588[
+title: Genetic Optimizing of Hard Computing vs Soft Computing for MR Damper Modeling and Proposing an Invertible Pseudo Static Model
+score: 8]
+
+ID: 746[
+title: Nonlinear Modeling, Analysis and Design of an Active Antenna in S Frequency Band
+score: 8]
+
+ID: 493[
+title: Prediction models for estimation of exit hydraulic gradient and uplift pressure under the influence of downstream filter
+score: 8]
+
+ID: 1718[
+title: Gear wear’s fault diagnosis in tail gearbox of helicopter: using K nearest neighbor recognition pattern
+score: 5]
+
+ID: 2745[
+title: A FUZZY GENETIC METHOD TO PREDICT AIR DEMAND DOWNSTREAM OF BOTTOM OUTLET GATES
+score: 5]
+
+ID: 1857[
+title: Optimizing the Weight of 3D Steel structures by spectrum dynamic analysis and soft computing algorithm
+score: 5]
+
+ID: 604[
+title: Reducing the Power Consumption in Flash ADC Using 65nm CMOS Technology
+score: 5]
+
+ID: 1712[
+title: Overcoming some of the problems associated with the design of warp knitted fabrics by the use of a computer aided design
+score: 5]
+
+ID: 1840[
+title: Computer based optimisation of underground mining area
+score: 5]
+
+ID: 934[
+title: Crack identification in postbuckled plates using differential quadrature element method and sequential quadratic programming
+score: 5]
+
+ID: 873[
+title: Optimal operation of reservoirs with increasing water use efficiency: Climate change adaptation approach (case study: Jareh Dam)
+score: 5]
+
+ID: 411[
+title: Developing Robust Project Scheduling Methods for Uncertain Parameters
+score: 5]
+
+ID: 2326[
+title: Developing a Bidirectional Evolutionary Topology Algorithm for Continuum Structures with the Objective Functions of Stiffness and Fundamental Frequency with Geometrical Symmetry Constraint
+score: 5]
+
+ID: 543[
+title: Markovian Delay Prediction-Based Control of Networked Systems
+score: 5]
+
+ID: 2755[
+title: DETERMINATION OF CRIMP INDEXES OF FALSE TWIST AND KNIT DE KNIT TEXTURED YARNS USING COMPUTER VISION
+score: 5]
+
+ID: 398[
+title: A Clustering Approach to Scientific Workflow Scheduling on the Cloud with Deadline and Cost Constraints
+score: 5]
+
+ID: 2483[
+title: Effect of microstructure features on the mechanical properties of spheroidized steel by crystal plasticity method.
+score: 5]
+
+ID: 217[
+title: FPGA Implementation of a Hammerstein Based Digital Predistorter for Linearizing RF Power Amplifiers with Memory Effects
+score: 5]
+
+ID: 1599[
+title: An Integer Programming Algorithm for Stope Layout Optimization
+score: 4]
+
+ID: 1821[
+title: Dynamics simulation algorithms of industrial robots
+score: 4]
+
+ID: 2381[
+title: COMPUTER VISION AIDED FABRIC INSPECTION SYSTEM FOR ON-CIRCULARKNITTING MACHINE
+score: 4]
+
+ID: 385[
+title: Automatic Discovery of Technology Networks for Industrial-Scale R&D IT Projects via Data Mining
+score: 4]
+
+ID: 684[
+title: Single-objective and multi-objective design of optimal control systems by Genetic programming and its comparison with analytical solution of Riccati equation
+score: 4]
+
+ID: 2144[
+title: ON PRIOR PARAMETER ESTIMATION FOR BAYESIAN ADAPTATION OF CONTINUOUS DENSITY HIDDEN MARKOV MODELS
+score: 4]
+
+ID: 1647[
+title: OPTIMUM STRUCTURAL DESIGN OF SPILLWAY RADIAL GATE BY FINITE ELEMENT METHODS
+score: 4]
+
+ID: 834[
+title: Optimal Economic of Water Allocation Using EA and ICA Evolutionary Algorithms
+score: 4]
+
+ID: 1345[
+title: Investigating the effect of Portland cement and Nano-clay on the collapse potential and consolidation indexes of the collapsible soil
+score: 4]
+
+ID: 2818[
+title: A NEW THRESHOLD MULTI SECRET SHARING SCHEME
+score: 4]
+
+ID: 1621[
+title: Influences of Viscoelasticity and Streaming Potential on Surface Reaction Kinetics in Micro reactors
+score: 4]
+
+ID: 22[
+title: Local Density of States؛ Tight binding Model؛ Surface Energy؛ Recursion Method
+score: 4]
+
+ID: 1582[
+title: COMPUTATION OF CAPACITANCES FOR GAP DISCONTINUITIES AND INTERDIGITATED CAPACITORS IN COPLANAR WAVEGUIDE BY MOMENT METHOD
+score: 4]
+
+ID: 56[
+title: Secure Collaborative Spectrum Sensing in the Presence of Primary User Emulation Attack in Cognitive Radio Networks
+score: 3]
+
+ID: 2765[
+title: SYNTHESIS AND APPLICATION OF NOVEL MONOAZO DISPERSE DYES BASED ON N-ESTER-1,8- NAPHTHALIMIDE ON POLYESTER
+score: 3]
+
+ID: 2033[
+title: Numerical Study of Deep Excavations Stability with Nailing Method: Representation of Help Design Tables and Diagrams
+score: 3]
+
+ID: 2690[
+title: NUCLEAR MAGNETIC RESONANCE STUDY OF CHARGE TRANSFER COMPLEX FORMATION BETWEEN SILVER NITRATE AND BENZYLCYANIDE IN SOLVENT ETHYLENE GLYCOL
+score: 3]
+
+ID: 703[
+title: Developing a Decision Tree Data Mining Method for detecting the Effective Parameters for Determining the Power of Flood Destruction
+score: 3]
+
+ID: 558[
+title: Strapdown Attitude Estimation Using IMU and Altimeter Integration for Maneuvering Vehicles
+score: 3]
+
+ID: 2327[
+title: A NEW STATISTICAL TEST BASED ON LINEAR COMPLEXITY PROFILE (LCP)
+score: 3]
+
+ID: 1326[
+title: Performance Based Plastic Design of Steel Moment Frame and Comparing It with Force Based Design
+score: 3]
+
+ID: 67[
+title: Calibration of Witczak and Modified Witczak Models for Prediction of Dynamic Modulus of In-Service Asphalt Layers
+score: 3]
+
+ID: 580[
+title: Pareto Optimal Design Of Decoupled Sliding Mode Control Based On A New Multi-Objective Particle Swarm Optimization Algorithm
+score: 3]
+
+ID: 1244[
+title: PD Controller Design with H¥ Performance for Linear Systems with Input Delay
+score: 3]
+
+ID: 120[
+title: Synthesis of Optimal Heat-Integrated Distillation Columns Sequence with Mathematical Programming method based on Superstructure Optimization
+score: 3]
+
+ID: 2927[
+title: Investigating the effect of Automated Vehicles and Connected and Automated Vehicles on the capacity of freeways using microscopic simulation
+score: 3]
+
+ID: 395[
+title: A New Mathematical Model for Cloud Flame Structure with Premixed Organic Particles
+score: 3]
+
+ID: 724[
+title: Rain Attenuation Prediction at Ku Band Using Satellite Signal Beacon Measurement in Iran
+score: 3]
+
+ID: 1173[
+title: Site Layout Optimization and its Impact on the Cost of Construction Projects
+score: 2]
+
+ID: 2669[
+title: SYMMETRIC CURVATURE IN LIFTING METRICS
+score: 2]
+
+ID: 1693[
+title: Scale Effect Aspects for Correlation CPT Data in Foundation Analysis and Design
+score: 2]
+
+ID: 203[
+title: Large deflection of Flexible Functionally Graded Beams with Geometric Non-linearity: Analytical Approach
+score: 2]
+
+ID: 1959[
+title: Generalized Predictive Filter for Discrete-Time Linear Systems
+score: 2]
+
+ID: 941[
+title: Time-Mode Signal Quantization for Use in Sigma-Delta Modulators
+score: 2]
+
+ID: 1596[
+title: A HYBRID ALGORITHM FOR DISCRETE NONLINEAR OPTIMIZATION
+score: 2]
+
+ID: 1969[
+title: Developing a Hybrid Optimization Scheduling Model in Construction Projects Using Comparative Analysis of Existing Meta-heuristic Algorithms
+score: 2]
+
+ID: 391[
+title: Use of Stochastic Turbulence Models in Jet Acoustics
+score: 2]
+
+ID: 1644[
+title: AN IMPROVED EQUIVALENT MAGNETIC CIRCUIT NETWORK METHOD FOR CONSIDERATION OF MOTIONAL EDDY CURRENTS IN A SOLID CONDUTOR
+score: 2]
+
+ID: 2712[
+title: INVESTIGATION THE PHYSICAL PROPERTIES OF RUBBER CONCRETE
+score: 2]
+
+ID: 108[
+title: Experimental Investigation of Heat Transfer Enhancement by Acoustic Streaming in a Closed Cylindrical Enclosure
+score: 2]
+
+ID: 50[
+title: Centralized Clustering Method To Increase Accuracy In Ontology Matching Systems
+score: 2]
+
+ID: 276[
+title: Multipath Node-Disjoint Routing with Backup List Based on the AODV Protocol
+score: 2]
+
+ID: 2492[
+title: Shahrekord earthquake risk assessment by neuro-fuzzy way method using seismic evaluation of structures
+score: 1]
+
+ID: 1256[
+title: Design of a Fuzzy Controller Chip with New Structure, Supporting Rational-Powered Membership Functions
+score: 1]
+
+ID: 2484[
+title: Simulation, manufacturing and test of a transparent proton-exchange membrane fuel cell
+score: 1]
+
+ID: 1366[
+title: A FRAMEWORK FOR REPRESENTATION OF NEGOTIATION SCENARIOS
+score: 1]
+
+ID: 1605[
+title: An Artificial Neural Network Approach for Modeling and Prediction of Energy Consumption in a Seawater Greenhouse
+score: 1]
+
+ID: 2575[
+title: Analysis of Regression-Based Models for Prediction of Depth Temperature of Asphalt Layers – A Review
+score: 1]
+
+ID: 2626[
+title: Optimal design of groynes with hydraulic, technical and economic criteria
+score: 1]
+
+ID: 762[
+title: A New Job Scheduling in Data Grid Environment Based on Data and Computational Resource Availability
+score: 1]
+
+ID: 1270[
+title: Comparison of Project Delivery Methods in Iran(Owner Attitude)
+score: 1]
+
+ID: 1130[
+title: Robust Adaptive Backstepping Control of a Nonlinear System with Uncertainty, Disturbance and Unknown Time Delay
+score: 1]
+
+ID: 1911[
+title: Analytical model for the non-premixed combustion of titanium dust cloud in counter-flow geometry
+score: 1]
+
+ID: 538[
+title: Stability analysis of shear-thinning flow in narrow gap Taylor–Couette axial flow
+score: 1]
+
+ID: 2665[
+title: Stability analysis of predictive approachin networked control systems using theory of switching systems
+score: 1]
+
